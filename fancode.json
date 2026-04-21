@@ -2,24 +2,12 @@
   "Author": "Sayan Official ™",
   "Telegram": "https://t.me/Sayan_xyz",
   "name": "Sayan FanCode API",
-  "last_updated": "22/4/2026, 1:31:36 am IST",
+  "last_updated": "22/4/2026, 2:33:01 am IST",
   "cache_ttl_min": 15,
-  "total_matches": 35,
-  "live_count": 5,
+  "total_matches": 34,
+  "live_count": 4,
   "upcoming_count": 30,
   "live_matches": [
-    {
-      "type": "live",
-      "match_id": "141952",
-      "tournament": "West Indies Championship 2026 Windward Islands Volcanoes Guyana",
-      "match": "Windward Islands Volcanoes vs Guyana Harpy Eagles",
-      "category": "Other",
-      "language": "English",
-      "status": "Not Started",
-      "image": "https://images.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-      "match_url": "https://www.fancode.com/windward-islands-volcanoes-vs-guyana-harpy-eagles/tour/west-indies-championship-2026-19582590/matches/windward-islands-volcanoes-vs-guyana-harpy-eagles-141952/live-match-info",
-      "stream_url": ""
-    },
     {
       "type": "live",
       "match_id": "141951",
@@ -163,19 +151,6 @@
     },
     {
       "type": "upcoming",
-      "match_id": "141580",
-      "tournament": "Al-Nassr FC vs Al Ahli (QAT) (AFC Champions League Two 2025-26)",
-      "match": "Al-Nassr FC vs Al Ahli (QAT)",
-      "category": "Football",
-      "language": "English",
-      "status": "Not Started",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AFC--(Al-Nassr)-vs-(Al-Ahli-SC)--old.jpg",
-      "match_url": "",
-      "startTime": "22 April 2026 09:30 PM",
-      "stream_url": ""
-    },
-    {
-      "type": "upcoming",
       "match_id": "131152",
       "tournament": "FC Barcelona vs RC Celta (LALIGA 2025-26)",
       "match": "FC Barcelona vs RC Celta",
@@ -185,6 +160,19 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/131152_5427_BAR_CEV_FC-Web.png",
       "match_url": "",
       "startTime": "23 April 2026 01:00 AM",
+      "stream_url": ""
+    },
+    {
+      "type": "upcoming",
+      "match_id": "141580",
+      "tournament": "Al-Nassr FC vs Al Ahli (QAT) (AFC Champions League Two 2025-26)",
+      "match": "Al-Nassr FC vs Al Ahli (QAT)",
+      "category": "Football",
+      "language": "English",
+      "status": "Not Started",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/AFC--(Al-Nassr)-vs-(Al-Ahli-SC)--old.jpg",
+      "match_url": "",
+      "startTime": "22 April 2026 09:30 PM",
       "stream_url": ""
     },
     {
