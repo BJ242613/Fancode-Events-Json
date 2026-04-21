@@ -2,10 +2,10 @@
   "Author": "Sayan Official ™",
   "Telegram": "https://t.me/Sayan_xyz",
   "name": "Sayan FanCode API",
-  "last_updated": "22/4/2026, 2:33:01 am IST",
+  "last_updated": "22/4/2026, 3:27:07 am IST",
   "cache_ttl_min": 15,
-  "total_matches": 34,
-  "live_count": 4,
+  "total_matches": 32,
+  "live_count": 2,
   "upcoming_count": 30,
   "live_matches": [
     {
@@ -22,18 +22,6 @@
     },
     {
       "type": "live",
-      "match_id": "142186",
-      "tournament": "EFL Championship 2025-26 Leicester City F.C.",
-      "match": "Leicester City F C vs Hull City",
-      "category": "Football",
-      "language": "English",
-      "status": "started",
-      "image": "https://images.fancode.com/aig/match/v1776773188197/142186_CASACARDS_APP.png",
-      "match_url": "https://www.fancode.com/leicester-city-f-c-vs-hull-city/tour/efl-championship-2025-26-18835060/matches/leicester-city-f-c-vs-hull-city-142186/live-match-info",
-      "stream_url": "https://fancode-india-sonu.pages.dev/api/142186_english_sayan.m3u8"
-    },
-    {
-      "type": "live",
       "match_id": "131158",
       "tournament": "LALIGA 2025-26 Girona FC",
       "match": "Girona Fc vs Real Betis",
@@ -43,18 +31,6 @@
       "image": "https://images.fancode.com/skillup-uploads/cms-media/131158_5427_GIR_RB_FC-Web.png",
       "match_url": "https://www.fancode.com/girona-fc-vs-real-betis/tour/laliga-2025-26-18801700/matches/girona-fc-vs-real-betis-131158/live-match-info",
       "stream_url": "https://fancode-india-sonu.pages.dev/api/131158_english_sayan.m3u8"
-    },
-    {
-      "type": "live",
-      "match_id": "131156",
-      "tournament": "LALIGA 2025-26 Real Madrid",
-      "match": "Real Madrid vs Deportivo Alaves",
-      "category": "Football",
-      "language": "English",
-      "status": "started",
-      "image": "https://images.fancode.com/skillup-uploads/cms-media/131156_5427_RM_ALA_FC-Web.png",
-      "match_url": "https://www.fancode.com/real-madrid-vs-deportivo-alaves/tour/laliga-2025-26-18801700/matches/real-madrid-vs-deportivo-alaves-131156/live-match-info",
-      "stream_url": "https://fancode-india-sonu.pages.dev/api/131156_english_sayan.m3u8"
     }
   ],
   "upcoming_matches": [
