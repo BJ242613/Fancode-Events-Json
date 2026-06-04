@@ -3,51 +3,18 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Prime-Sonu",
   "name": "FanCode Live Matches API",
-  "updatedAt": "4/6/2026, 11:58:35 pm",
+  "updatedAt": "5/6/2026, 12:14:10 am",
   "_meta": {
-    "source_updated": "11:49:04 PM 04-06-2026"
+    "source_updated": "12:07:01 AM 05-06-2026"
   },
   "headers": {
     "User-Agent": "ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 49,
-  "live_matches": 6,
-  "upcoming_matches": 43,
+  "live_matches": 5,
+  "upcoming_matches": 44,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Gujarat Diamonds Vs Mumbai Marines",
-      "tournament": "Big Cricket League Season 2",
-      "match_id": 142986,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "04 June 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/142986_6094_GD_MM_FC-WEB_1780318028474.jpg",
-      "teams": [
-        {
-          "name": "Gujarat Diamonds",
-          "shortName": "GD",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GD@2x.png"
-        },
-        {
-          "name": "Mumbai Marines",
-          "shortName": "MM",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MM@2x.png"
-        }
-      ],
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/142986_english_hls_ec74c2bfdf64749_1ta-di_h264/index.m3u8",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/142986_english_hls_ec74c2bfdf64749_1ta-di_h264/index.m3u8",
-        "sony_cdn": "Unavailable",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/142986_english_hls_ec74c2bfdf64749_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/142986_english_hls_ec74c2bfdf64749_1ta-di_h264/index.m3u8"
-        }
-      }
-    },
     {
       "category": "Golf",
       "title": "Main Feed   Day 1",
@@ -604,6 +571,36 @@
       }
     },
     {
+      "category": "Formula 1",
+      "title": "Practice 1",
+      "tournament": "F1 LOUIS VUITTON GRAND PRIX DE MONACO 2026",
+      "match_id": 139447,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "05 June 2026 05:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1780077657830.png",
+      "teams": [
+        {
+          "name": "Practice 1",
+          "shortName": "P1",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png"
+        },
+        {
+          "name": "Monaco",
+          "shortName": "Monaco",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Sri Lanka Vs West Indies",
       "tournament": "Sri Lanka tour of West Indies 2026",
@@ -621,36 +618,6 @@
         {
           "name": "West Indies",
           "shortName": "WI",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Pakistan Women Vs West Indies Women",
-      "tournament": "Women's T20I Tri-Series in Ireland 2026",
-      "match_id": 143056,
-      "status": "COMPLETED",
-      "streamingStatus": "COMPLETED",
-      "startTime": "03 June 2026 08:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women's-T20I-Tri-Series_fc-web.jpg",
-      "teams": [
-        {
-          "name": "Pakistan Women",
-          "shortName": "PK-W",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png"
-        },
-        {
-          "name": "West Indies Women",
-          "shortName": "WI-W",
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png"
         }
       ],
@@ -695,6 +662,36 @@
     },
     {
       "category": "Cricket",
+      "title": "Gujarat Diamonds Vs Mumbai Marines",
+      "tournament": "Big Cricket League Season 2",
+      "match_id": 142986,
+      "status": "COMPLETED",
+      "streamingStatus": "COMPLETED",
+      "startTime": "04 June 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/142986_6094_GD_MM_FC-WEB_1780318028474.jpg",
+      "teams": [
+        {
+          "name": "Gujarat Diamonds",
+          "shortName": "GD",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GD@2x.png"
+        },
+        {
+          "name": "Mumbai Marines",
+          "shortName": "MM",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MM@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
       "title": "Ireland Women Vs Pakistan Women",
       "tournament": "Women's T20I Tri-Series in Ireland 2026",
       "match_id": 143057,
@@ -712,36 +709,6 @@
           "name": "Pakistan Women",
           "shortName": "PK-W",
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Formula 1",
-      "title": "Practice 1",
-      "tournament": "F1 LOUIS VUITTON GRAND PRIX DE MONACO 2026",
-      "match_id": 139447,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "05 June 2026 05:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1780077657830.png",
-      "teams": [
-        {
-          "name": "Practice 1",
-          "shortName": "P1",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png"
-        },
-        {
-          "name": "Monaco",
-          "shortName": "Monaco",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
@@ -1235,14 +1202,25 @@
     },
     {
       "category": "Cricket",
-      "title": "Gujarat Diamonds Vs Mumbai Marines",
-      "tournament": "Big Cricket League Season 2",
-      "match_id": 142986,
-      "status": "STARTED",
-      "streamingStatus": "",
-      "startTime": "04 June 2026 07:00 PM",
-      "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-      "teams": [],
+      "title": "Canada Vs Usa",
+      "tournament": "ICC CWC League 2 Canada, 2026",
+      "match_id": 143195,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "06 June 2026 08:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143195_6110_CAN_USA_fc-web.jpg",
+      "teams": [
+        {
+          "name": "Canada",
+          "shortName": "CAN",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png"
+        },
+        {
+          "name": "USA",
+          "shortName": "USA",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png"
+        }
+      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -1375,6 +1353,25 @@
       "streamingStatus": "",
       "startTime": "05 June 2026 12:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Moto_GP.jpg",
+      "teams": [],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "Court Philippe Chatrier",
+      "tournament": "Roland Garros 2026",
+      "match_id": 142727,
+      "status": "NOT_STARTED",
+      "streamingStatus": "",
+      "startTime": "05 June 2026 02:30 PM",
+      "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
       "teams": [],
       "language": "BLOODY_SWEET",
       "streams": {
