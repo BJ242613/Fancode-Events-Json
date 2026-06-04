@@ -3,9 +3,9 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Prime-Sonu",
   "name": "FanCode Live Matches API",
-  "updatedAt": "5/6/2026, 1:26:06 am",
+  "updatedAt": "5/6/2026, 2:27:49 am",
   "_meta": {
-    "source_updated": "01:21:05 AM 05-06-2026"
+    "source_updated": "01:42:06 AM 05-06-2026"
   },
   "headers": {
     "User-Agent": "ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
@@ -38,9 +38,9 @@
       ],
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-plive.fancode.com/mumbai/143106_english_hls_c914a6d6e626017_1ta-di_h264/index.m3u8",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143106_english_hls_c914a6d6e626017_1ta-di_h264/index.m3u8",
         "dai_cdn": "Unavailable",
-        "fancode_cdn": "https://in-mc-plive.fancode.com/mumbai/143106_english_hls_c914a6d6e626017_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143106_english_hls_c914a6d6e626017_1ta-di_h264/index.m3u8",
         "sony_cdn": "Unavailable",
         "backup": {
           "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143106_english_hls_c914a6d6e626017_1ta-di_h264/index.m3u8",
@@ -71,9 +71,9 @@
       ],
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143108_english_hls_083eafe92058106_1ta-di_h264/index.m3u8",
+        "primary": "https://in-mc-plive.fancode.com/mumbai/143108_english_hls_083eafe92058106_1ta-di_h264/index.m3u8",
         "dai_cdn": "Unavailable",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143108_english_hls_083eafe92058106_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-plive.fancode.com/mumbai/143108_english_hls_083eafe92058106_1ta-di_h264/index.m3u8",
         "sony_cdn": "Unavailable",
         "backup": {
           "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143108_english_hls_083eafe92058106_1ta-di_h264/index.m3u8",
@@ -691,6 +691,36 @@
       }
     },
     {
+      "category": "Motorsports",
+      "title": "Qualifying Session",
+      "tournament": "F2 MONACO 2026",
+      "match_id": 139555,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "05 June 2026 06:40 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Australia_web.jpg",
+      "teams": [
+        {
+          "name": "Qualifying Session",
+          "shortName": "Qualifying Session",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png"
+        },
+        {
+          "name": "Monaco",
+          "shortName": "Monaco",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Gujarat Diamonds Vs Mumbai Marines",
       "tournament": "Big Cricket League Season 2",
@@ -739,36 +769,6 @@
           "name": "Pakistan Women",
           "shortName": "PK-W",
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Motorsports",
-      "title": "Qualifying Session",
-      "tournament": "F2 MONACO 2026",
-      "match_id": 139555,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "05 June 2026 06:40 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Australia_web.jpg",
-      "teams": [
-        {
-          "name": "Qualifying Session",
-          "shortName": "Qualifying Session",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png"
-        },
-        {
-          "name": "Monaco",
-          "shortName": "Monaco",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
