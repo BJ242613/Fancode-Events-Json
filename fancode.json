@@ -3,81 +3,48 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Prime-Sonu",
   "name": "FanCode Live Matches API",
-  "updatedAt": "4/6/2026, 6:23:48 pm",
+  "updatedAt": "4/6/2026, 6:49:33 pm",
   "_meta": {
-    "source_updated": "06:21:03 PM 04-06-2026"
+    "source_updated": "06:49:05 PM 04-06-2026"
   },
   "headers": {
     "User-Agent": "ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
-  "total_matches": 54,
+  "total_matches": 53,
   "live_matches": 6,
-  "upcoming_matches": 48,
+  "upcoming_matches": 47,
   "matches": [
     {
       "category": "Cricket",
-      "title": "Speen Ghar Region Vs Amo Region",
-      "tournament": "Supercola Regional List A Tournament, 2026",
-      "match_id": 142754,
+      "title": "Gujarat Diamonds Vs Mumbai Marines",
+      "tournament": "Big Cricket League Season 2",
+      "match_id": 142986,
       "status": "LIVE",
       "streamingStatus": "STARTED",
-      "startTime": "04 June 2026 10:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
+      "startTime": "04 June 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/142986_6094_GD_MM_FC-WEB_1780318028474.jpg",
       "teams": [
         {
-          "name": "Speen Ghar Region",
-          "shortName": "SG",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPG@2x.png"
+          "name": "Gujarat Diamonds",
+          "shortName": "GD",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GD@2x.png"
         },
         {
-          "name": "Amo Region",
-          "shortName": "AM",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AM@2x.png"
+          "name": "Mumbai Marines",
+          "shortName": "MM",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MM@2x.png"
         }
       ],
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/142754_english_hls_7f49ed2c0042522_1ta-di_h264/index.m3u8",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/142986_english_hls_ec74c2bfdf64749_1ta-di_h264/index.m3u8",
         "dai_cdn": "Unavailable",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/142754_english_hls_7f49ed2c0042522_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/142986_english_hls_ec74c2bfdf64749_1ta-di_h264/index.m3u8",
         "sony_cdn": "Unavailable",
         "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/142754_english_hls_7f49ed2c0042522_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/142754_english_hls_7f49ed2c0042522_1ta-di_h264/index.m3u8"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Malwa Stallions Vs Chambal Ghariyals",
-      "tournament": "Madhya Pradesh League T20, 2026",
-      "match_id": 143059,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "04 June 2026 03:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1780469022419/143059_CASACARDS_APP.png",
-      "teams": [
-        {
-          "name": "Malwa Stallions",
-          "shortName": "MWS",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-MAL@2x.png"
-        },
-        {
-          "name": "Chambal Ghariyals",
-          "shortName": "CGS",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png"
-        }
-      ],
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143059_english_hls_4141a7fe3582193_1ta-di_h264/index.m3u8",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143059_english_hls_4141a7fe3582193_1ta-di_h264/index.m3u8",
-        "sony_cdn": "Unavailable",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143059_english_hls_4141a7fe3582193_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143059_english_hls_4141a7fe3582193_1ta-di_h264/index.m3u8"
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/142986_english_hls_ec74c2bfdf64749_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/142986_english_hls_ec74c2bfdf64749_1ta-di_h264/index.m3u8"
         }
       }
     },
@@ -347,23 +314,23 @@
     },
     {
       "category": "Cricket",
-      "title": "Gujarat Diamonds Vs Mumbai Marines",
-      "tournament": "Big Cricket League Season 2",
-      "match_id": 142986,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "04 June 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/142986_6094_GD_MM_FC-WEB_1780318028474.jpg",
+      "title": "Speen Ghar Region Vs Amo Region",
+      "tournament": "Supercola Regional List A Tournament, 2026",
+      "match_id": 142754,
+      "status": "LIVE",
+      "streamingStatus": "COMPLETED",
+      "startTime": "04 June 2026 10:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
       "teams": [
         {
-          "name": "Gujarat Diamonds",
-          "shortName": "GD",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GD@2x.png"
+          "name": "Speen Ghar Region",
+          "shortName": "SG",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPG@2x.png"
         },
         {
-          "name": "Mumbai Marines",
-          "shortName": "MM",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MM@2x.png"
+          "name": "Amo Region",
+          "shortName": "AM",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AM@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
@@ -407,36 +374,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Northern Challengers Vs Up Brij Stars",
-      "tournament": "Big Cricket League Season 2",
-      "match_id": 142987,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "05 June 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/142987_6094_NC_UPBS_FC-WEB_1780318028422.jpg",
-      "teams": [
-        {
-          "name": "Northern Challengers",
-          "shortName": "NC",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NC@2x.png"
-        },
-        {
-          "name": "UP Brij Stars",
-          "shortName": "UPBS",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UPBS@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
       "title": "Bhopal Leopards Vs Indore Pink Panthers",
       "tournament": "Madhya Pradesh League T20, 2026",
       "match_id": 143060,
@@ -454,6 +391,36 @@
           "name": "Indore Pink Panthers",
           "shortName": "IPP",
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IPP@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Northern Challengers Vs Up Brij Stars",
+      "tournament": "Big Cricket League Season 2",
+      "match_id": 142987,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "05 June 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/142987_6094_NC_UPBS_FC-WEB_1780318028422.jpg",
+      "teams": [
+        {
+          "name": "Northern Challengers",
+          "shortName": "NC",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NC@2x.png"
+        },
+        {
+          "name": "UP Brij Stars",
+          "shortName": "UPBS",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UPBS@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
@@ -586,36 +553,6 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "Ujjain Falcons Vs Malwa Stallions",
-      "tournament": "Madhya Pradesh League T20, 2026",
-      "match_id": 143062,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "05 June 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1780469022394/143062_CASACARDS_APP.png",
-      "teams": [
-        {
-          "name": "Ujjain Falcons",
-          "shortName": "UJF",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-UJF@2x.png"
-        },
-        {
-          "name": "Malwa Stallions",
-          "shortName": "MWS",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-MAL@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
       "category": "Golf",
       "title": "Marquee Feed   Day 1",
       "tournament": "the Memorial Tournament presented by Workday 2026",
@@ -634,6 +571,36 @@
           "name": "Muirfield Village Golf Club - Dublin, Ohio ",
           "shortName": "Muirfield Village Golf Club - Dublin, Ohio ",
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Ujjain Falcons Vs Malwa Stallions",
+      "tournament": "Madhya Pradesh League T20, 2026",
+      "match_id": 143062,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "05 June 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1780469022394/143062_CASACARDS_APP.png",
+      "teams": [
+        {
+          "name": "Ujjain Falcons",
+          "shortName": "UJF",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-UJF@2x.png"
+        },
+        {
+          "name": "Malwa Stallions",
+          "shortName": "MWS",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-MAL@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
@@ -1367,12 +1334,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Amo Region Vs Speen Ghar Region",
-      "tournament": "Supercola Regional List A Tournament, 2026",
-      "match_id": 142754,
+      "title": "Gujarat Diamonds Vs Mumbai Marines",
+      "tournament": "Big Cricket League Season 2",
+      "match_id": 142986,
       "status": "STARTED",
       "streamingStatus": "",
-      "startTime": "04 June 2026 10:00 AM",
+      "startTime": "04 June 2026 07:00 PM",
       "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
       "teams": [],
       "language": "BLOODY_SWEET",
@@ -1443,12 +1410,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Gujarat Diamonds Vs Mumbai Marines",
-      "tournament": "Big Cricket League Season 2",
-      "match_id": 142986,
-      "status": "NOT_STARTED",
+      "title": "Amo Region Vs Speen Ghar Region",
+      "tournament": "Supercola Regional List A Tournament, 2026",
+      "match_id": 142754,
+      "status": "COMPLETED",
       "streamingStatus": "",
-      "startTime": "04 June 2026 07:00 PM",
+      "startTime": "04 June 2026 10:00 AM",
       "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
       "teams": [],
       "language": "BLOODY_SWEET",
