@@ -3,24 +3,24 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Prime-Sonu",
   "name": "FanCode Live Matches API",
-  "updatedAt": "5/6/2026, 2:51:07 pm",
+  "updatedAt": "5/6/2026, 3:24:29 pm",
   "_meta": {
-    "source_updated": "02:49:09 PM 05-06-2026"
+    "source_updated": "03:21:05 PM 05-06-2026"
   },
   "headers": {
     "User-Agent": "ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 48,
-  "live_matches": 5,
-  "upcoming_matches": 43,
+  "live_matches": 6,
+  "upcoming_matches": 42,
   "matches": [
     {
       "category": "Cricket",
       "title": "Northern Challengers Vs Up Brij Stars",
       "tournament": "Big Cricket League Season 2",
       "match_id": 142987,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "05 June 2026 02:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/142987_6094_NC_UPBS_FC-WEB_1780318028422.jpg",
@@ -53,7 +53,7 @@
       "title": "Bhopal Wolves Women Vs Gwalior Shernis",
       "tournament": "Madhya Pradesh League T20 Women's 2026",
       "match_id": 143021,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "05 June 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
@@ -177,6 +177,39 @@
         "backup": {
           "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/139713_english_hls_fe70e6fa3015017_1ta-di_h264/index.m3u8",
           "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/139713_english_hls_fe70e6fa3015017_1ta-di_h264/index.m3u8"
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "Court Simonne Mathieu",
+      "tournament": "Roland Garros 2026",
+      "match_id": 142725,
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "startTime": "05 June 2026 03:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+      "teams": [
+        {
+          "name": "Court Simonne-Mathieu",
+          "shortName": "Court Simonne-Mathieu",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png"
+        },
+        {
+          "name": "Paris",
+          "shortName": "Paris",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+        }
+      ],
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://dai.google.com/linear/hls/event/WXZSUDTrR_qEtB80K6n8fg/master.m3u8",
+        "dai_cdn": "https://dai.google.com/linear/hls/event/WXZSUDTrR_qEtB80K6n8fg/master.m3u8",
+        "fancode_cdn": "Unavailable",
+        "sony_cdn": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/master.m3u8",
+        "backup": {
+          "fancode_cdn": "Unavailable",
+          "fancode_dai_cdn": "Unavailable"
         }
       }
     },
@@ -319,36 +352,6 @@
           "name": "Akcel United Brussels",
           "shortName": "AUB",
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AU@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "Court Simonne Mathieu",
-      "tournament": "Roland Garros 2026",
-      "match_id": 142725,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "05 June 2026 03:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-      "teams": [
-        {
-          "name": "Court Simonne-Mathieu",
-          "shortName": "Court Simonne-Mathieu",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png"
-        },
-        {
-          "name": "Paris",
-          "shortName": "Paris",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
@@ -1209,6 +1212,25 @@
       }
     },
     {
+      "category": "Tennis",
+      "title": "Court Simonne Mathieu",
+      "tournament": "Roland Garros 2026",
+      "match_id": 142725,
+      "status": "STARTED",
+      "streamingStatus": "",
+      "startTime": "05 June 2026 03:30 PM",
+      "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
+      "teams": [],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
       "category": "Cricket",
       "title": "Mp Tigers Vs Southern Spartans",
       "tournament": "Big Cricket League Season 2",
@@ -1255,25 +1277,6 @@
       "streamingStatus": "",
       "startTime": "06 June 2026 04:00 PM",
       "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-      "teams": [],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "Court Simonne Mathieu",
-      "tournament": "Roland Garros 2026",
-      "match_id": 142725,
-      "status": "NOT_STARTED",
-      "streamingStatus": "",
-      "startTime": "05 June 2026 03:30 PM",
-      "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/default_sporty_image.png",
       "teams": [],
       "language": "BLOODY_SWEET",
       "streams": {
