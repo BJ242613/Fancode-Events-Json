@@ -3,16 +3,16 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Prime-Sonu",
   "name": "FanCode Live Matches API",
-  "updatedAt": "5/6/2026, 3:24:29 pm",
+  "updatedAt": "5/6/2026, 3:40:44 pm",
   "_meta": {
-    "source_updated": "03:21:05 PM 05-06-2026"
+    "source_updated": "03:28:01 PM 05-06-2026"
   },
   "headers": {
     "User-Agent": "ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
-  "total_matches": 48,
-  "live_matches": 6,
+  "total_matches": 47,
+  "live_matches": 5,
   "upcoming_matches": 42,
   "matches": [
     {
@@ -144,39 +144,6 @@
         "backup": {
           "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/139948_english_hls_f8a35d06ab79402_1ta-di_h264/index.m3u8",
           "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/139948_english_hls_f8a35d06ab79402_1ta-di_h264/index.m3u8"
-        }
-      }
-    },
-    {
-      "category": "Motorsports",
-      "title": "Qualifying Session",
-      "tournament": "F3 MONACO 2026",
-      "match_id": 139713,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "05 June 2026 02:35 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Australia_web.jpg",
-      "teams": [
-        {
-          "name": "Qualifying Session",
-          "shortName": "Qualifying Session",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png"
-        },
-        {
-          "name": "Monaco",
-          "shortName": "Monaco",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
-        }
-      ],
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/139713_english_hls_fe70e6fa3015017_1ta-di_h264/index.m3u8",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139713_english_hls_fe70e6fa3015017_1ta-di_h264/index.m3u8",
-        "sony_cdn": "Unavailable",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/139713_english_hls_fe70e6fa3015017_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/139713_english_hls_fe70e6fa3015017_1ta-di_h264/index.m3u8"
         }
       }
     },
@@ -815,6 +782,36 @@
     },
     {
       "category": "Cricket",
+      "title": "Indore Pink Panthers Vs Jabalpur Royal Lions",
+      "tournament": "Madhya Pradesh League T20, 2026",
+      "match_id": 143064,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "06 June 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1780469022397/143064_CASACARDS_APP.png",
+      "teams": [
+        {
+          "name": "Indore Pink Panthers",
+          "shortName": "IPP",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IPP@2x.png"
+        },
+        {
+          "name": "Jabalpur Royal Lions",
+          "shortName": "JRL",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JRL@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
       "title": "Speen Ghar Region Vs Amo Region",
       "tournament": "Supercola Regional List A Tournament, 2026",
       "match_id": 142754,
@@ -892,36 +889,6 @@
           "name": "Pakistan Women",
           "shortName": "PK-W",
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Indore Pink Panthers Vs Jabalpur Royal Lions",
-      "tournament": "Madhya Pradesh League T20, 2026",
-      "match_id": 143064,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "06 June 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1780469022397/143064_CASACARDS_APP.png",
-      "teams": [
-        {
-          "name": "Indore Pink Panthers",
-          "shortName": "IPP",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IPP@2x.png"
-        },
-        {
-          "name": "Jabalpur Royal Lions",
-          "shortName": "JRL",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JRL@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
@@ -1175,6 +1142,36 @@
     },
     {
       "category": "Cricket",
+      "title": "West Indies Vs Sri Lanka",
+      "tournament": "Sri Lanka tour of West Indies 2026",
+      "match_id": 142973,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "07 June 2026 01:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png",
+      "teams": [
+        {
+          "name": "West Indies",
+          "shortName": "WI",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png"
+        },
+        {
+          "name": "Sri Lanka",
+          "shortName": "SL",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
       "title": "Northern Challengers Vs Up Brij Stars",
       "tournament": "Big Cricket League Season 2",
       "match_id": 142987,
@@ -1334,25 +1331,6 @@
       "streamingStatus": "",
       "startTime": "05 June 2026 03:00 PM",
       "image": "https://images.fancode.com/aig/match/v1780469022398/143061_CASACARDS_APP.png",
-      "teams": [],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Motorsports",
-      "title": "Formula 3",
-      "tournament": "F3 MONACO 2026",
-      "match_id": 139713,
-      "status": "STARTED",
-      "streamingStatus": "",
-      "startTime": "05 June 2026 02:35 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Australia_web.jpg",
       "teams": [],
       "language": "BLOODY_SWEET",
       "streams": {
