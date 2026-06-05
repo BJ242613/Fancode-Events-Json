@@ -3,51 +3,18 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Prime-Sonu",
   "name": "FanCode Live Matches API",
-  "updatedAt": "6/6/2026, 12:00:37 am",
+  "updatedAt": "6/6/2026, 12:11:28 am",
   "_meta": {
-    "source_updated": "11:49:04 PM 05-06-2026"
+    "source_updated": "12:07:01 AM 06-06-2026"
   },
   "headers": {
     "User-Agent": "ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
-  "total_matches": 47,
-  "live_matches": 6,
-  "upcoming_matches": 41,
+  "total_matches": 38,
+  "live_matches": 5,
+  "upcoming_matches": 33,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Ujjain Falcons Vs Malwa Stallions",
-      "tournament": "Madhya Pradesh League T20, 2026",
-      "match_id": 143062,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "05 June 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1780469022394/143062_CASACARDS_APP.png",
-      "teams": [
-        {
-          "name": "Ujjain Falcons",
-          "shortName": "UJF",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-UJF@2x.png"
-        },
-        {
-          "name": "Malwa Stallions",
-          "shortName": "MWS",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-MAL@2x.png"
-        }
-      ],
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143062_english_hls_bc3bd0258c28250_1ta-di_h264/index.m3u8",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143062_english_hls_bc3bd0258c28250_1ta-di_h264/index.m3u8",
-        "sony_cdn": "Unavailable",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143062_english_hls_bc3bd0258c28250_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143062_english_hls_bc3bd0258c28250_1ta-di_h264/index.m3u8"
-        }
-      }
-    },
     {
       "category": "Golf",
       "title": "Main Feed   Day 2",
@@ -664,6 +631,36 @@
       }
     },
     {
+      "category": "Football",
+      "title": "Brazil Vs Egypt",
+      "tournament": "International Friendlies 2026",
+      "match_id": 141609,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "07 June 2026 03:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "teams": [
+        {
+          "name": "Brazil",
+          "shortName": "BRZ",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BRA@2x.png"
+        },
+        {
+          "name": "Egypt",
+          "shortName": "EGY",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-EGYP@2x.png"
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
       "category": "Tennis",
       "title": "Court Philippe Chatrier",
       "tournament": "Roland Garros 2026",
@@ -802,36 +799,6 @@
           "name": "Stade Roland Garros Paris, France",
           "shortName": "Stade Roland Garros Paris, France",
           "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Brazil Vs Egypt",
-      "tournament": "International Friendlies 2026",
-      "match_id": 141609,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "07 June 2026 03:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "teams": [
-        {
-          "name": "Brazil",
-          "shortName": "BRZ",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BRA@2x.png"
-        },
-        {
-          "name": "Egypt",
-          "shortName": "EGY",
-          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-EGYP@2x.png"
         }
       ],
       "language": "BLOODY_SWEET",
@@ -1174,167 +1141,26 @@
       }
     },
     {
-      "category": "Golf",
-      "title": "Main Feed   Day 2",
-      "tournament": "the Memorial Tournament presented by Workday 2026",
-      "match_id": 143109,
-      "status": "STARTED",
-      "streamingStatus": "",
-      "startTime": "05 June 2026 05:15 PM",
-      "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Golf.jpg",
-      "teams": [],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "Featured Groups   Day 2",
-      "tournament": "the Memorial Tournament presented by Workday 2026",
-      "match_id": 143111,
-      "status": "STARTED",
-      "streamingStatus": "",
-      "startTime": "05 June 2026 07:30 PM",
-      "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Golf.jpg",
-      "teams": [],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "Marquee Feed   Day 2",
-      "tournament": "the Memorial Tournament presented by Workday 2026",
-      "match_id": 143110,
-      "status": "STARTED",
-      "streamingStatus": "",
-      "startTime": "05 June 2026 07:45 PM",
-      "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Golf.jpg",
-      "teams": [],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "World Feed   Day 2",
-      "tournament": "the Memorial Tournament presented by Workday 2026",
-      "match_id": 143047,
-      "status": "STARTED",
-      "streamingStatus": "",
-      "startTime": "05 June 2026 11:30 PM",
-      "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Golf.jpg",
-      "teams": [],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
       "category": "Cricket",
-      "title": "Gujarat Diamonds Vs Up Brij Stars",
-      "tournament": "Big Cricket League Season 2",
-      "match_id": 142989,
+      "title": "Gwalior Shernis Vs Bundelkhand Bulls Women",
+      "tournament": "Madhya Pradesh League T20 Women's 2026",
+      "match_id": 143024,
       "status": "NOT_STARTED",
-      "streamingStatus": "",
-      "startTime": "06 June 2026 02:00 PM",
-      "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-      "teams": [],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Jb Bruges Vs Akcel United Brussels",
-      "tournament": "EUT20 Belgium, 2026",
-      "match_id": 143149,
-      "status": "NOT_STARTED",
-      "streamingStatus": "",
-      "startTime": "06 June 2026 04:00 PM",
-      "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-      "teams": [],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Mumbai Marines Vs Northern Challengers",
-      "tournament": "Big Cricket League Season 2",
-      "match_id": 142990,
-      "status": "NOT_STARTED",
-      "streamingStatus": "",
-      "startTime": "06 June 2026 07:00 PM",
-      "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-      "teams": [],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Ujjain Falcons Vs Malwa Stallions",
-      "tournament": "Madhya Pradesh League T20, 2026",
-      "match_id": 143062,
-      "status": "STARTED",
-      "streamingStatus": "",
-      "startTime": "05 June 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1780469022394/143062_CASACARDS_APP.png",
-      "teams": [],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "Day 2",
-      "tournament": "US Women's Open 2026",
-      "match_id": 143230,
-      "status": "STARTED",
-      "streamingStatus": "",
-      "startTime": "05 June 2026 11:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1780397699490.png",
-      "teams": [],
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "07 June 2026 09:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
+      "teams": [
+        {
+          "name": "Gwalior Shernis",
+          "shortName": "GWS",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GSW@2x.png"
+        },
+        {
+          "name": "Bundelkhand Bulls Women",
+          "shortName": "BBW",
+          "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png"
+        }
+      ],
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
