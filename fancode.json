@@ -3,16 +3,16 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Prime-Sonu",
   "name": "FanCode Live Matches API",
-  "updatedAt": "13/6/2026, 10:58:46 pm",
+  "updatedAt": "14/6/2026, 3:33:39 am",
   "_meta": {
-    "source_updated": "10:42:01 PM 13-06-2026"
+    "source_updated": "02:35:02 AM 14-06-2026"
   },
   "headers": {
     "User-Agent": "ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
-  "total_matches": 14,
-  "live_matches": 7,
+  "total_matches": 8,
+  "live_matches": 1,
   "upcoming_matches": 7,
   "matches": [
     {
@@ -33,36 +33,6 @@
         {
           "name": "Sri Lanka",
           "shortName": "SL",
-          "flag": ""
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Formula 1",
-      "title": "Qualifying",
-      "tournament": "F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA ",
-      "match_id": 139455,
-      "status": "COMPLETED",
-      "streamingStatus": "COMPLETED",
-      "startTime": "13 June 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_F1-racing.jpg",
-      "teams": [
-        {
-          "name": "Qualifying",
-          "shortName": "QF",
-          "flag": ""
-        },
-        {
-          "name": "Barcelona",
-          "shortName": "LOC",
           "flag": ""
         }
       ],
@@ -107,22 +77,52 @@
     },
     {
       "category": "Formula 1",
-      "title": "Practice 3",
+      "title": "Qualifying",
       "tournament": "F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA ",
-      "match_id": 139454,
+      "match_id": 139455,
       "status": "COMPLETED",
       "streamingStatus": "COMPLETED",
-      "startTime": "13 June 2026 04:00 PM",
+      "startTime": "13 June 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_F1-racing.jpg",
       "teams": [
         {
-          "name": "Practice 3",
-          "shortName": "P3",
+          "name": "Qualifying",
+          "shortName": "QF",
           "flag": ""
         },
         {
           "name": "Barcelona",
           "shortName": "LOC",
+          "flag": ""
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Gujarat Diamonds Vs Up Brij Stars",
+      "tournament": "Big Cricket League Season 2",
+      "match_id": 143001,
+      "status": "COMPLETED",
+      "streamingStatus": "COMPLETED",
+      "startTime": "13 June 2026 07:00 PM",
+      "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+      "teams": [
+        {
+          "name": "Gujarat Diamonds",
+          "shortName": "GD",
+          "flag": ""
+        },
+        {
+          "name": "UP Brij Stars",
+          "shortName": "UPBS",
           "flag": ""
         }
       ],
@@ -226,108 +226,6 @@
       }
     },
     {
-      "category": "Cricket",
-      "title": "Akcel United Brussels Vs Jb Bruges",
-      "tournament": "EUT20 Belgium, 2026",
-      "match_id": 143165,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "13 June 2026 08:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143149_6108_JB_AUB_FC-Web.png",
-      "teams": [
-        {
-          "name": "Akcel United Brussels",
-          "shortName": "AUB",
-          "flag": ""
-        },
-        {
-          "name": "JB Bruges",
-          "shortName": "JB",
-          "flag": ""
-        }
-      ],
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143165_english_hls_dd8ec33c8244577_1ta-di_h264/index.m3u8",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143165_english_hls_dd8ec33c8244577_1ta-di_h264/index.m3u8",
-        "sony_cdn": "Unavailable",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143165_english_hls_dd8ec33c8244577_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143165_english_hls_dd8ec33c8244577_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143165_english_hls_dd8ec33c8244577_1ta-di_h264/index.m3u8"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Chambal Ghariyals Women Vs Gwalior Shernis",
-      "tournament": "Madhya Pradesh League T20 Women's 2026",
-      "match_id": 143029,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "13 June 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
-      "teams": [
-        {
-          "name": "Chambal Ghariyals Women",
-          "shortName": "CGW",
-          "flag": ""
-        },
-        {
-          "name": "Gwalior Shernis",
-          "shortName": "GWS",
-          "flag": ""
-        }
-      ],
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143029_english_hls_cdf0829ede43143_1ta-di_h264/index.m3u8",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143029_english_hls_cdf0829ede43143_1ta-di_h264/index.m3u8",
-        "sony_cdn": "Unavailable",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143029_english_hls_cdf0829ede43143_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143029_english_hls_cdf0829ede43143_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143029_english_hls_cdf0829ede43143_1ta-di_h264/index.m3u8"
-        }
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "Day 3   Featured Groups",
-      "tournament": "RBC Canadian Open 2026",
-      "match_id": 143215,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "13 June 2026 05:45 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-      "teams": [
-        {
-          "name": "Day 3 - Featured Groups",
-          "shortName": "PGA",
-          "flag": ""
-        },
-        {
-          "name": "TPC Toronto at Osprey Valley, Caledo,  Ontario",
-          "shortName": "LOC",
-          "flag": ""
-        }
-      ],
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143215_english_hls_8321a85b5037369_1ta-di_h264/index.m3u8",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143215_english_hls_8321a85b5037369_1ta-di_h264/index.m3u8",
-        "sony_cdn": "Unavailable",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143215_english_hls_8321a85b5037369_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143215_english_hls_8321a85b5037369_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143215_english_hls_8321a85b5037369_1ta-di_h264/index.m3u8"
-        }
-      }
-    },
-    {
       "category": "Golf",
       "title": "Day 3   World Feed",
       "tournament": "RBC Canadian Open 2026",
@@ -358,108 +256,6 @@
           "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143211_english_hls_a5dcdcfec075369_1ta-di_h264/index.m3u8",
           "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143211_english_hls_a5dcdcfec075369_1ta-di_h264/index.m3u8",
           "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143211_english_hls_a5dcdcfec075369_1ta-di_h264/index.m3u8"
-        }
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "Day 3   Main Feed",
-      "tournament": "RBC Canadian Open 2026",
-      "match_id": 143212,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "13 June 2026 04:45 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-      "teams": [
-        {
-          "name": "Day 3 - Main Feed",
-          "shortName": "PGA",
-          "flag": ""
-        },
-        {
-          "name": "TPC Toronto at Osprey Valley, Caledo, Ontario",
-          "shortName": "LOC",
-          "flag": ""
-        }
-      ],
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143212_english_hls_0d4606e0e075894_1ta-di_h264/index.m3u8",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143212_english_hls_0d4606e0e075894_1ta-di_h264/index.m3u8",
-        "sony_cdn": "Unavailable",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143212_english_hls_0d4606e0e075894_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143212_english_hls_0d4606e0e075894_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143212_english_hls_0d4606e0e075894_1ta-di_h264/index.m3u8"
-        }
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "Day 3   Featured Holes",
-      "tournament": "RBC Canadian Open 2026",
-      "match_id": 143214,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "13 June 2026 05:45 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-      "teams": [
-        {
-          "name": "Day 3 - Featured Holes",
-          "shortName": "PGA",
-          "flag": ""
-        },
-        {
-          "name": "TPC Toronto at Osprey Valley, Caledo,  Ontario",
-          "shortName": "LOC",
-          "flag": ""
-        }
-      ],
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143214_english_hls_b98294f93a8901_1ta-di_h264/index.m3u8",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143214_english_hls_b98294f93a8901_1ta-di_h264/index.m3u8",
-        "sony_cdn": "Unavailable",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143214_english_hls_b98294f93a8901_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143214_english_hls_b98294f93a8901_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143214_english_hls_b98294f93a8901_1ta-di_h264/index.m3u8"
-        }
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "Day 3   Marquee Group",
-      "tournament": "RBC Canadian Open 2026",
-      "match_id": 143213,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "13 June 2026 05:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-      "teams": [
-        {
-          "name": "Day 3 - Marquee Group",
-          "shortName": "PGA",
-          "flag": ""
-        },
-        {
-          "name": "TPC Toronto at Osprey Valley, Caledo,  Ontario",
-          "shortName": "LOC",
-          "flag": ""
-        }
-      ],
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143213_english_hls_a7c01dd75382674_1ta-di_h264/index.m3u8",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143213_english_hls_a7c01dd75382674_1ta-di_h264/index.m3u8",
-        "sony_cdn": "Unavailable",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143213_english_hls_a7c01dd75382674_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143213_english_hls_a7c01dd75382674_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143213_english_hls_a7c01dd75382674_1ta-di_h264/index.m3u8"
         }
       }
     }
