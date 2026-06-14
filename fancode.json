@@ -3,25 +3,25 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Prime-Sonu",
   "name": "FanCode Live Matches API",
-  "updatedAt": "14/6/2026, 3:33:39 am",
+  "updatedAt": "14/6/2026, 9:29:08 am",
   "_meta": {
-    "source_updated": "02:35:02 AM 14-06-2026"
+    "source_updated": "05:35:02 AM 14-06-2026"
   },
   "headers": {
     "User-Agent": "ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
-  "total_matches": 8,
+  "total_matches": 7,
   "live_matches": 1,
-  "upcoming_matches": 7,
+  "upcoming_matches": 6,
   "matches": [
     {
       "category": "Cricket",
       "title": "West Indies Vs Sri Lanka",
       "tournament": "Sri Lanka tour of West Indies 2026",
       "match_id": 142976,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
+      "status": "PRE_LIVE",
+      "streamingStatus": "STARTED",
       "startTime": "14 June 2026 06:00 AM",
       "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
       "teams": [
@@ -36,13 +36,17 @@
           "flag": ""
         }
       ],
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/142976_english_hls_32abf1ee6040415_1ta-di_h264/index.m3u8",
         "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/142976_english_hls_32abf1ee6040415_1ta-di_h264/index.m3u8",
         "sony_cdn": "Unavailable",
-        "backup": {}
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/142976_english_hls_32abf1ee6040415_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/142976_english_hls_32abf1ee6040415_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/142976_english_hls_32abf1ee6040415_1ta-di_h264/index.m3u8"
+        }
       }
     },
     {
@@ -63,66 +67,6 @@
         {
           "name": "Australia",
           "shortName": "AUS",
-          "flag": ""
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Formula 1",
-      "title": "Qualifying",
-      "tournament": "F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA ",
-      "match_id": 139455,
-      "status": "COMPLETED",
-      "streamingStatus": "COMPLETED",
-      "startTime": "13 June 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_F1-racing.jpg",
-      "teams": [
-        {
-          "name": "Qualifying",
-          "shortName": "QF",
-          "flag": ""
-        },
-        {
-          "name": "Barcelona",
-          "shortName": "LOC",
-          "flag": ""
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "dai_cdn": "Unavailable",
-        "fancode_cdn": "",
-        "sony_cdn": "Unavailable",
-        "backup": {}
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Gujarat Diamonds Vs Up Brij Stars",
-      "tournament": "Big Cricket League Season 2",
-      "match_id": 143001,
-      "status": "COMPLETED",
-      "streamingStatus": "COMPLETED",
-      "startTime": "13 June 2026 07:00 PM",
-      "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-      "teams": [
-        {
-          "name": "Gujarat Diamonds",
-          "shortName": "GD",
-          "flag": ""
-        },
-        {
-          "name": "UP Brij Stars",
-          "shortName": "UPBS",
           "flag": ""
         }
       ],
@@ -196,6 +140,36 @@
       }
     },
     {
+      "category": "Formula 1",
+      "title": "Qualifying",
+      "tournament": "F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA ",
+      "match_id": 139455,
+      "status": "COMPLETED",
+      "streamingStatus": "COMPLETED",
+      "startTime": "13 June 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_F1-racing.jpg",
+      "teams": [
+        {
+          "name": "Qualifying",
+          "shortName": "QF",
+          "flag": ""
+        },
+        {
+          "name": "Barcelona",
+          "shortName": "LOC",
+          "flag": ""
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "dai_cdn": "Unavailable",
+        "fancode_cdn": "",
+        "sony_cdn": "Unavailable",
+        "backup": {}
+      }
+    },
+    {
       "category": "Cricket",
       "title": "West Indies Vs Sri Lanka",
       "tournament": "Sri Lanka tour of West Indies 2026",
@@ -226,37 +200,33 @@
       }
     },
     {
-      "category": "Golf",
-      "title": "Day 3   World Feed",
-      "tournament": "RBC Canadian Open 2026",
-      "match_id": 143211,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "13 June 2026 10:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
+      "category": "Cricket",
+      "title": "Gujarat Diamonds Vs Up Brij Stars",
+      "tournament": "Big Cricket League Season 2",
+      "match_id": 143001,
+      "status": "COMPLETED",
+      "streamingStatus": "COMPLETED",
+      "startTime": "13 June 2026 07:00 PM",
+      "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
       "teams": [
         {
-          "name": "Day 3 - World Feed",
-          "shortName": "PGA",
+          "name": "Gujarat Diamonds",
+          "shortName": "GD",
           "flag": ""
         },
         {
-          "name": "TPC Toronto at Osprey Valley, Caledo,  Ontario",
-          "shortName": "LOC",
+          "name": "UP Brij Stars",
+          "shortName": "UPBS",
           "flag": ""
         }
       ],
-      "language": "ENGLISH",
+      "language": "BLOODY_SWEET",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143211_english_hls_a5dcdcfec075369_1ta-di_h264/index.m3u8",
+        "primary": "",
         "dai_cdn": "Unavailable",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143211_english_hls_a5dcdcfec075369_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "",
         "sony_cdn": "Unavailable",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143211_english_hls_a5dcdcfec075369_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143211_english_hls_a5dcdcfec075369_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143211_english_hls_a5dcdcfec075369_1ta-di_h264/index.m3u8"
-        }
+        "backup": {}
       }
     }
   ]
