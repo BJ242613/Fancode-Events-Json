@@ -3,11 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "15/6/2026, 10:02:09 pm",
-  "_src_updated": "10:00:02 PM 15-06-2026",
+  "updatedAt": "15/6/2026, 10:37:50 pm",
+  "_src_updated": "10:21:02 PM 15-06-2026",
   "total_matches": 40,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -80,43 +80,6 @@
           "cookie": "hdntl=Expires=1781617447~_GO=Generated~acl=/mumbai/143177_english_hls_09792ffa0b26753_1ta-di_h264/*~Signature=ATZ0w6fId95yZ8N9FqfzpAQ5kcPp-OKChFhG41Po0M9y2QpIRYIejVQJotUg-Ejq93YGDgMS_PFhUsxub2jSaODQonEG",
           "expires": "1781617447",
           "expire_date": "Tuesday, June 16, 2026, 7:14:07 PM"
-        }
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 1   World Feed",
-      "tournament": "ATP 500 - Terra Wortmann Open 2026",
-      "match_id": 143254,
-      "status": "LIVE",
-      "startTime": "15 June 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143254_english_hls_c3b91c57a837215_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143254_english_hls_c3b91c57a837215_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143254_english_hls_c3b91c57a837215_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143254_english_hls_c3b91c57a837215_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143254_english_hls_c3b91c57a837215_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143254_english_hls_c3b91c57a837215_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143254_english_hls_c3b91c57a837215_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143254_english_hls_c3b91c57a837215_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143254_english_hls_c3b91c57a837215_1ta-di_h264/240p.m3u8?hdntl=Expires=1781616371~_GO=Generated~acl=/mumbai/143254_english_hls_c3b91c57a837215_1ta-di_h264/*~Signature=ATZ0w6fZWIZNevKtYqQ5jY7ZYMco4ITnl6gnZj30hYnPa9q8kOdH_Mc-hfC_nmBC8zOEO8Gk8thwOgA-r8CWyBK6aOkD",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143254_english_hls_c3b91c57a837215_1ta-di_h264/360p.m3u8?hdntl=Expires=1781616371~_GO=Generated~acl=/mumbai/143254_english_hls_c3b91c57a837215_1ta-di_h264/*~Signature=ATZ0w6fZWIZNevKtYqQ5jY7ZYMco4ITnl6gnZj30hYnPa9q8kOdH_Mc-hfC_nmBC8zOEO8Gk8thwOgA-r8CWyBK6aOkD",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143254_english_hls_c3b91c57a837215_1ta-di_h264/480p.m3u8?hdntl=Expires=1781616371~_GO=Generated~acl=/mumbai/143254_english_hls_c3b91c57a837215_1ta-di_h264/*~Signature=ATZ0w6fZWIZNevKtYqQ5jY7ZYMco4ITnl6gnZj30hYnPa9q8kOdH_Mc-hfC_nmBC8zOEO8Gk8thwOgA-r8CWyBK6aOkD",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143254_english_hls_c3b91c57a837215_1ta-di_h264/540p.m3u8?hdntl=Expires=1781616371~_GO=Generated~acl=/mumbai/143254_english_hls_c3b91c57a837215_1ta-di_h264/*~Signature=ATZ0w6fZWIZNevKtYqQ5jY7ZYMco4ITnl6gnZj30hYnPa9q8kOdH_Mc-hfC_nmBC8zOEO8Gk8thwOgA-r8CWyBK6aOkD",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143254_english_hls_c3b91c57a837215_1ta-di_h264/720p.m3u8?hdntl=Expires=1781616371~_GO=Generated~acl=/mumbai/143254_english_hls_c3b91c57a837215_1ta-di_h264/*~Signature=ATZ0w6fZWIZNevKtYqQ5jY7ZYMco4ITnl6gnZj30hYnPa9q8kOdH_Mc-hfC_nmBC8zOEO8Gk8thwOgA-r8CWyBK6aOkD",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143254_english_hls_c3b91c57a837215_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781616371~_GO=Generated~acl=/mumbai/143254_english_hls_c3b91c57a837215_1ta-di_h264/*~Signature=ATZ0w6fZWIZNevKtYqQ5jY7ZYMco4ITnl6gnZj30hYnPa9q8kOdH_Mc-hfC_nmBC8zOEO8Gk8thwOgA-r8CWyBK6aOkD"
-          },
-          "cookie": "hdntl=Expires=1781616371~_GO=Generated~acl=/mumbai/143254_english_hls_c3b91c57a837215_1ta-di_h264/*~Signature=ATZ0w6fZWIZNevKtYqQ5jY7ZYMco4ITnl6gnZj30hYnPa9q8kOdH_Mc-hfC_nmBC8zOEO8Gk8thwOgA-r8CWyBK6aOkD",
-          "expires": "1781616371",
-          "expire_date": "Tuesday, June 16, 2026, 6:56:11 PM"
         }
       }
     },
@@ -827,6 +790,25 @@
       "title": "Atp 500   Terra Wortmann Open 2026",
       "tournament": "ATP 500 - Terra Wortmann Open 2026",
       "match_id": 143260,
+      "status": "UPCOMING",
+      "startTime": "18 June 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp 500   Terra Wortmann Open 2026",
+      "tournament": "ATP 500 - Terra Wortmann Open 2026",
+      "match_id": 143259,
       "status": "UPCOMING",
       "startTime": "18 June 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
