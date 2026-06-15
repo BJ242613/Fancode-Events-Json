@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="143175" tvg-name="Stockholm City Vs Malmo Mavericks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1781181025063.png" group-title="Cricket",Stockholm City Vs Malmo Mavericks [Nordic Smash T20 Cup, 2026]
+#EXTINF:-1 tvg-id="143175" tvg-name="Malmo Mavericks Vs Stockholm City" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png" group-title="Cricket",Malmo Mavericks Vs Stockholm City [Nordic Smash T20 Cup, 2026]
 https://in-mc-flive.fancode.com/mumbai/143175_english_hls_89a433fd2895536_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143033" tvg-name="Patiala Panthers Vs Amritsar Alligators" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143033_6095_PPA_AAL_fc-app.jpg" group-title="Cricket",Patiala Panthers Vs Amritsar Alligators [Punjab T10 2026]
+https://in-mc-flive.fancode.com/mumbai/143033_english_hls_6eaf85683c44894_1ta-di_h264/index.m3u8
