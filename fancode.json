@@ -3,49 +3,12 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "17/6/2026, 11:36:58 pm",
-  "_src_updated": "11:35:02 PM 17-06-2026",
+  "updatedAt": "18/6/2026, 12:22:50 am",
+  "_src_updated": "12:00:03 AM 18-06-2026",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 0,
+  "upcoming_matches": 40,
   "matches": [
-    {
-      "category": "Tennis",
-      "title": "Day 3   World Feed",
-      "tournament": "ATP 500 - Terra Wortmann Open 2026",
-      "match_id": 143258,
-      "status": "LIVE",
-      "startTime": "17 June 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143258_english_hls_0dddadeef981240_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143258_english_hls_0dddadeef981240_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143258_english_hls_0dddadeef981240_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143258_english_hls_0dddadeef981240_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143258_english_hls_0dddadeef981240_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143258_english_hls_0dddadeef981240_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143258_english_hls_0dddadeef981240_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143258_english_hls_0dddadeef981240_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143258_english_hls_0dddadeef981240_1ta-di_h264/240p.m3u8?hdntl=Expires=1781803820~_GO=Generated~acl=/mumbai/143258_english_hls_0dddadeef981240_1ta-di_h264/*~Signature=Afto3p3QZNNlyDO4Xxu58zk9p5sLfHlQV58VAbnxatMxqOByq5TTKf83n69ieF5I83Z83M_CWNP8rysjMxolqGJ3n00M",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143258_english_hls_0dddadeef981240_1ta-di_h264/360p.m3u8?hdntl=Expires=1781803820~_GO=Generated~acl=/mumbai/143258_english_hls_0dddadeef981240_1ta-di_h264/*~Signature=Afto3p3QZNNlyDO4Xxu58zk9p5sLfHlQV58VAbnxatMxqOByq5TTKf83n69ieF5I83Z83M_CWNP8rysjMxolqGJ3n00M",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143258_english_hls_0dddadeef981240_1ta-di_h264/480p.m3u8?hdntl=Expires=1781803820~_GO=Generated~acl=/mumbai/143258_english_hls_0dddadeef981240_1ta-di_h264/*~Signature=Afto3p3QZNNlyDO4Xxu58zk9p5sLfHlQV58VAbnxatMxqOByq5TTKf83n69ieF5I83Z83M_CWNP8rysjMxolqGJ3n00M",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143258_english_hls_0dddadeef981240_1ta-di_h264/540p.m3u8?hdntl=Expires=1781803820~_GO=Generated~acl=/mumbai/143258_english_hls_0dddadeef981240_1ta-di_h264/*~Signature=Afto3p3QZNNlyDO4Xxu58zk9p5sLfHlQV58VAbnxatMxqOByq5TTKf83n69ieF5I83Z83M_CWNP8rysjMxolqGJ3n00M",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143258_english_hls_0dddadeef981240_1ta-di_h264/720p.m3u8?hdntl=Expires=1781803820~_GO=Generated~acl=/mumbai/143258_english_hls_0dddadeef981240_1ta-di_h264/*~Signature=Afto3p3QZNNlyDO4Xxu58zk9p5sLfHlQV58VAbnxatMxqOByq5TTKf83n69ieF5I83Z83M_CWNP8rysjMxolqGJ3n00M",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143258_english_hls_0dddadeef981240_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781803820~_GO=Generated~acl=/mumbai/143258_english_hls_0dddadeef981240_1ta-di_h264/*~Signature=Afto3p3QZNNlyDO4Xxu58zk9p5sLfHlQV58VAbnxatMxqOByq5TTKf83n69ieF5I83Z83M_CWNP8rysjMxolqGJ3n00M"
-          },
-          "cookie": "hdntl=Expires=1781803820~_GO=Generated~acl=/mumbai/143258_english_hls_0dddadeef981240_1ta-di_h264/*~Signature=Afto3p3QZNNlyDO4Xxu58zk9p5sLfHlQV58VAbnxatMxqOByq5TTKf83n69ieF5I83Z83M_CWNP8rysjMxolqGJ3n00M",
-          "expires": "1781803820",
-          "expire_date": "Thursday, June 18, 2026, 11:00:20 PM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Gothenburg Phoenix Vs Stockholm City",
@@ -776,6 +739,25 @@
       "status": "UPCOMING",
       "startTime": "20 June 2026 05:30 PM",
       "image": "https://images.fancode.com/aig/match/v1780575318052/143316_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "tournament": "Punjab T10 2026",
+      "match_id": 143045,
+      "status": "UPCOMING",
+      "startTime": "20 June 2026 06:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
