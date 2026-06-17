@@ -3,49 +3,12 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "17/6/2026, 5:05:24 pm",
-  "_src_updated": "04:56:05 PM 17-06-2026",
+  "updatedAt": "17/6/2026, 6:11:29 pm",
+  "_src_updated": "06:07:02 PM 17-06-2026",
   "total_matches": 40,
-  "live_matches": 8,
-  "upcoming_matches": 32,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Bangladesh Vs Australia",
-      "tournament": "Australia tour of Bangladesh, 2026",
-      "match_id": 142968,
-      "status": "LIVE",
-      "startTime": "17 June 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/142968_english_hls_0f00f082a944838_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/240p.m3u8?hdntl=Expires=1781781969~_GO=Generated~acl=/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/*~Signature=Afto3p3x5WS3ZGYRZkXKFpyQWJV6OrobSomK3d0QAf3LoqtzP-GeSbFIKNQctarERE2JUfdohHE3e5LkblwI3AsCzqcP",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/360p.m3u8?hdntl=Expires=1781781969~_GO=Generated~acl=/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/*~Signature=Afto3p3x5WS3ZGYRZkXKFpyQWJV6OrobSomK3d0QAf3LoqtzP-GeSbFIKNQctarERE2JUfdohHE3e5LkblwI3AsCzqcP",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/480p.m3u8?hdntl=Expires=1781781969~_GO=Generated~acl=/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/*~Signature=Afto3p3x5WS3ZGYRZkXKFpyQWJV6OrobSomK3d0QAf3LoqtzP-GeSbFIKNQctarERE2JUfdohHE3e5LkblwI3AsCzqcP",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/540p.m3u8?hdntl=Expires=1781781969~_GO=Generated~acl=/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/*~Signature=Afto3p3x5WS3ZGYRZkXKFpyQWJV6OrobSomK3d0QAf3LoqtzP-GeSbFIKNQctarERE2JUfdohHE3e5LkblwI3AsCzqcP",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/720p.m3u8?hdntl=Expires=1781781969~_GO=Generated~acl=/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/*~Signature=Afto3p3x5WS3ZGYRZkXKFpyQWJV6OrobSomK3d0QAf3LoqtzP-GeSbFIKNQctarERE2JUfdohHE3e5LkblwI3AsCzqcP",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781781969~_GO=Generated~acl=/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/*~Signature=Afto3p3x5WS3ZGYRZkXKFpyQWJV6OrobSomK3d0QAf3LoqtzP-GeSbFIKNQctarERE2JUfdohHE3e5LkblwI3AsCzqcP"
-          },
-          "cookie": "hdntl=Expires=1781781969~_GO=Generated~acl=/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/*~Signature=Afto3p3x5WS3ZGYRZkXKFpyQWJV6OrobSomK3d0QAf3LoqtzP-GeSbFIKNQctarERE2JUfdohHE3e5LkblwI3AsCzqcP",
-          "expires": "1781781969",
-          "expire_date": "Thursday, June 18, 2026, 4:56:09 PM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Bhopal Leopards Vs Malwa Stallions",
@@ -117,43 +80,6 @@
           "cookie": "",
           "expires": "1781777946",
           "expire_date": "Thursday, June 18, 2026, 3:49:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Jalandhar Jaguars Vs Mohali Monsters",
-      "tournament": "Punjab T10 2026",
-      "match_id": 143038,
-      "status": "LIVE",
-      "startTime": "17 June 2026 04:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143038_6095_JJ_MM_fc-app.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143038_english_hls_208dbbc72993207_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143038_english_hls_208dbbc72993207_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143038_english_hls_208dbbc72993207_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143038_english_hls_208dbbc72993207_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143038_english_hls_208dbbc72993207_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143038_english_hls_208dbbc72993207_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143038_english_hls_208dbbc72993207_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143038_english_hls_208dbbc72993207_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-fblive.fancode.com/mumbai/143038_english_hls_208dbbc72993207_1ta-di_h264/240p.m3u8",
-            "360p": "https://in-mc-fblive.fancode.com/mumbai/143038_english_hls_208dbbc72993207_1ta-di_h264/360p.m3u8",
-            "480p": "https://in-mc-fblive.fancode.com/mumbai/143038_english_hls_208dbbc72993207_1ta-di_h264/480p.m3u8",
-            "540p": "https://in-mc-fblive.fancode.com/mumbai/143038_english_hls_208dbbc72993207_1ta-di_h264/540p.m3u8",
-            "720p": "https://in-mc-fblive.fancode.com/mumbai/143038_english_hls_208dbbc72993207_1ta-di_h264/720p.m3u8",
-            "1080p": "https://in-mc-fblive.fancode.com/mumbai/143038_english_hls_208dbbc72993207_1ta-di_h264/1080p.m3u8"
-          },
-          "cookie": "",
-          "expires": "1781777943",
-          "expire_date": "Thursday, June 18, 2026, 3:49:03 PM"
         }
       }
     },
@@ -364,12 +290,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Netherlands Vs Canada",
-      "tournament": "ICC CWC League 2 Canada, 2026",
-      "match_id": 143200,
+      "title": "Mohali Monsters Vs Firozpur Falcons",
+      "tournament": "Punjab T10 2026",
+      "match_id": 143039,
       "status": "UPCOMING",
-      "startTime": "16 June 2026 08:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143200_6110_NED_CAN_fc-web.jpg",
+      "startTime": "18 June 2026 01:45 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143039_6095_MM_FFA_fc-app.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -383,12 +309,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Mohali Monsters Vs Firozpur Falcons",
-      "tournament": "Punjab T10 2026",
-      "match_id": 143039,
+      "title": "Netherlands Vs Canada",
+      "tournament": "ICC CWC League 2 Canada, 2026",
+      "match_id": 143200,
       "status": "UPCOMING",
-      "startTime": "18 June 2026 01:45 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143039_6095_MM_FFA_fc-app.jpg",
+      "startTime": "16 June 2026 08:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143200_6110_NED_CAN_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -463,7 +389,7 @@
       "tournament": "Men's T20I Tri series in Namibia 2026",
       "match_id": 143314,
       "status": "UPCOMING",
-      "startTime": "18 June 2026 06:00 PM",
+      "startTime": "18 June 2026 05:30 PM",
       "image": "https://images.fancode.com/aig/match/v1780575318029/143314_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
@@ -503,6 +429,25 @@
       "status": "UPCOMING",
       "startTime": "18 June 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143186_6109_MLM_HMU_FC-WEB.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Bangladesh Vs Australia",
+      "tournament": "Australia tour of Bangladesh, 2026",
+      "match_id": 142968,
+      "status": "UPCOMING",
+      "startTime": "17 June 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -748,7 +693,7 @@
       "tournament": "Men's T20I Tri series in Namibia 2026",
       "match_id": 143315,
       "status": "UPCOMING",
-      "startTime": "19 June 2026 06:00 PM",
+      "startTime": "19 June 2026 05:30 PM",
       "image": "https://images.fancode.com/aig/match/v1780575318051/143315_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
@@ -902,6 +847,25 @@
       "status": "UPCOMING",
       "startTime": "19 June 2026 07:35 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Golf",
+      "title": "Day 2",
+      "tournament": "US Open 2026",
+      "match_id": 143294,
+      "status": "UPCOMING",
+      "startTime": "19 June 2026 09:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143294_6121_PGA_LOC_FC-WEB.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
