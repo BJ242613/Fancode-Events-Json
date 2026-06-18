@@ -3,11 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "18/6/2026, 1:10:04 pm",
-  "_src_updated": "12:45:31 PM 18-06-2026",
+  "updatedAt": "18/6/2026, 1:55:51 pm",
+  "_src_updated": "01:35:04 PM 18-06-2026",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
@@ -51,19 +51,37 @@
       "title": "Mohali Monsters Vs Firozpur Falcons",
       "tournament": "Punjab T10 2026",
       "match_id": 143039,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "18 June 2026 01:45 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143039_6095_MM_FFA_fc-app.jpg",
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143039_english_hls_6d9898333793234_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143039_english_hls_6d9898333793234_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143039_english_hls_6d9898333793234_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143039_english_hls_6d9898333793234_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143039_english_hls_6d9898333793234_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143039_english_hls_6d9898333793234_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143039_english_hls_6d9898333793234_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143039_english_hls_6d9898333793234_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143039_english_hls_6d9898333793234_1ta-di_h264/240p.m3u8?hdntl=Expires=1781856307~_GO=Generated~acl=/mumbai/143039_english_hls_6d9898333793234_1ta-di_h264/*~Signature=Afto3p1PZLOAxOW1c2q4el8_O-NonSq0mG47jPMGIxltrxl8cwWpYpacnYP49gujGNgvqpIbTE2ANnTA7q32umKqyhoD",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143039_english_hls_6d9898333793234_1ta-di_h264/360p.m3u8?hdntl=Expires=1781856307~_GO=Generated~acl=/mumbai/143039_english_hls_6d9898333793234_1ta-di_h264/*~Signature=Afto3p1PZLOAxOW1c2q4el8_O-NonSq0mG47jPMGIxltrxl8cwWpYpacnYP49gujGNgvqpIbTE2ANnTA7q32umKqyhoD",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143039_english_hls_6d9898333793234_1ta-di_h264/480p.m3u8?hdntl=Expires=1781856307~_GO=Generated~acl=/mumbai/143039_english_hls_6d9898333793234_1ta-di_h264/*~Signature=Afto3p1PZLOAxOW1c2q4el8_O-NonSq0mG47jPMGIxltrxl8cwWpYpacnYP49gujGNgvqpIbTE2ANnTA7q32umKqyhoD",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143039_english_hls_6d9898333793234_1ta-di_h264/540p.m3u8?hdntl=Expires=1781856307~_GO=Generated~acl=/mumbai/143039_english_hls_6d9898333793234_1ta-di_h264/*~Signature=Afto3p1PZLOAxOW1c2q4el8_O-NonSq0mG47jPMGIxltrxl8cwWpYpacnYP49gujGNgvqpIbTE2ANnTA7q32umKqyhoD",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143039_english_hls_6d9898333793234_1ta-di_h264/720p.m3u8?hdntl=Expires=1781856307~_GO=Generated~acl=/mumbai/143039_english_hls_6d9898333793234_1ta-di_h264/*~Signature=Afto3p1PZLOAxOW1c2q4el8_O-NonSq0mG47jPMGIxltrxl8cwWpYpacnYP49gujGNgvqpIbTE2ANnTA7q32umKqyhoD",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143039_english_hls_6d9898333793234_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781856307~_GO=Generated~acl=/mumbai/143039_english_hls_6d9898333793234_1ta-di_h264/*~Signature=Afto3p1PZLOAxOW1c2q4el8_O-NonSq0mG47jPMGIxltrxl8cwWpYpacnYP49gujGNgvqpIbTE2ANnTA7q32umKqyhoD"
+          },
+          "cookie": "hdntl=Expires=1781856307~_GO=Generated~acl=/mumbai/143039_english_hls_6d9898333793234_1ta-di_h264/*~Signature=Afto3p1PZLOAxOW1c2q4el8_O-NonSq0mG47jPMGIxltrxl8cwWpYpacnYP49gujGNgvqpIbTE2ANnTA7q32umKqyhoD",
+          "expires": "1781856307",
+          "expire_date": "Friday, June 19, 2026, 1:35:07 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -256,6 +274,44 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Mohali Monsters Vs Moga Mongoose",
+      "tournament": "Punjab T10 2026",
+      "match_id": 143042,
+      "status": "UPCOMING",
+      "startTime": "19 June 2026 04:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143042_6095_MM_MMO_fc-app.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Uppsala Tigers Vs Stockholm City",
+      "tournament": "Nordic Smash T20 Cup, 2026",
+      "match_id": 143188,
+      "status": "UPCOMING",
+      "startTime": "19 June 2026 04:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143188_6109_UPP_STY_FC-WEB.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
       "title": "Day 4   World Feed",
       "tournament": "ATP 500 - Terra Wortmann Open 2026",
@@ -352,31 +408,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Mohali Monsters Vs Moga Mongoose",
-      "tournament": "Punjab T10 2026",
-      "match_id": 143042,
+      "title": "Namibia Vs Hong Kong, China",
+      "tournament": "Men's T20I Tri series in Namibia 2026",
+      "match_id": 143315,
       "status": "UPCOMING",
-      "startTime": "19 June 2026 04:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143042_6095_MM_MMO_fc-app.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Uppsala Tigers Vs Stockholm City",
-      "tournament": "Nordic Smash T20 Cup, 2026",
-      "match_id": 143188,
-      "status": "UPCOMING",
-      "startTime": "19 June 2026 04:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143188_6109_UPP_STY_FC-WEB.jpg",
+      "startTime": "19 June 2026 05:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1780575318051/143315_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -396,25 +433,6 @@
       "status": "UPCOMING",
       "startTime": "17 June 2026 01:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Namibia Vs Hong Kong, China",
-      "tournament": "Men's T20I Tri series in Namibia 2026",
-      "match_id": 143315,
-      "status": "UPCOMING",
-      "startTime": "19 June 2026 05:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1780575318051/143315_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
