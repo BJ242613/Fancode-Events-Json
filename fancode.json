@@ -3,12 +3,86 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "19/6/2026, 6:32:49 am",
-  "_src_updated": "06:14:01 AM 19-06-2026",
-  "total_matches": 40,
-  "live_matches": 0,
-  "upcoming_matches": 40,
+  "updatedAt": "19/6/2026, 12:48:54 pm",
+  "_src_updated": "12:28:04 PM 19-06-2026",
+  "total_matches": 38,
+  "live_matches": 2,
+  "upcoming_matches": 36,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Vasteras United Vs Stockholm United",
+      "tournament": "Nordic Smash T20 Cup, 2026",
+      "match_id": 143187,
+      "status": "LIVE",
+      "startTime": "19 June 2026 12:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143187_6109_VTU_HMU_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143187_english_hls_73bf67bfa990800_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143187_english_hls_73bf67bfa990800_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143187_english_hls_73bf67bfa990800_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143187_english_hls_73bf67bfa990800_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143187_english_hls_73bf67bfa990800_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143187_english_hls_73bf67bfa990800_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143187_english_hls_73bf67bfa990800_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143187_english_hls_73bf67bfa990800_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143187_english_hls_73bf67bfa990800_1ta-di_h264/240p.m3u8?hdntl=Expires=1781938268~_GO=Generated~acl=/mumbai/143187_english_hls_73bf67bfa990800_1ta-di_h264/*~Signature=Afto3p35UvgLSYYPoQT-EfhXujgD_7NWYQv0uAFFPeFlgUym7DZWZ3c3j_Jl5s8uB2BeS3mJTEwJtzwqI6D-K1UK01UH",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143187_english_hls_73bf67bfa990800_1ta-di_h264/360p.m3u8?hdntl=Expires=1781938268~_GO=Generated~acl=/mumbai/143187_english_hls_73bf67bfa990800_1ta-di_h264/*~Signature=Afto3p35UvgLSYYPoQT-EfhXujgD_7NWYQv0uAFFPeFlgUym7DZWZ3c3j_Jl5s8uB2BeS3mJTEwJtzwqI6D-K1UK01UH",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143187_english_hls_73bf67bfa990800_1ta-di_h264/480p.m3u8?hdntl=Expires=1781938268~_GO=Generated~acl=/mumbai/143187_english_hls_73bf67bfa990800_1ta-di_h264/*~Signature=Afto3p35UvgLSYYPoQT-EfhXujgD_7NWYQv0uAFFPeFlgUym7DZWZ3c3j_Jl5s8uB2BeS3mJTEwJtzwqI6D-K1UK01UH",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143187_english_hls_73bf67bfa990800_1ta-di_h264/540p.m3u8?hdntl=Expires=1781938268~_GO=Generated~acl=/mumbai/143187_english_hls_73bf67bfa990800_1ta-di_h264/*~Signature=Afto3p35UvgLSYYPoQT-EfhXujgD_7NWYQv0uAFFPeFlgUym7DZWZ3c3j_Jl5s8uB2BeS3mJTEwJtzwqI6D-K1UK01UH",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143187_english_hls_73bf67bfa990800_1ta-di_h264/720p.m3u8?hdntl=Expires=1781938268~_GO=Generated~acl=/mumbai/143187_english_hls_73bf67bfa990800_1ta-di_h264/*~Signature=Afto3p35UvgLSYYPoQT-EfhXujgD_7NWYQv0uAFFPeFlgUym7DZWZ3c3j_Jl5s8uB2BeS3mJTEwJtzwqI6D-K1UK01UH",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143187_english_hls_73bf67bfa990800_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781938268~_GO=Generated~acl=/mumbai/143187_english_hls_73bf67bfa990800_1ta-di_h264/*~Signature=Afto3p35UvgLSYYPoQT-EfhXujgD_7NWYQv0uAFFPeFlgUym7DZWZ3c3j_Jl5s8uB2BeS3mJTEwJtzwqI6D-K1UK01UH"
+          },
+          "cookie": "hdntl=Expires=1781938268~_GO=Generated~acl=/mumbai/143187_english_hls_73bf67bfa990800_1ta-di_h264/*~Signature=Afto3p35UvgLSYYPoQT-EfhXujgD_7NWYQv0uAFFPeFlgUym7DZWZ3c3j_Jl5s8uB2BeS3mJTEwJtzwqI6D-K1UK01UH",
+          "expires": "1781938268",
+          "expire_date": "Saturday, June 20, 2026, 12:21:08 PM"
+        }
+      }
+    },
+    {
+      "category": "MotoGP",
+      "title": "Czechia Gp",
+      "tournament": "GRAND PRIX OF CZECHIA 2026",
+      "match_id": 139951,
+      "status": "LIVE",
+      "startTime": "19 June 2026 12:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/139951_english_hls_13df162ce313182_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/240p.m3u8?hdntl=Expires=1781938687~_GO=Generated~acl=/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/*~Signature=Afto3p0hkeG6mdJQCZvvp4Sgb_h1-gILJ3Na-xtKwItnm0ljafZWF783OTvQkQx_-zNlDNohT_VHCEn4ZEKjVT_l3F8P",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/360p.m3u8?hdntl=Expires=1781938687~_GO=Generated~acl=/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/*~Signature=Afto3p0hkeG6mdJQCZvvp4Sgb_h1-gILJ3Na-xtKwItnm0ljafZWF783OTvQkQx_-zNlDNohT_VHCEn4ZEKjVT_l3F8P",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/480p.m3u8?hdntl=Expires=1781938687~_GO=Generated~acl=/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/*~Signature=Afto3p0hkeG6mdJQCZvvp4Sgb_h1-gILJ3Na-xtKwItnm0ljafZWF783OTvQkQx_-zNlDNohT_VHCEn4ZEKjVT_l3F8P",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/540p.m3u8?hdntl=Expires=1781938687~_GO=Generated~acl=/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/*~Signature=Afto3p0hkeG6mdJQCZvvp4Sgb_h1-gILJ3Na-xtKwItnm0ljafZWF783OTvQkQx_-zNlDNohT_VHCEn4ZEKjVT_l3F8P",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/720p.m3u8?hdntl=Expires=1781938687~_GO=Generated~acl=/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/*~Signature=Afto3p0hkeG6mdJQCZvvp4Sgb_h1-gILJ3Na-xtKwItnm0ljafZWF783OTvQkQx_-zNlDNohT_VHCEn4ZEKjVT_l3F8P",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1781938687~_GO=Generated~acl=/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/*~Signature=Afto3p0hkeG6mdJQCZvvp4Sgb_h1-gILJ3Na-xtKwItnm0ljafZWF783OTvQkQx_-zNlDNohT_VHCEn4ZEKjVT_l3F8P"
+          },
+          "cookie": "hdntl=Expires=1781938687~_GO=Generated~acl=/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/*~Signature=Afto3p0hkeG6mdJQCZvvp4Sgb_h1-gILJ3Na-xtKwItnm0ljafZWF783OTvQkQx_-zNlDNohT_VHCEn4ZEKjVT_l3F8P",
+          "expires": "1781938687",
+          "expire_date": "Saturday, June 20, 2026, 12:28:07 PM"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "Bangladesh Vs Australia",
@@ -17,25 +91,6 @@
       "status": "UPCOMING",
       "startTime": "19 June 2026 01:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web_1781555242134.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Vasteras United Vs Stockholm United",
-      "tournament": "Nordic Smash T20 Cup, 2026",
-      "match_id": 143187,
-      "status": "UPCOMING",
-      "startTime": "19 June 2026 12:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143187_6109_VTU_HMU_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -181,13 +236,51 @@
       "auto_streams": {}
     },
     {
-      "category": "MotoGP",
-      "title": "Czechia Gp",
-      "tournament": "GRAND PRIX OF CZECHIA 2026",
-      "match_id": 139951,
+      "category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "tournament": "Nordic Smash T20 Cup, 2026",
+      "match_id": 143190,
       "status": "UPCOMING",
-      "startTime": "19 June 2026 12:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png",
+      "startTime": "20 June 2026 12:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "tournament": "Punjab T10 2026",
+      "match_id": 143043,
+      "status": "UPCOMING",
+      "startTime": "20 June 2026 01:45 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Kalyani Bengaluru Blasters Vs Gulbarga Mystics",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143415,
+      "status": "UPCOMING",
+      "startTime": "20 June 2026 02:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1781841438725/143415_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -201,68 +294,11 @@
     },
     {
       "category": "Tennis",
-      "title": "Atp 500   Hsbc Championship 2026",
-      "tournament": "ATP 500 - HSBC Championship 2026",
-      "match_id": 143248,
-      "status": "UPCOMING",
-      "startTime": "19 June 2026 02:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Atp 500   Hsbc Championship 2026",
-      "tournament": "ATP 500 - HSBC Championship 2026",
-      "match_id": 143247,
-      "status": "UPCOMING",
-      "startTime": "19 June 2026 02:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Atp 500   Terra Wortmann Open 2026",
-      "tournament": "ATP 500 - Terra Wortmann Open 2026",
-      "match_id": 143262,
-      "status": "UPCOMING",
-      "startTime": "19 June 2026 02:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Atp 500   Terra Wortmann Open 2026",
+      "title": "Day 5   World Feed",
       "tournament": "ATP 500 - Terra Wortmann Open 2026",
       "match_id": 143261,
       "status": "UPCOMING",
-      "startTime": "19 June 2026 02:30 PM",
+      "startTime": "19 June 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
       "language": "BLOODY_SWEET",
       "streams": {
@@ -283,6 +319,63 @@
       "status": "UPCOMING",
       "startTime": "19 June 2026 03:05 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 5   World Feed",
+      "tournament": "ATP 500 - HSBC Championship 2026",
+      "match_id": 143247,
+      "status": "UPCOMING",
+      "startTime": "19 June 2026 04:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 5   Court 1",
+      "tournament": "ATP 500 - HSBC Championship 2026",
+      "match_id": 143248,
+      "status": "UPCOMING",
+      "startTime": "19 June 2026 05:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 5   Schauinsland Reisen Court",
+      "tournament": "ATP 500 - Terra Wortmann Open 2026",
+      "match_id": 143262,
+      "status": "UPCOMING",
+      "startTime": "19 June 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -335,63 +428,6 @@
     {
       "category": "Cricket",
       "title": "Tbc Vs Tbc",
-      "tournament": "Nordic Smash T20 Cup, 2026",
-      "match_id": 143190,
-      "status": "UPCOMING",
-      "startTime": "20 June 2026 12:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Tbc Vs Tbc",
-      "tournament": "Punjab T10 2026",
-      "match_id": 143043,
-      "status": "UPCOMING",
-      "startTime": "20 June 2026 01:45 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Kalyani Bengaluru Blasters Vs Gulbarga Mystics",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143415,
-      "status": "UPCOMING",
-      "startTime": "20 June 2026 02:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Tbc Vs Tbc",
       "tournament": "Punjab T10 2026",
       "match_id": 143044,
       "status": "UPCOMING",
@@ -428,6 +464,44 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Namibia Vs Nigeria",
+      "tournament": "Men's T20I Tri series in Namibia 2026",
+      "match_id": 143316,
+      "status": "UPCOMING",
+      "startTime": "20 June 2026 05:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1780575318052/143316_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "tournament": "Punjab T10 2026",
+      "match_id": 143045,
+      "status": "UPCOMING",
+      "startTime": "20 June 2026 06:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Motorsports",
       "title": "Australasia   Race 1",
       "tournament": "Ferrari Challenge Series 2026",
@@ -448,12 +522,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Namibia Vs Nigeria",
-      "tournament": "Men's T20I Tri series in Namibia 2026",
-      "match_id": 143316,
+      "title": "Shivamogga Yodhas Vs Mysore Warriors",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143416,
       "status": "UPCOMING",
-      "startTime": "20 June 2026 05:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1780575318052/143316_CASACARDS_SPORTY_APP.png",
+      "startTime": "20 June 2026 07:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1781841438720/143416_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -506,30 +580,11 @@
     {
       "category": "Cricket",
       "title": "Tbc Vs Tbc",
-      "tournament": "Punjab T10 2026",
-      "match_id": 143045,
+      "tournament": "Nordic Smash T20 Cup, 2026",
+      "match_id": 143192,
       "status": "UPCOMING",
-      "startTime": "20 June 2026 06:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Shivamogga Yodhas Vs Mysore Warriors",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143416,
-      "status": "UPCOMING",
-      "startTime": "20 June 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "startTime": "20 June 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -606,25 +661,6 @@
       "status": "UPCOMING",
       "startTime": "20 June 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Tbc Vs Tbc",
-      "tournament": "Nordic Smash T20 Cup, 2026",
-      "match_id": 143192,
-      "status": "UPCOMING",
-      "startTime": "20 June 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -720,44 +756,6 @@
       "status": "UPCOMING",
       "startTime": "21 June 2026 01:55 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-2026-old.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Bangladesh Vs Australia",
-      "tournament": "Australia tour of Bangladesh, 2026",
-      "match_id": 142970,
-      "status": "UPCOMING",
-      "startTime": "21 June 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Coastal Kings Mangaluru Vs Hubli Tigers",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143417,
-      "status": "UPCOMING",
-      "startTime": "21 June 2026 02:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
