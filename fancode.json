@@ -3,11 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "20/6/2026, 1:08:28 am",
-  "_src_updated": "01:07:01 AM 20-06-2026",
+  "updatedAt": "20/6/2026, 2:04:43 am",
+  "_src_updated": "01:21:04 AM 20-06-2026",
   "total_matches": 38,
-  "live_matches": 3,
-  "upcoming_matches": 35,
+  "live_matches": 2,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Tennis",
@@ -47,43 +47,6 @@
       }
     },
     {
-      "category": "Tennis",
-      "title": "Day 5   World Feed",
-      "tournament": "ATP 500 - HSBC Championship 2026",
-      "match_id": 143247,
-      "status": "LIVE",
-      "startTime": "19 June 2026 04:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143247_english_hls_b3680fa20c67778_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/240p.m3u8?hdntl=Expires=1781980212~_GO=Generated~acl=/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/*~Signature=Afto3p2QvbnVdKqIjL9vS5zkT3Ehapp7ws1FTEsWQmxH10IPd_wc5ixwIEuz1vShddSwzXy149UExmIKJeDjjVKvfqkJ",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/360p.m3u8?hdntl=Expires=1781980212~_GO=Generated~acl=/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/*~Signature=Afto3p2QvbnVdKqIjL9vS5zkT3Ehapp7ws1FTEsWQmxH10IPd_wc5ixwIEuz1vShddSwzXy149UExmIKJeDjjVKvfqkJ",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/480p.m3u8?hdntl=Expires=1781980212~_GO=Generated~acl=/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/*~Signature=Afto3p2QvbnVdKqIjL9vS5zkT3Ehapp7ws1FTEsWQmxH10IPd_wc5ixwIEuz1vShddSwzXy149UExmIKJeDjjVKvfqkJ",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/540p.m3u8?hdntl=Expires=1781980212~_GO=Generated~acl=/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/*~Signature=Afto3p2QvbnVdKqIjL9vS5zkT3Ehapp7ws1FTEsWQmxH10IPd_wc5ixwIEuz1vShddSwzXy149UExmIKJeDjjVKvfqkJ",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/720p.m3u8?hdntl=Expires=1781980212~_GO=Generated~acl=/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/*~Signature=Afto3p2QvbnVdKqIjL9vS5zkT3Ehapp7ws1FTEsWQmxH10IPd_wc5ixwIEuz1vShddSwzXy149UExmIKJeDjjVKvfqkJ",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781980212~_GO=Generated~acl=/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/*~Signature=Afto3p2QvbnVdKqIjL9vS5zkT3Ehapp7ws1FTEsWQmxH10IPd_wc5ixwIEuz1vShddSwzXy149UExmIKJeDjjVKvfqkJ"
-          },
-          "cookie": "hdntl=Expires=1781980212~_GO=Generated~acl=/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/*~Signature=Afto3p2QvbnVdKqIjL9vS5zkT3Ehapp7ws1FTEsWQmxH10IPd_wc5ixwIEuz1vShddSwzXy149UExmIKJeDjjVKvfqkJ",
-          "expires": "1781980212",
-          "expire_date": "Sunday, June 21, 2026, 12:00:12 AM"
-        }
-      }
-    },
-    {
       "category": "Golf",
       "title": "Day 2",
       "tournament": "US Open 2026",
@@ -107,16 +70,16 @@
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/240p.m3u8?hdntl=Expires=1781970247~_GO=Generated~acl=/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/*~Signature=Afto3p1WCHMM2KdXy38NDGeADd87R7zl1Jdmf4hxjilwXz0zPx5_wfsIEqteqhR8o9HFmxnNLWciNRkM1YA7xRee7rgO",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/360p.m3u8?hdntl=Expires=1781970247~_GO=Generated~acl=/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/*~Signature=Afto3p1WCHMM2KdXy38NDGeADd87R7zl1Jdmf4hxjilwXz0zPx5_wfsIEqteqhR8o9HFmxnNLWciNRkM1YA7xRee7rgO",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/480p.m3u8?hdntl=Expires=1781970247~_GO=Generated~acl=/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/*~Signature=Afto3p1WCHMM2KdXy38NDGeADd87R7zl1Jdmf4hxjilwXz0zPx5_wfsIEqteqhR8o9HFmxnNLWciNRkM1YA7xRee7rgO",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/540p.m3u8?hdntl=Expires=1781970247~_GO=Generated~acl=/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/*~Signature=Afto3p1WCHMM2KdXy38NDGeADd87R7zl1Jdmf4hxjilwXz0zPx5_wfsIEqteqhR8o9HFmxnNLWciNRkM1YA7xRee7rgO",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/720p.m3u8?hdntl=Expires=1781970247~_GO=Generated~acl=/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/*~Signature=Afto3p1WCHMM2KdXy38NDGeADd87R7zl1Jdmf4hxjilwXz0zPx5_wfsIEqteqhR8o9HFmxnNLWciNRkM1YA7xRee7rgO",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781970247~_GO=Generated~acl=/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/*~Signature=Afto3p1WCHMM2KdXy38NDGeADd87R7zl1Jdmf4hxjilwXz0zPx5_wfsIEqteqhR8o9HFmxnNLWciNRkM1YA7xRee7rgO"
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/240p.m3u8?hdntl=Expires=1781985067~_GO=Generated~acl=/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/*~Signature=Afto3p2lLljBiRYvfSmNS6ZGJayGOAZafG0gHibsJqS_contDJkDTTxxI-iXqjUNyQ6AXkdccjlhkFmg-Z5YJVQavDAP",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/360p.m3u8?hdntl=Expires=1781985067~_GO=Generated~acl=/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/*~Signature=Afto3p2lLljBiRYvfSmNS6ZGJayGOAZafG0gHibsJqS_contDJkDTTxxI-iXqjUNyQ6AXkdccjlhkFmg-Z5YJVQavDAP",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/480p.m3u8?hdntl=Expires=1781985067~_GO=Generated~acl=/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/*~Signature=Afto3p2lLljBiRYvfSmNS6ZGJayGOAZafG0gHibsJqS_contDJkDTTxxI-iXqjUNyQ6AXkdccjlhkFmg-Z5YJVQavDAP",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/540p.m3u8?hdntl=Expires=1781985067~_GO=Generated~acl=/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/*~Signature=Afto3p2lLljBiRYvfSmNS6ZGJayGOAZafG0gHibsJqS_contDJkDTTxxI-iXqjUNyQ6AXkdccjlhkFmg-Z5YJVQavDAP",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/720p.m3u8?hdntl=Expires=1781985067~_GO=Generated~acl=/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/*~Signature=Afto3p2lLljBiRYvfSmNS6ZGJayGOAZafG0gHibsJqS_contDJkDTTxxI-iXqjUNyQ6AXkdccjlhkFmg-Z5YJVQavDAP",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781985067~_GO=Generated~acl=/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/*~Signature=Afto3p2lLljBiRYvfSmNS6ZGJayGOAZafG0gHibsJqS_contDJkDTTxxI-iXqjUNyQ6AXkdccjlhkFmg-Z5YJVQavDAP"
           },
-          "cookie": "hdntl=Expires=1781970247~_GO=Generated~acl=/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/*~Signature=Afto3p1WCHMM2KdXy38NDGeADd87R7zl1Jdmf4hxjilwXz0zPx5_wfsIEqteqhR8o9HFmxnNLWciNRkM1YA7xRee7rgO",
-          "expires": "1781970247",
-          "expire_date": "Saturday, June 20, 2026, 9:14:07 PM"
+          "cookie": "hdntl=Expires=1781985067~_GO=Generated~acl=/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/*~Signature=Afto3p2lLljBiRYvfSmNS6ZGJayGOAZafG0gHibsJqS_contDJkDTTxxI-iXqjUNyQ6AXkdccjlhkFmg-Z5YJVQavDAP",
+          "expires": "1781985067",
+          "expire_date": "Sunday, June 21, 2026, 1:21:07 AM"
         }
       }
     },
@@ -774,6 +737,25 @@
       "status": "UPCOMING",
       "startTime": "21 June 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp 250   Vanda Pharmaceuticals Mallorca Champions",
+      "tournament": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
+      "match_id": 143270,
+      "status": "UPCOMING",
+      "startTime": "21 June 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
