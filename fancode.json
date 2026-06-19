@@ -3,15 +3,52 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "19/6/2026, 12:48:54 pm",
-  "_src_updated": "12:28:04 PM 19-06-2026",
+  "updatedAt": "19/6/2026, 1:09:16 pm",
+  "_src_updated": "12:49:03 PM 19-06-2026",
   "total_matches": 38,
-  "live_matches": 2,
-  "upcoming_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
-      "title": "Vasteras United Vs Stockholm United",
+      "title": "Bangladesh Vs Australia",
+      "tournament": "Australia tour of Bangladesh, 2026",
+      "match_id": 142969,
+      "status": "LIVE",
+      "startTime": "19 June 2026 01:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web_1781555242134.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/142969_english_hls_b3f424210976447_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/240p.m3u8?hdntl=Expires=1781939947~_GO=Generated~acl=/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/*~Signature=Afto3p1oHHiDCCBxMirGkHBxKN5cDSYox1RdcqUZCb26WCWseFYIq7PWJHcFHUmOrGh7C867q6u5QMbofzkK0LT1K54L",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/360p.m3u8?hdntl=Expires=1781939947~_GO=Generated~acl=/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/*~Signature=Afto3p1oHHiDCCBxMirGkHBxKN5cDSYox1RdcqUZCb26WCWseFYIq7PWJHcFHUmOrGh7C867q6u5QMbofzkK0LT1K54L",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/480p.m3u8?hdntl=Expires=1781939947~_GO=Generated~acl=/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/*~Signature=Afto3p1oHHiDCCBxMirGkHBxKN5cDSYox1RdcqUZCb26WCWseFYIq7PWJHcFHUmOrGh7C867q6u5QMbofzkK0LT1K54L",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/540p.m3u8?hdntl=Expires=1781939947~_GO=Generated~acl=/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/*~Signature=Afto3p1oHHiDCCBxMirGkHBxKN5cDSYox1RdcqUZCb26WCWseFYIq7PWJHcFHUmOrGh7C867q6u5QMbofzkK0LT1K54L",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/720p.m3u8?hdntl=Expires=1781939947~_GO=Generated~acl=/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/*~Signature=Afto3p1oHHiDCCBxMirGkHBxKN5cDSYox1RdcqUZCb26WCWseFYIq7PWJHcFHUmOrGh7C867q6u5QMbofzkK0LT1K54L",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781939947~_GO=Generated~acl=/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/*~Signature=Afto3p1oHHiDCCBxMirGkHBxKN5cDSYox1RdcqUZCb26WCWseFYIq7PWJHcFHUmOrGh7C867q6u5QMbofzkK0LT1K54L"
+          },
+          "cookie": "hdntl=Expires=1781939947~_GO=Generated~acl=/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/*~Signature=Afto3p1oHHiDCCBxMirGkHBxKN5cDSYox1RdcqUZCb26WCWseFYIq7PWJHcFHUmOrGh7C867q6u5QMbofzkK0LT1K54L",
+          "expires": "1781939947",
+          "expire_date": "Saturday, June 20, 2026, 12:49:07 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Stockholm United Vs Vasteras United",
       "tournament": "Nordic Smash T20 Cup, 2026",
       "match_id": 143187,
       "status": "LIVE",
@@ -82,25 +119,6 @@
           "expire_date": "Saturday, June 20, 2026, 12:28:07 PM"
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Bangladesh Vs Australia",
-      "tournament": "Australia tour of Bangladesh, 2026",
-      "match_id": 142969,
-      "status": "UPCOMING",
-      "startTime": "19 June 2026 01:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web_1781555242134.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -559,13 +577,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "Day 2 Qualifying 1   Dekra Lausitzring",
-      "tournament": "DTM 2026",
-      "match_id": 143303,
+      "category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "tournament": "Nordic Smash T20 Cup, 2026",
+      "match_id": 143192,
       "status": "UPCOMING",
-      "startTime": "20 June 2026 12:25 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card.png",
+      "startTime": "20 June 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -578,13 +596,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Tbc Vs Tbc",
-      "tournament": "Nordic Smash T20 Cup, 2026",
-      "match_id": 143192,
+      "category": "Motorsports",
+      "title": "Day 2 Qualifying 1   Dekra Lausitzring",
+      "tournament": "DTM 2026",
+      "match_id": 143303,
       "status": "UPCOMING",
-      "startTime": "20 June 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png",
+      "startTime": "20 June 2026 12:25 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
