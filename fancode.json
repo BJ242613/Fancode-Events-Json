@@ -3,8 +3,8 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "20/6/2026, 12:37:45 am",
-  "_src_updated": "12:07:01 AM 20-06-2026",
+  "updatedAt": "20/6/2026, 1:08:28 am",
+  "_src_updated": "01:07:01 AM 20-06-2026",
   "total_matches": 38,
   "live_matches": 3,
   "upcoming_matches": 35,
@@ -654,6 +654,25 @@
     },
     {
       "category": "Cricket",
+      "title": "Panama Vs Belize",
+      "tournament": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
+      "match_id": 143283,
+      "status": "UPCOMING",
+      "startTime": "21 June 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143283_6120_BAH_BEL_fc-App.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Kalyani Bengaluru Blasters Vs Shivamogga Yodhas",
       "tournament": "Maharaja T20 Trophy, 2026",
       "match_id": 143418,
@@ -755,25 +774,6 @@
       "status": "UPCOMING",
       "startTime": "21 June 2026 02:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Atp 250   Vanda Pharmaceuticals Mallorca Champions",
-      "tournament": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
-      "match_id": 143270,
-      "status": "UPCOMING",
-      "startTime": "21 June 2026 02:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
