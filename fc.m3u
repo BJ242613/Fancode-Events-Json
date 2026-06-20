@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="143192" tvg-name="Stockholm City Vs Vasteras United" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png" group-title="Cricket",Stockholm City Vs Vasteras United [Nordic Smash T20 Cup, 2026]
-https://in-mc-flive.fancode.com/mumbai/143192_english_hls_0a5226cb9032584_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143416" tvg-name="Shivamogga Yodhas Vs Mysore Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143416_6134_SY_MW_FC-WEB.jpg" group-title="Cricket",Shivamogga Yodhas Vs Mysore Warriors [Maharaja T20 Trophy, 2026]
-https://in-mc-flive.fancode.com/mumbai/143416_english_hls_7f3da9432298046_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143416" tvg-name="Shivamogga Yodhas Vs Mysore Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143416_6134_SY_MW_FC-WEB.jpg" group-title="Cricket",Shivamogga Yodhas Vs Mysore Warriors [Maharaja T20 Trophy, 2026]
-https://in-mc-flive.fancode.com/mumbai/143416_kannada_hls_0d0e834e0550730_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143263" tvg-name="Day 4   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Tennis",Day 4   World Feed [ATP 500 - Terra Wortmann Open 2026]
-https://in-mc-flive.fancode.com/mumbai/143263_english_hls_433a91742541852_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143542" tvg-name="Day 4   Doubles Semifinal 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg" group-title="Tennis",Day 4   Doubles Semifinal 2 [ATP 500 - HSBC Championship 2026]
-https://in-mc-flive.fancode.com/mumbai/143542_english_hls_b9af3784f850775_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143295" tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143295_6121_PGA_LOC_FC-WEB.png" group-title="Golf",Day 3 [US Open 2026]
 https://in-mc-flive.fancode.com/mumbai/143295_english_hls_2941805cec67811_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143541" tvg-name="Day 4   Doubles Semifinal 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Tennis",Day 4   Doubles Semifinal 2 [ATP 500 - Terra Wortmann Open 2026]
