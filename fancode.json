@@ -3,49 +3,12 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "22/6/2026, 12:49:18 am",
-  "_src_updated": "12:21:04 AM 22-06-2026",
+  "updatedAt": "22/6/2026, 2:36:55 am",
+  "_src_updated": "01:35:02 AM 22-06-2026",
   "total_matches": 38,
-  "live_matches": 2,
-  "upcoming_matches": 36,
+  "live_matches": 1,
+  "upcoming_matches": 37,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Bermuda Vs Bahamas",
-      "tournament": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
-      "match_id": 143284,
-      "status": "LIVE",
-      "startTime": "21 June 2026 11:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1782048897453/143284_CASACARDS_SPORTY_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143284_english_hls_385023be4569629_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143284_english_hls_385023be4569629_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143284_english_hls_385023be4569629_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143284_english_hls_385023be4569629_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143284_english_hls_385023be4569629_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143284_english_hls_385023be4569629_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143284_english_hls_385023be4569629_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143284_english_hls_385023be4569629_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143284_english_hls_385023be4569629_1ta-di_h264/240p.m3u8?hdntl=Expires=1782150663~_GO=Generated~acl=/mumbai/143284_english_hls_385023be4569629_1ta-di_h264/*~Signature=Afto3p3e2dR9YSGMmswxdrBgUAHl9O-dxJm5UwNuO3VG_6xr4YGC-EMy5B0JL3kdMu-KPrbvPlmkVECqjGJ6pxn7sCIB",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143284_english_hls_385023be4569629_1ta-di_h264/360p.m3u8?hdntl=Expires=1782150663~_GO=Generated~acl=/mumbai/143284_english_hls_385023be4569629_1ta-di_h264/*~Signature=Afto3p3e2dR9YSGMmswxdrBgUAHl9O-dxJm5UwNuO3VG_6xr4YGC-EMy5B0JL3kdMu-KPrbvPlmkVECqjGJ6pxn7sCIB",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143284_english_hls_385023be4569629_1ta-di_h264/480p.m3u8?hdntl=Expires=1782150663~_GO=Generated~acl=/mumbai/143284_english_hls_385023be4569629_1ta-di_h264/*~Signature=Afto3p3e2dR9YSGMmswxdrBgUAHl9O-dxJm5UwNuO3VG_6xr4YGC-EMy5B0JL3kdMu-KPrbvPlmkVECqjGJ6pxn7sCIB",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143284_english_hls_385023be4569629_1ta-di_h264/540p.m3u8?hdntl=Expires=1782150663~_GO=Generated~acl=/mumbai/143284_english_hls_385023be4569629_1ta-di_h264/*~Signature=Afto3p3e2dR9YSGMmswxdrBgUAHl9O-dxJm5UwNuO3VG_6xr4YGC-EMy5B0JL3kdMu-KPrbvPlmkVECqjGJ6pxn7sCIB",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143284_english_hls_385023be4569629_1ta-di_h264/720p.m3u8?hdntl=Expires=1782150663~_GO=Generated~acl=/mumbai/143284_english_hls_385023be4569629_1ta-di_h264/*~Signature=Afto3p3e2dR9YSGMmswxdrBgUAHl9O-dxJm5UwNuO3VG_6xr4YGC-EMy5B0JL3kdMu-KPrbvPlmkVECqjGJ6pxn7sCIB",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143284_english_hls_385023be4569629_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782150663~_GO=Generated~acl=/mumbai/143284_english_hls_385023be4569629_1ta-di_h264/*~Signature=Afto3p3e2dR9YSGMmswxdrBgUAHl9O-dxJm5UwNuO3VG_6xr4YGC-EMy5B0JL3kdMu-KPrbvPlmkVECqjGJ6pxn7sCIB"
-          },
-          "cookie": "hdntl=Expires=1782150663~_GO=Generated~acl=/mumbai/143284_english_hls_385023be4569629_1ta-di_h264/*~Signature=Afto3p3e2dR9YSGMmswxdrBgUAHl9O-dxJm5UwNuO3VG_6xr4YGC-EMy5B0JL3kdMu-KPrbvPlmkVECqjGJ6pxn7sCIB",
-          "expires": "1782150663",
-          "expire_date": "Monday, June 22, 2026, 11:21:03 PM"
-        }
-      }
-    },
     {
       "category": "Golf",
       "title": "Day 4",
@@ -85,6 +48,25 @@
     },
     {
       "category": "Cricket",
+      "title": "Indonesia Vs Thailand",
+      "tournament": "Asia Pacific Cricket Champions Trophy, 2026",
+      "match_id": 143543,
+      "status": "UPCOMING",
+      "startTime": "22 June 2026 11:00 AM",
+      "image": "https://images.fancode.com/aig/match/v1782018540429/143543_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Mysore Warriors Vs Hubli Tigers",
       "tournament": "Maharaja T20 Trophy, 2026",
       "match_id": 143419,
@@ -110,6 +92,25 @@
       "status": "UPCOMING",
       "startTime": "22 June 2026 03:00 PM",
       "image": "https://images.fancode.com/aig/match/v1780469022364/143097_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Singapore Vs Uzbekistan",
+      "tournament": "Asia Pacific Cricket Champions Trophy, 2026",
+      "match_id": 143544,
+      "status": "UPCOMING",
+      "startTime": "22 June 2026 04:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1782018540429/143544_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -186,44 +187,6 @@
       "status": "UPCOMING",
       "startTime": "22 June 2026 07:30 PM",
       "image": "https://images.fancode.com/aig/match/v1780469022404/143098_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Indonesia Vs Thailand",
-      "tournament": "Asia Pacific Cricket Champions Trophy, 2026",
-      "match_id": 143543,
-      "status": "UPCOMING",
-      "startTime": "22 June 2026 11:00 AM",
-      "image": "https://images.fancode.com/aig/match/v1782018540429/143543_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Singapore Vs Uzbekistan",
-      "tournament": "Asia Pacific Cricket Champions Trophy, 2026",
-      "match_id": 143544,
-      "status": "UPCOMING",
-      "startTime": "22 June 2026 04:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1782018540429/143544_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -756,6 +719,25 @@
       "status": "UPCOMING",
       "startTime": "25 June 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp 250   Vanda Pharmaceuticals Mallorca Champions",
+      "tournament": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
+      "match_id": 143274,
+      "status": "UPCOMING",
+      "startTime": "25 June 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
