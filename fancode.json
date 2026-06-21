@@ -3,11 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "21/6/2026, 2:33:28 pm",
-  "_src_updated": "02:21:04 PM 21-06-2026",
+  "updatedAt": "21/6/2026, 2:58:54 pm",
+  "_src_updated": "02:49:04 PM 21-06-2026",
   "total_matches": 39,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -48,7 +48,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Coastal Kings Mangaluru Vs Hubli Tigers",
+      "title": "Hubli Tigers Vs Coastal Kings Mangaluru",
       "tournament": "Maharaja T20 Trophy, 2026",
       "match_id": 143417,
       "status": "LIVE",
@@ -85,7 +85,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Coastal Kings Mangaluru Vs Hubli Tigers",
+      "title": "Hubli Tigers Vs Coastal Kings Mangaluru",
       "tournament": "Maharaja T20 Trophy, 2026",
       "match_id": 143417,
       "status": "LIVE",
@@ -117,6 +117,43 @@
           "cookie": "",
           "expires": "1782118263",
           "expire_date": "Monday, June 22, 2026, 2:21:03 PM"
+        }
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Jabalpur Royal Lions Vs Gwalior Cheetahs",
+      "tournament": "Madhya Pradesh League T20, 2026",
+      "match_id": 143095,
+      "status": "LIVE",
+      "startTime": "21 June 2026 03:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1780469022414/143095_CASACARDS_SPORTY_APP.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143095_english_hls_49216852c95430_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143095_english_hls_49216852c95430_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143095_english_hls_49216852c95430_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143095_english_hls_49216852c95430_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143095_english_hls_49216852c95430_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143095_english_hls_49216852c95430_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143095_english_hls_49216852c95430_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143095_english_hls_49216852c95430_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-fblive.fancode.com/mumbai/143095_english_hls_49216852c95430_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-fblive.fancode.com/mumbai/143095_english_hls_49216852c95430_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-fblive.fancode.com/mumbai/143095_english_hls_49216852c95430_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-fblive.fancode.com/mumbai/143095_english_hls_49216852c95430_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-fblive.fancode.com/mumbai/143095_english_hls_49216852c95430_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-fblive.fancode.com/mumbai/143095_english_hls_49216852c95430_1ta-di_h264/1080p.m3u8"
+          },
+          "cookie": "",
+          "expires": "1782119943",
+          "expire_date": "Monday, June 22, 2026, 2:49:03 PM"
         }
       }
     },
@@ -156,25 +193,6 @@
           "expire_date": "Monday, June 22, 2026, 12:07:03 PM"
         }
       }
-    },
-    {
-      "category": "Cricket",
-      "title": "Jabalpur Royal Lions Vs Gwalior Cheetahs",
-      "tournament": "Madhya Pradesh League T20, 2026",
-      "match_id": 143095,
-      "status": "UPCOMING",
-      "startTime": "21 June 2026 03:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1780469022414/143095_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -329,6 +347,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Namibia Vs Hong Kong, China",
+      "tournament": "Men's T20I Tri series in Namibia 2026",
+      "match_id": 143318,
+      "status": "UPCOMING",
+      "startTime": "22 June 2026 05:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1780575318052/143318_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
       "title": "Day 1",
       "tournament": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
@@ -469,25 +506,6 @@
       "status": "UPCOMING",
       "startTime": "21 June 2026 08:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143296_6121_PGA_LOC_FC-WEB.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Namibia Vs Hong Kong, China",
-      "tournament": "Men's T20I Tri series in Namibia 2026",
-      "match_id": 143318,
-      "status": "UPCOMING",
-      "startTime": "22 June 2026 05:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1780575318052/143318_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
