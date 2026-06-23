@@ -3,11 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "23/6/2026, 5:14:03 pm",
-  "_src_updated": "03:49:06 PM 23-06-2026",
+  "updatedAt": "23/6/2026, 5:55:18 pm",
+  "_src_updated": "05:14:03 PM 23-06-2026",
   "total_matches": 41,
-  "live_matches": 6,
-  "upcoming_matches": 36,
+  "live_matches": 7,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -236,19 +236,37 @@
       "title": "Namibia Vs Nigeria",
       "tournament": "Men's T20I Tri series in Namibia 2026",
       "match_id": 143319,
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "23 June 2026 05:30 PM",
       "image": "https://images.fancode.com/aig/match/v1780575318051/143319_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143319_english_hls_e5d7b238b697362_1ta-di_h264/index.m3u8"
+        }
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/240p.m3u8?hdntl=Expires=1782301442~_GO=Generated~acl=/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/*~Signature=Afto3p3nGK67yfmzEawPFaBJ3Iq3sMZs2IuQA_q339fpW-XP8rC9r8fNqpnudjvS2Tgrk366HKsjcuKu63gC8-pe9MYJ",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/360p.m3u8?hdntl=Expires=1782301442~_GO=Generated~acl=/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/*~Signature=Afto3p3nGK67yfmzEawPFaBJ3Iq3sMZs2IuQA_q339fpW-XP8rC9r8fNqpnudjvS2Tgrk366HKsjcuKu63gC8-pe9MYJ",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/480p.m3u8?hdntl=Expires=1782301442~_GO=Generated~acl=/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/*~Signature=Afto3p3nGK67yfmzEawPFaBJ3Iq3sMZs2IuQA_q339fpW-XP8rC9r8fNqpnudjvS2Tgrk366HKsjcuKu63gC8-pe9MYJ",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/540p.m3u8?hdntl=Expires=1782301442~_GO=Generated~acl=/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/*~Signature=Afto3p3nGK67yfmzEawPFaBJ3Iq3sMZs2IuQA_q339fpW-XP8rC9r8fNqpnudjvS2Tgrk366HKsjcuKu63gC8-pe9MYJ",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/720p.m3u8?hdntl=Expires=1782301442~_GO=Generated~acl=/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/*~Signature=Afto3p3nGK67yfmzEawPFaBJ3Iq3sMZs2IuQA_q339fpW-XP8rC9r8fNqpnudjvS2Tgrk366HKsjcuKu63gC8-pe9MYJ",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782301442~_GO=Generated~acl=/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/*~Signature=Afto3p3nGK67yfmzEawPFaBJ3Iq3sMZs2IuQA_q339fpW-XP8rC9r8fNqpnudjvS2Tgrk366HKsjcuKu63gC8-pe9MYJ"
+          },
+          "cookie": "hdntl=Expires=1782301442~_GO=Generated~acl=/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/*~Signature=Afto3p3nGK67yfmzEawPFaBJ3Iq3sMZs2IuQA_q339fpW-XP8rC9r8fNqpnudjvS2Tgrk366HKsjcuKu63gC8-pe9MYJ",
+          "expires": "1782301442",
+          "expire_date": "Wednesday, June 24, 2026, 5:14:02 PM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -846,7 +864,7 @@
       "match_id": 139954,
       "status": "UPCOMING",
       "startTime": "26 June 2026 12:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Moto_GP.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tissot-Grand-Prix-of-the-Netherlands-old-match-card.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
