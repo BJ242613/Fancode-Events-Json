@@ -3,49 +3,12 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "23/6/2026, 2:36:06 pm",
-  "_src_updated": "02:21:04 PM 23-06-2026",
+  "updatedAt": "23/6/2026, 2:46:18 pm",
+  "_src_updated": "02:42:01 PM 23-06-2026",
   "total_matches": 41,
-  "live_matches": 3,
-  "upcoming_matches": 39,
+  "live_matches": 2,
+  "upcoming_matches": 40,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Uzbekistan Vs Indonesia",
-      "tournament": "Asia Pacific Cricket Champions Trophy, 2026",
-      "match_id": 143545,
-      "status": "LIVE",
-      "startTime": "23 June 2026 11:00 AM",
-      "image": "https://images.fancode.com/aig/match/v1782018540428/143545_CASACARDS_SPORTY_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143545_english_hls_26bc64239a56042_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143545_english_hls_26bc64239a56042_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143545_english_hls_26bc64239a56042_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143545_english_hls_26bc64239a56042_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143545_english_hls_26bc64239a56042_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143545_english_hls_26bc64239a56042_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143545_english_hls_26bc64239a56042_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143545_english_hls_26bc64239a56042_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143545_english_hls_26bc64239a56042_1ta-di_h264/240p.m3u8?hdntl=Expires=1782277924~_GO=Generated~acl=/mumbai/143545_english_hls_26bc64239a56042_1ta-di_h264/*~Signature=Afto3p0a1WXFSTWSPG1UUU0mpoxKg7Ohy15zujyE88K0TOkgWyb7XbTIN85BqmaNXUZLBbpUc3o1R0Oz_ORAs5dLsI8L",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143545_english_hls_26bc64239a56042_1ta-di_h264/360p.m3u8?hdntl=Expires=1782277924~_GO=Generated~acl=/mumbai/143545_english_hls_26bc64239a56042_1ta-di_h264/*~Signature=Afto3p0a1WXFSTWSPG1UUU0mpoxKg7Ohy15zujyE88K0TOkgWyb7XbTIN85BqmaNXUZLBbpUc3o1R0Oz_ORAs5dLsI8L",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143545_english_hls_26bc64239a56042_1ta-di_h264/480p.m3u8?hdntl=Expires=1782277924~_GO=Generated~acl=/mumbai/143545_english_hls_26bc64239a56042_1ta-di_h264/*~Signature=Afto3p0a1WXFSTWSPG1UUU0mpoxKg7Ohy15zujyE88K0TOkgWyb7XbTIN85BqmaNXUZLBbpUc3o1R0Oz_ORAs5dLsI8L",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143545_english_hls_26bc64239a56042_1ta-di_h264/540p.m3u8?hdntl=Expires=1782277924~_GO=Generated~acl=/mumbai/143545_english_hls_26bc64239a56042_1ta-di_h264/*~Signature=Afto3p0a1WXFSTWSPG1UUU0mpoxKg7Ohy15zujyE88K0TOkgWyb7XbTIN85BqmaNXUZLBbpUc3o1R0Oz_ORAs5dLsI8L",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143545_english_hls_26bc64239a56042_1ta-di_h264/720p.m3u8?hdntl=Expires=1782277924~_GO=Generated~acl=/mumbai/143545_english_hls_26bc64239a56042_1ta-di_h264/*~Signature=Afto3p0a1WXFSTWSPG1UUU0mpoxKg7Ohy15zujyE88K0TOkgWyb7XbTIN85BqmaNXUZLBbpUc3o1R0Oz_ORAs5dLsI8L",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143545_english_hls_26bc64239a56042_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782277924~_GO=Generated~acl=/mumbai/143545_english_hls_26bc64239a56042_1ta-di_h264/*~Signature=Afto3p0a1WXFSTWSPG1UUU0mpoxKg7Ohy15zujyE88K0TOkgWyb7XbTIN85BqmaNXUZLBbpUc3o1R0Oz_ORAs5dLsI8L"
-          },
-          "cookie": "hdntl=Expires=1782277924~_GO=Generated~acl=/mumbai/143545_english_hls_26bc64239a56042_1ta-di_h264/*~Signature=Afto3p0a1WXFSTWSPG1UUU0mpoxKg7Ohy15zujyE88K0TOkgWyb7XbTIN85BqmaNXUZLBbpUc3o1R0Oz_ORAs5dLsI8L",
-          "expires": "1782277924",
-          "expire_date": "Wednesday, June 24, 2026, 10:42:04 AM"
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Gulbarga Mystics Vs Shivamogga Yodhas",
@@ -216,6 +179,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Tennis",
+      "title": "Day 2",
+      "tournament": "ATP 250 - Lexus Eastbourne Open 2026",
+      "match_id": 143278,
+      "status": "UPCOMING",
+      "startTime": "23 June 2026 03:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "Coastal Kings Mangaluru Vs Kalyani Bengaluru Blasters",
       "tournament": "Maharaja T20 Trophy, 2026",
@@ -261,25 +243,6 @@
       "status": "UPCOMING",
       "startTime": "24 June 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 2",
-      "tournament": "ATP 250 - Lexus Eastbourne Open 2026",
-      "match_id": 143278,
-      "status": "UPCOMING",
-      "startTime": "23 June 2026 03:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -831,6 +794,25 @@
       "status": "UPCOMING",
       "startTime": "26 June 2026 01:25 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Atp 250   Vanda Pharmaceuticals Mallorca Champions",
+      "tournament": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
+      "match_id": 143275,
+      "status": "UPCOMING",
+      "startTime": "26 June 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
