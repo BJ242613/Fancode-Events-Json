@@ -3,11 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "25/6/2026, 7:33:13 pm",
-  "_src_updated": "07:21:13 PM 25-06-2026",
-  "total_matches": 40,
-  "live_matches": 11,
-  "upcoming_matches": 29,
+  "updatedAt": "25/6/2026, 8:24:06 pm",
+  "_src_updated": "07:49:08 PM 25-06-2026",
+  "total_matches": 39,
+  "live_matches": 10,
+  "upcoming_matches": 28,
   "matches": [
     {
       "category": "Cricket",
@@ -43,43 +43,6 @@
           "cookie": "hdntl=Expires=1782480362~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/*~Signature=ARZJ1WKXl4VK8-TXA_6iH6SF-YmiP0pUU5yeEFRGM1BWEym8BiZAx-99OUd796V7iw9FiZdKkbknqWXg4Mac3j3ffoAO",
           "expires": "1782480362",
           "expire_date": "Friday, June 26, 2026, 6:56:02 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Singapore Vs Indonesia",
-      "tournament": "Asia Pacific Cricket Champions Trophy, 2026",
-      "match_id": 143548,
-      "status": "LIVE",
-      "startTime": "25 June 2026 04:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1782018540421/143548_CASACARDS_SPORTY_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143548_english_hls_8d50e8764540186_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/240p.m3u8?hdntl=Expires=1782469143~_GO=Generated~acl=/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/*~Signature=ARZJ1WJ7sQMOttJuLUt6BowAEPerlsFlBnMWuA8gAQzfvRCUFvr2xnLtD5wi2PT0-3QykjIirl5YrSyaH7CjYCgFKGgO",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/360p.m3u8?hdntl=Expires=1782469143~_GO=Generated~acl=/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/*~Signature=ARZJ1WJ7sQMOttJuLUt6BowAEPerlsFlBnMWuA8gAQzfvRCUFvr2xnLtD5wi2PT0-3QykjIirl5YrSyaH7CjYCgFKGgO",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/480p.m3u8?hdntl=Expires=1782469143~_GO=Generated~acl=/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/*~Signature=ARZJ1WJ7sQMOttJuLUt6BowAEPerlsFlBnMWuA8gAQzfvRCUFvr2xnLtD5wi2PT0-3QykjIirl5YrSyaH7CjYCgFKGgO",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/540p.m3u8?hdntl=Expires=1782469143~_GO=Generated~acl=/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/*~Signature=ARZJ1WJ7sQMOttJuLUt6BowAEPerlsFlBnMWuA8gAQzfvRCUFvr2xnLtD5wi2PT0-3QykjIirl5YrSyaH7CjYCgFKGgO",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/720p.m3u8?hdntl=Expires=1782469143~_GO=Generated~acl=/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/*~Signature=ARZJ1WJ7sQMOttJuLUt6BowAEPerlsFlBnMWuA8gAQzfvRCUFvr2xnLtD5wi2PT0-3QykjIirl5YrSyaH7CjYCgFKGgO",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782469143~_GO=Generated~acl=/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/*~Signature=ARZJ1WJ7sQMOttJuLUt6BowAEPerlsFlBnMWuA8gAQzfvRCUFvr2xnLtD5wi2PT0-3QykjIirl5YrSyaH7CjYCgFKGgO"
-          },
-          "cookie": "hdntl=Expires=1782469143~_GO=Generated~acl=/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/*~Signature=ARZJ1WJ7sQMOttJuLUt6BowAEPerlsFlBnMWuA8gAQzfvRCUFvr2xnLtD5wi2PT0-3QykjIirl5YrSyaH7CjYCgFKGgO",
-          "expires": "1782469143",
-          "expire_date": "Friday, June 26, 2026, 3:49:03 PM"
         }
       }
     },
@@ -456,7 +419,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Tbc Vs Tbc",
+      "title": "Indonesia Vs Uzbekistan",
       "tournament": "Asia Pacific Cricket Champions Trophy, 2026",
       "match_id": 143549,
       "status": "UPCOMING",
@@ -494,7 +457,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Tbc Vs Tbc",
+      "title": "Singapore Vs Thailand",
       "tournament": "Asia Pacific Cricket Champions Trophy, 2026",
       "match_id": 143550,
       "status": "UPCOMING",
