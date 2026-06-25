@@ -3,8 +3,8 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "26/6/2026, 1:24:44 am",
-  "_src_updated": "01:21:15 AM 26-06-2026",
+  "updatedAt": "26/6/2026, 1:55:14 am",
+  "_src_updated": "01:42:17 AM 26-06-2026",
   "total_matches": 40,
   "live_matches": 4,
   "upcoming_matches": 36,
@@ -107,16 +107,16 @@
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/240p.m3u8?hdntl=Expires=1782489925~_GO=Generated~acl=/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/*~Signature=ARZJ1WIJiVpWhq1Q6d7xuBS-oVzhdOCEfejiqgY0iG3_NkHSM9iVZu1tLxwT6k2WuMoCtaLf0z3arIDbMcNVfYUSUFMD",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/360p.m3u8?hdntl=Expires=1782489925~_GO=Generated~acl=/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/*~Signature=ARZJ1WIJiVpWhq1Q6d7xuBS-oVzhdOCEfejiqgY0iG3_NkHSM9iVZu1tLxwT6k2WuMoCtaLf0z3arIDbMcNVfYUSUFMD",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/480p.m3u8?hdntl=Expires=1782489925~_GO=Generated~acl=/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/*~Signature=ARZJ1WIJiVpWhq1Q6d7xuBS-oVzhdOCEfejiqgY0iG3_NkHSM9iVZu1tLxwT6k2WuMoCtaLf0z3arIDbMcNVfYUSUFMD",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/540p.m3u8?hdntl=Expires=1782489925~_GO=Generated~acl=/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/*~Signature=ARZJ1WIJiVpWhq1Q6d7xuBS-oVzhdOCEfejiqgY0iG3_NkHSM9iVZu1tLxwT6k2WuMoCtaLf0z3arIDbMcNVfYUSUFMD",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/720p.m3u8?hdntl=Expires=1782489925~_GO=Generated~acl=/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/*~Signature=ARZJ1WIJiVpWhq1Q6d7xuBS-oVzhdOCEfejiqgY0iG3_NkHSM9iVZu1tLxwT6k2WuMoCtaLf0z3arIDbMcNVfYUSUFMD",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782489925~_GO=Generated~acl=/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/*~Signature=ARZJ1WIJiVpWhq1Q6d7xuBS-oVzhdOCEfejiqgY0iG3_NkHSM9iVZu1tLxwT6k2WuMoCtaLf0z3arIDbMcNVfYUSUFMD"
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/240p.m3u8?hdntl=Expires=1782504738~_GO=Generated~acl=/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/*~Signature=ARZJ1WIO0G3BoxlhhizE5v71smujAYZMcN8TqBhhl1-zB_JGTNkvtQhXXiVun8oGuPEbDo95LLAkt9IeD03EUuFXxL4D",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/360p.m3u8?hdntl=Expires=1782504738~_GO=Generated~acl=/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/*~Signature=ARZJ1WIO0G3BoxlhhizE5v71smujAYZMcN8TqBhhl1-zB_JGTNkvtQhXXiVun8oGuPEbDo95LLAkt9IeD03EUuFXxL4D",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/480p.m3u8?hdntl=Expires=1782504738~_GO=Generated~acl=/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/*~Signature=ARZJ1WIO0G3BoxlhhizE5v71smujAYZMcN8TqBhhl1-zB_JGTNkvtQhXXiVun8oGuPEbDo95LLAkt9IeD03EUuFXxL4D",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/540p.m3u8?hdntl=Expires=1782504738~_GO=Generated~acl=/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/*~Signature=ARZJ1WIO0G3BoxlhhizE5v71smujAYZMcN8TqBhhl1-zB_JGTNkvtQhXXiVun8oGuPEbDo95LLAkt9IeD03EUuFXxL4D",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/720p.m3u8?hdntl=Expires=1782504738~_GO=Generated~acl=/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/*~Signature=ARZJ1WIO0G3BoxlhhizE5v71smujAYZMcN8TqBhhl1-zB_JGTNkvtQhXXiVun8oGuPEbDo95LLAkt9IeD03EUuFXxL4D",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782504738~_GO=Generated~acl=/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/*~Signature=ARZJ1WIO0G3BoxlhhizE5v71smujAYZMcN8TqBhhl1-zB_JGTNkvtQhXXiVun8oGuPEbDo95LLAkt9IeD03EUuFXxL4D"
           },
-          "cookie": "hdntl=Expires=1782489925~_GO=Generated~acl=/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/*~Signature=ARZJ1WIJiVpWhq1Q6d7xuBS-oVzhdOCEfejiqgY0iG3_NkHSM9iVZu1tLxwT6k2WuMoCtaLf0z3arIDbMcNVfYUSUFMD",
-          "expires": "1782489925",
-          "expire_date": "Friday, June 26, 2026, 9:35:25 PM"
+          "cookie": "hdntl=Expires=1782504738~_GO=Generated~acl=/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/*~Signature=ARZJ1WIO0G3BoxlhhizE5v71smujAYZMcN8TqBhhl1-zB_JGTNkvtQhXXiVun8oGuPEbDo95LLAkt9IeD03EUuFXxL4D",
+          "expires": "1782504738",
+          "expire_date": "Saturday, June 27, 2026, 1:42:18 AM"
         }
       }
     },
@@ -481,13 +481,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Rewa Jaguars Vs Royal Nimar Eagles",
-      "tournament": "Madhya Pradesh League T20, 2026",
-      "match_id": 143103,
+      "category": "Golf",
+      "title": "World Feed   Day 2",
+      "tournament": "Travelers Championship 2026",
+      "match_id": 143298,
       "status": "UPCOMING",
-      "startTime": "25 June 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143077_6102_RW_RNG_FC-WEB.jpg",
+      "startTime": "27 June 2026 01:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -500,13 +500,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "World Feed   Day 2",
-      "tournament": "Travelers Championship 2026",
-      "match_id": 143298,
+      "category": "Cricket",
+      "title": "Rewa Jaguars Vs Royal Nimar Eagles",
+      "tournament": "Madhya Pradesh League T20, 2026",
+      "match_id": 143103,
       "status": "UPCOMING",
-      "startTime": "27 June 2026 01:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
+      "startTime": "25 June 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143077_6102_RW_RNG_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
