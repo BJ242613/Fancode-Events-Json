@@ -3,11 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "27/6/2026, 8:48:52 pm",
-  "_src_updated": "08:14:12 PM 27-06-2026",
+  "updatedAt": "27/6/2026, 9:19:20 pm",
+  "_src_updated": "09:14:03 PM 27-06-2026",
   "total_matches": 39,
-  "live_matches": 11,
-  "upcoming_matches": 29,
+  "live_matches": 8,
+  "upcoming_matches": 32,
   "matches": [
     {
       "category": "Cricket",
@@ -43,43 +43,6 @@
           "cookie": "hdntl=Expires=1782653405~_GO=Generated~acl=/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/*~Signature=ARZJ1WK99VmSDvYB9sT-Ts6Kk7pZ7ecI37Q4kkx47t0GnsSGsWfqLAAzGHqPShjIoezjjcXEvuTqiwDn76vfGDxXW0oC",
           "expires": "1782653405",
           "expire_date": "Sunday, June 28, 2026, 7:00:05 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Namibia Vs Nigeria",
-      "tournament": "Nigeria tour of Namibia 2026",
-      "match_id": 143321,
-      "status": "LIVE",
-      "startTime": "27 June 2026 01:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143321_english_hls_96db62182e40570_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/240p.m3u8?hdntl=Expires=1782645965~_GO=Generated~acl=/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/*~Signature=ARZJ1WLgrkunVvLxNFMNqkgFgtoBEjC_h6tstq3wzoewFeWhOFPMXYAwNU-k7FSg-InPpLDg9XWFIKa34Fb1JEWPLF8J",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/360p.m3u8?hdntl=Expires=1782645965~_GO=Generated~acl=/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/*~Signature=ARZJ1WLgrkunVvLxNFMNqkgFgtoBEjC_h6tstq3wzoewFeWhOFPMXYAwNU-k7FSg-InPpLDg9XWFIKa34Fb1JEWPLF8J",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/480p.m3u8?hdntl=Expires=1782645965~_GO=Generated~acl=/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/*~Signature=ARZJ1WLgrkunVvLxNFMNqkgFgtoBEjC_h6tstq3wzoewFeWhOFPMXYAwNU-k7FSg-InPpLDg9XWFIKa34Fb1JEWPLF8J",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/540p.m3u8?hdntl=Expires=1782645965~_GO=Generated~acl=/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/*~Signature=ARZJ1WLgrkunVvLxNFMNqkgFgtoBEjC_h6tstq3wzoewFeWhOFPMXYAwNU-k7FSg-InPpLDg9XWFIKa34Fb1JEWPLF8J",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/720p.m3u8?hdntl=Expires=1782645965~_GO=Generated~acl=/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/*~Signature=ARZJ1WLgrkunVvLxNFMNqkgFgtoBEjC_h6tstq3wzoewFeWhOFPMXYAwNU-k7FSg-InPpLDg9XWFIKa34Fb1JEWPLF8J",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782645965~_GO=Generated~acl=/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/*~Signature=ARZJ1WLgrkunVvLxNFMNqkgFgtoBEjC_h6tstq3wzoewFeWhOFPMXYAwNU-k7FSg-InPpLDg9XWFIKa34Fb1JEWPLF8J"
-          },
-          "cookie": "hdntl=Expires=1782645965~_GO=Generated~acl=/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/*~Signature=ARZJ1WLgrkunVvLxNFMNqkgFgtoBEjC_h6tstq3wzoewFeWhOFPMXYAwNU-k7FSg-InPpLDg9XWFIKa34Fb1JEWPLF8J",
-          "expires": "1782645965",
-          "expire_date": "Sunday, June 28, 2026, 4:56:05 PM"
         }
       }
     },
@@ -310,37 +273,19 @@
       "title": "Men's Final",
       "tournament": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
       "match_id": 143276,
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "27 June 2026 06:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
-      "language": "ENGLISH",
+      "language": "BLOODY_SWEET",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143276_english_hls_cc5a1355fa4323_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143276_english_hls_cc5a1355fa4323_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143276_english_hls_cc5a1355fa4323_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143276_english_hls_cc5a1355fa4323_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143276_english_hls_cc5a1355fa4323_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143276_english_hls_cc5a1355fa4323_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143276_english_hls_cc5a1355fa4323_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143276_english_hls_cc5a1355fa4323_1ta-di_h264/index.m3u8"
-        }
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
       },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143276_english_hls_cc5a1355fa4323_1ta-di_h264/240p.m3u8?hdntl=Expires=1782650649~_GO=Generated~acl=/mumbai/143276_english_hls_cc5a1355fa4323_1ta-di_h264/*~Signature=ARZJ1WIBw8V9mB7kAVtwApw6Bn15qYswQ2N4p06LTfACCScnZAL4LOWFksLMKOejgPQGZ_UKW1pBOwhuWZb4UOngN7EH",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143276_english_hls_cc5a1355fa4323_1ta-di_h264/360p.m3u8?hdntl=Expires=1782650649~_GO=Generated~acl=/mumbai/143276_english_hls_cc5a1355fa4323_1ta-di_h264/*~Signature=ARZJ1WIBw8V9mB7kAVtwApw6Bn15qYswQ2N4p06LTfACCScnZAL4LOWFksLMKOejgPQGZ_UKW1pBOwhuWZb4UOngN7EH",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143276_english_hls_cc5a1355fa4323_1ta-di_h264/480p.m3u8?hdntl=Expires=1782650649~_GO=Generated~acl=/mumbai/143276_english_hls_cc5a1355fa4323_1ta-di_h264/*~Signature=ARZJ1WIBw8V9mB7kAVtwApw6Bn15qYswQ2N4p06LTfACCScnZAL4LOWFksLMKOejgPQGZ_UKW1pBOwhuWZb4UOngN7EH",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143276_english_hls_cc5a1355fa4323_1ta-di_h264/540p.m3u8?hdntl=Expires=1782650649~_GO=Generated~acl=/mumbai/143276_english_hls_cc5a1355fa4323_1ta-di_h264/*~Signature=ARZJ1WIBw8V9mB7kAVtwApw6Bn15qYswQ2N4p06LTfACCScnZAL4LOWFksLMKOejgPQGZ_UKW1pBOwhuWZb4UOngN7EH",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143276_english_hls_cc5a1355fa4323_1ta-di_h264/720p.m3u8?hdntl=Expires=1782650649~_GO=Generated~acl=/mumbai/143276_english_hls_cc5a1355fa4323_1ta-di_h264/*~Signature=ARZJ1WIBw8V9mB7kAVtwApw6Bn15qYswQ2N4p06LTfACCScnZAL4LOWFksLMKOejgPQGZ_UKW1pBOwhuWZb4UOngN7EH",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143276_english_hls_cc5a1355fa4323_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782650649~_GO=Generated~acl=/mumbai/143276_english_hls_cc5a1355fa4323_1ta-di_h264/*~Signature=ARZJ1WIBw8V9mB7kAVtwApw6Bn15qYswQ2N4p06LTfACCScnZAL4LOWFksLMKOejgPQGZ_UKW1pBOwhuWZb4UOngN7EH"
-          },
-          "cookie": "hdntl=Expires=1782650649~_GO=Generated~acl=/mumbai/143276_english_hls_cc5a1355fa4323_1ta-di_h264/*~Signature=ARZJ1WIBw8V9mB7kAVtwApw6Bn15qYswQ2N4p06LTfACCScnZAL4LOWFksLMKOejgPQGZ_UKW1pBOwhuWZb4UOngN7EH",
-          "expires": "1782650649",
-          "expire_date": "Sunday, June 28, 2026, 6:14:09 PM"
-        }
-      }
+      "auto_streams": {}
     },
     {
       "category": "Tennis",
@@ -378,25 +323,6 @@
           "expire_date": "Sunday, June 28, 2026, 6:49:11 PM"
         }
       }
-    },
-    {
-      "category": "Formula 1",
-      "title": "Qualifying",
-      "tournament": "F1 LENOVO AUSTRIAN GRAND PRIX 2026",
-      "match_id": 139460,
-      "status": "LIVE",
-      "startTime": "27 June 2026 07:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Austria_web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/139460_english_dash_7934_1drmta-di_h264/index.mpd",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139460_english_dash_7934_1drmta-di_h264/index.mpd",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/139460_english_dash_7934_1drmta-di_h264/index.mpd",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/139460_english_dash_7934_1drmta-di_h264/index.mpd",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/139460_english_dash_7934_1drmta-di_h264/index.mpd",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Cricket",
@@ -919,6 +845,44 @@
       "status": "UPCOMING",
       "startTime": "30 June 2026 07:00 PM",
       "image": "https://images.fancode.com/aig/match/v1781841438714/143433_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Mills Cricket Club Vs Rml Sports",
+      "tournament": "KPL Indo Nepal T20 2026",
+      "match_id": 143531,
+      "status": "UPCOMING",
+      "startTime": "01 July 2026 08:45 AM",
+      "image": "https://images.fancode.com/aig/match/v1781869172001/143531_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Hpca Patna Vs Chinnamasta Lions",
+      "tournament": "KPL Indo Nepal T20 2026",
+      "match_id": 143532,
+      "status": "UPCOMING",
+      "startTime": "01 July 2026 12:45 PM",
+      "image": "https://images.fancode.com/aig/match/v1781869172001/143532_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
