@@ -3,11 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "28/6/2026, 9:26:40 am",
-  "_src_updated": "08:28:12 AM 28-06-2026",
+  "updatedAt": "28/6/2026, 10:12:29 am",
+  "_src_updated": "09:49:13 AM 28-06-2026",
   "total_matches": 37,
-  "live_matches": 1,
-  "upcoming_matches": 35,
+  "live_matches": 2,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -43,6 +43,43 @@
           "cookie": "hdntl=Expires=1782701884~_GO=Generated~acl=/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/*~Signature=ARZJ1WJnzNf97KUNgHcHEmwujKBuQek1I_a0k5W1NZhqhgqK4X4bBIbWdD_YdJ7bs7ockVLEqLVI7Gt_h9TJvPCxdj4I",
           "expires": "1782701884",
           "expire_date": "Monday, June 29, 2026, 8:28:04 AM"
+        }
+      }
+    },
+    {
+      "category": "Motorsports",
+      "title": "Day 2    Fuji",
+      "tournament": "Ferrari Challenge Series 2026",
+      "match_id": 143639,
+      "status": "LIVE",
+      "startTime": "28 June 2026 09:55 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143639_english_hls_028522a5ed47924_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/240p.m3u8?hdntl=Expires=1782706744~_GO=Generated~acl=/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/*~Signature=ARZJ1WLOxnEYXq9wSlebb1Y3Umtmz1BrZnYArAulUUb5ktMHComEXuHeCs8Lpj7Xs09-vojmz8KDstsMV00stBUVJoEO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/360p.m3u8?hdntl=Expires=1782706744~_GO=Generated~acl=/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/*~Signature=ARZJ1WLOxnEYXq9wSlebb1Y3Umtmz1BrZnYArAulUUb5ktMHComEXuHeCs8Lpj7Xs09-vojmz8KDstsMV00stBUVJoEO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/480p.m3u8?hdntl=Expires=1782706744~_GO=Generated~acl=/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/*~Signature=ARZJ1WLOxnEYXq9wSlebb1Y3Umtmz1BrZnYArAulUUb5ktMHComEXuHeCs8Lpj7Xs09-vojmz8KDstsMV00stBUVJoEO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/540p.m3u8?hdntl=Expires=1782706744~_GO=Generated~acl=/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/*~Signature=ARZJ1WLOxnEYXq9wSlebb1Y3Umtmz1BrZnYArAulUUb5ktMHComEXuHeCs8Lpj7Xs09-vojmz8KDstsMV00stBUVJoEO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/720p.m3u8?hdntl=Expires=1782706744~_GO=Generated~acl=/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/*~Signature=ARZJ1WLOxnEYXq9wSlebb1Y3Umtmz1BrZnYArAulUUb5ktMHComEXuHeCs8Lpj7Xs09-vojmz8KDstsMV00stBUVJoEO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782706744~_GO=Generated~acl=/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/*~Signature=ARZJ1WLOxnEYXq9wSlebb1Y3Umtmz1BrZnYArAulUUb5ktMHComEXuHeCs8Lpj7Xs09-vojmz8KDstsMV00stBUVJoEO"
+          },
+          "cookie": "hdntl=Expires=1782706744~_GO=Generated~acl=/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/*~Signature=ARZJ1WLOxnEYXq9wSlebb1Y3Umtmz1BrZnYArAulUUb5ktMHComEXuHeCs8Lpj7Xs09-vojmz8KDstsMV00stBUVJoEO",
+          "expires": "1782706744",
+          "expire_date": "Monday, June 29, 2026, 9:49:04 AM"
         }
       }
     },
@@ -162,25 +199,6 @@
     },
     {
       "category": "Motorsports",
-      "title": "Day 2    Fuji",
-      "tournament": "Ferrari Challenge Series 2026",
-      "match_id": 143639,
-      "status": "UPCOMING",
-      "startTime": "28 June 2026 09:55 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Motorsports",
       "title": "Feature Race",
       "tournament": "F3 AUSTRIA 2026",
       "match_id": 139728,
@@ -256,6 +274,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Rml Sports Vs Chhinnamasta Lions",
+      "tournament": "KPL Indo Nepal T20 2026",
+      "match_id": 143528,
+      "status": "UPCOMING",
+      "startTime": "29 June 2026 12:45 PM",
+      "image": "https://images.fancode.com/aig/match/v1781869164722/143528_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Formula 1",
       "title": "Race",
       "tournament": "F1 LENOVO AUSTRIAN GRAND PRIX 2026",
@@ -294,44 +331,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "World Feed   Day 4",
-      "tournament": "Travelers Championship 2026",
-      "match_id": 143300,
-      "status": "UPCOMING",
-      "startTime": "29 June 2026 12:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Rml Sports Vs Chhinnamasta Lions",
-      "tournament": "KPL Indo Nepal T20 2026",
-      "match_id": 143528,
-      "status": "UPCOMING",
-      "startTime": "29 June 2026 12:45 PM",
-      "image": "https://images.fancode.com/aig/match/v1781869164722/143528_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
       "title": "Namibia Vs Nigeria",
       "tournament": "Nigeria tour of Namibia 2026",
@@ -339,6 +338,25 @@
       "status": "UPCOMING",
       "startTime": "29 June 2026 01:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Golf",
+      "title": "World Feed   Day 4",
+      "tournament": "Travelers Championship 2026",
+      "match_id": 143300,
+      "status": "UPCOMING",
+      "startTime": "29 June 2026 12:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -377,6 +395,25 @@
       "status": "UPCOMING",
       "startTime": "29 June 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Men's Final",
+      "tournament": "ATP 250 - Lexus Eastbourne Open 2026",
+      "match_id": 143654,
+      "status": "UPCOMING",
+      "startTime": "28 June 2026 03:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -699,25 +736,6 @@
       "match_id": 143628,
       "status": "UPCOMING",
       "startTime": "02 July 2026 01:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Boost Defenders Vs Amo Sharks",
-      "tournament": "Shpageeza Cricket League, 2026",
-      "match_id": 143584,
-      "status": "UPCOMING",
-      "startTime": "02 July 2026 10:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
