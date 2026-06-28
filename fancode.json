@@ -3,49 +3,12 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "28/6/2026, 10:53:10 am",
-  "_src_updated": "09:49:13 AM 28-06-2026",
+  "updatedAt": "28/6/2026, 11:49:07 am",
+  "_src_updated": "11:42:10 AM 28-06-2026",
   "total_matches": 37,
-  "live_matches": 2,
-  "upcoming_matches": 34,
+  "live_matches": 1,
+  "upcoming_matches": 35,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Chhinnamasta Lions Vs Kcc",
-      "tournament": "KPL Indo Nepal T20 2026",
-      "match_id": 143525,
-      "status": "LIVE",
-      "startTime": "28 June 2026 08:45 AM",
-      "image": "https://images.fancode.com/aig/match/v1781869164723/143525_CASACARDS_SPORTY_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143525_english_hls_89b739634b46548_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/240p.m3u8?hdntl=Expires=1782701884~_GO=Generated~acl=/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/*~Signature=ARZJ1WJnzNf97KUNgHcHEmwujKBuQek1I_a0k5W1NZhqhgqK4X4bBIbWdD_YdJ7bs7ockVLEqLVI7Gt_h9TJvPCxdj4I",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/360p.m3u8?hdntl=Expires=1782701884~_GO=Generated~acl=/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/*~Signature=ARZJ1WJnzNf97KUNgHcHEmwujKBuQek1I_a0k5W1NZhqhgqK4X4bBIbWdD_YdJ7bs7ockVLEqLVI7Gt_h9TJvPCxdj4I",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/480p.m3u8?hdntl=Expires=1782701884~_GO=Generated~acl=/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/*~Signature=ARZJ1WJnzNf97KUNgHcHEmwujKBuQek1I_a0k5W1NZhqhgqK4X4bBIbWdD_YdJ7bs7ockVLEqLVI7Gt_h9TJvPCxdj4I",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/540p.m3u8?hdntl=Expires=1782701884~_GO=Generated~acl=/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/*~Signature=ARZJ1WJnzNf97KUNgHcHEmwujKBuQek1I_a0k5W1NZhqhgqK4X4bBIbWdD_YdJ7bs7ockVLEqLVI7Gt_h9TJvPCxdj4I",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/720p.m3u8?hdntl=Expires=1782701884~_GO=Generated~acl=/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/*~Signature=ARZJ1WJnzNf97KUNgHcHEmwujKBuQek1I_a0k5W1NZhqhgqK4X4bBIbWdD_YdJ7bs7ockVLEqLVI7Gt_h9TJvPCxdj4I",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782701884~_GO=Generated~acl=/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/*~Signature=ARZJ1WJnzNf97KUNgHcHEmwujKBuQek1I_a0k5W1NZhqhgqK4X4bBIbWdD_YdJ7bs7ockVLEqLVI7Gt_h9TJvPCxdj4I"
-          },
-          "cookie": "hdntl=Expires=1782701884~_GO=Generated~acl=/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/*~Signature=ARZJ1WJnzNf97KUNgHcHEmwujKBuQek1I_a0k5W1NZhqhgqK4X4bBIbWdD_YdJ7bs7ockVLEqLVI7Gt_h9TJvPCxdj4I",
-          "expires": "1782701884",
-          "expire_date": "Monday, June 29, 2026, 8:28:04 AM"
-        }
-      }
-    },
     {
       "category": "Motorsports",
       "title": "Day 2    Fuji",
@@ -179,6 +142,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Motorsports",
+      "title": "Feature Race",
+      "tournament": "F3 AUSTRIA 2026",
+      "match_id": 139728,
+      "status": "UPCOMING",
+      "startTime": "28 June 2026 12:10 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "Itahari Super Kings Vs Mills Cricket Club",
       "tournament": "KPL Indo Nepal T20 2026",
@@ -198,13 +180,51 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "Feature Race",
-      "tournament": "F3 AUSTRIA 2026",
-      "match_id": 139728,
+      "category": "Cricket",
+      "title": "Rml Sports Vs Chhinnamasta Lions",
+      "tournament": "KPL Indo Nepal T20 2026",
+      "match_id": 143528,
       "status": "UPCOMING",
-      "startTime": "28 June 2026 12:10 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
+      "startTime": "29 June 2026 12:45 PM",
+      "image": "https://images.fancode.com/aig/match/v1781869164722/143528_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Namibia Vs Nigeria",
+      "tournament": "Nigeria tour of Namibia 2026",
+      "match_id": 143322,
+      "status": "UPCOMING",
+      "startTime": "29 June 2026 01:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Gulbarga Mystics Vs Hubli Tigers",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143430,
+      "status": "UPCOMING",
+      "startTime": "29 June 2026 02:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1781841438727/143430_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -274,25 +294,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Rml Sports Vs Chhinnamasta Lions",
-      "tournament": "KPL Indo Nepal T20 2026",
-      "match_id": 143528,
-      "status": "UPCOMING",
-      "startTime": "29 June 2026 12:45 PM",
-      "image": "https://images.fancode.com/aig/match/v1781869164722/143528_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Formula 1",
       "title": "Race",
       "tournament": "F1 LENOVO AUSTRIAN GRAND PRIX 2026",
@@ -332,12 +333,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Namibia Vs Nigeria",
-      "tournament": "Nigeria tour of Namibia 2026",
-      "match_id": 143322,
+      "title": "Aca Gurugram Vipers Vs Ddh Meerut Spartans",
+      "tournament": "Future Star U-15 Championship 2026",
+      "match_id": 143561,
       "status": "UPCOMING",
-      "startTime": "29 June 2026 01:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png",
+      "startTime": "29 June 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -357,63 +358,6 @@
       "status": "UPCOMING",
       "startTime": "29 June 2026 12:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Gulbarga Mystics Vs Hubli Tigers",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143430,
-      "status": "UPCOMING",
-      "startTime": "29 June 2026 02:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1781841438727/143430_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Aca Gurugram Vipers Vs Ddh Meerut Spartans",
-      "tournament": "Future Star U-15 Championship 2026",
-      "match_id": 143561,
-      "status": "UPCOMING",
-      "startTime": "29 June 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Men's Final",
-      "tournament": "ATP 250 - Lexus Eastbourne Open 2026",
-      "match_id": 143654,
-      "status": "UPCOMING",
-      "startTime": "28 June 2026 03:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -452,6 +396,25 @@
       "status": "UPCOMING",
       "startTime": "29 June 2026 07:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Men's Final",
+      "tournament": "ATP 250 - Lexus Eastbourne Open 2026",
+      "match_id": 143654,
+      "status": "UPCOMING",
+      "startTime": "28 June 2026 03:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -736,6 +699,25 @@
       "match_id": 143628,
       "status": "UPCOMING",
       "startTime": "02 July 2026 01:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Boost Defenders Vs Amo Sharks",
+      "tournament": "Shpageeza Cricket League, 2026",
+      "match_id": 143584,
+      "status": "UPCOMING",
+      "startTime": "02 July 2026 10:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
