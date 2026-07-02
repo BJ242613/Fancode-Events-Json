@@ -3,11 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "3/7/2026, 2:50:18 am",
-  "_src_updated": "02:21:04 AM 03-07-2026",
+  "updatedAt": "3/7/2026, 3:41:11 am",
+  "_src_updated": "03:35:04 AM 03-07-2026",
   "total_matches": 38,
-  "live_matches": 2,
-  "upcoming_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Golf",
@@ -80,6 +80,43 @@
           "cookie": "hdntl=Expires=1783111865~_GO=Generated~acl=/mumbai/143664_english_hls_2bbc5ce08e54358_1ta-di_h264/*~Signature=Ac2BFemPtpD_IbX-r-m2-FowDRIM2s-VCarBkJDJh1ZnXFr8-DAxHL4_XpG2uStuaEwKbNgTLV7crveyM2KdZZ-3tq0D",
           "expires": "1783111865",
           "expire_date": "Saturday, July 4, 2026, 2:21:05 AM"
+        }
+      }
+    },
+    {
+      "category": "Golf",
+      "title": "Day 1   Pm",
+      "tournament": "US Senior Open Championship 2026",
+      "match_id": 143672,
+      "status": "LIVE",
+      "startTime": "03 July 2026 03:45 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143578_6147_PGA_LOC_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143672_english_hls_9c95f16b2266013_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143672_english_hls_9c95f16b2266013_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143672_english_hls_9c95f16b2266013_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143672_english_hls_9c95f16b2266013_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143672_english_hls_9c95f16b2266013_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143672_english_hls_9c95f16b2266013_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143672_english_hls_9c95f16b2266013_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143672_english_hls_9c95f16b2266013_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143672_english_hls_9c95f16b2266013_1ta-di_h264/240p.m3u8?hdntl=Expires=1783116305~_GO=Generated~acl=/mumbai/143672_english_hls_9c95f16b2266013_1ta-di_h264/*~Signature=Ac2BFemM0tCjAyeZQkHfhY1dH1SvjjNuy58QQzlfoZ_YyhT3OFthiDxi-1bUxsiM9Fu-B5EOMWzApeSdofsWyju4mDsO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143672_english_hls_9c95f16b2266013_1ta-di_h264/360p.m3u8?hdntl=Expires=1783116305~_GO=Generated~acl=/mumbai/143672_english_hls_9c95f16b2266013_1ta-di_h264/*~Signature=Ac2BFemM0tCjAyeZQkHfhY1dH1SvjjNuy58QQzlfoZ_YyhT3OFthiDxi-1bUxsiM9Fu-B5EOMWzApeSdofsWyju4mDsO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143672_english_hls_9c95f16b2266013_1ta-di_h264/480p.m3u8?hdntl=Expires=1783116305~_GO=Generated~acl=/mumbai/143672_english_hls_9c95f16b2266013_1ta-di_h264/*~Signature=Ac2BFemM0tCjAyeZQkHfhY1dH1SvjjNuy58QQzlfoZ_YyhT3OFthiDxi-1bUxsiM9Fu-B5EOMWzApeSdofsWyju4mDsO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143672_english_hls_9c95f16b2266013_1ta-di_h264/540p.m3u8?hdntl=Expires=1783116305~_GO=Generated~acl=/mumbai/143672_english_hls_9c95f16b2266013_1ta-di_h264/*~Signature=Ac2BFemM0tCjAyeZQkHfhY1dH1SvjjNuy58QQzlfoZ_YyhT3OFthiDxi-1bUxsiM9Fu-B5EOMWzApeSdofsWyju4mDsO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143672_english_hls_9c95f16b2266013_1ta-di_h264/720p.m3u8?hdntl=Expires=1783116305~_GO=Generated~acl=/mumbai/143672_english_hls_9c95f16b2266013_1ta-di_h264/*~Signature=Ac2BFemM0tCjAyeZQkHfhY1dH1SvjjNuy58QQzlfoZ_YyhT3OFthiDxi-1bUxsiM9Fu-B5EOMWzApeSdofsWyju4mDsO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143672_english_hls_9c95f16b2266013_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783116305~_GO=Generated~acl=/mumbai/143672_english_hls_9c95f16b2266013_1ta-di_h264/*~Signature=Ac2BFemM0tCjAyeZQkHfhY1dH1SvjjNuy58QQzlfoZ_YyhT3OFthiDxi-1bUxsiM9Fu-B5EOMWzApeSdofsWyju4mDsO"
+          },
+          "cookie": "hdntl=Expires=1783116305~_GO=Generated~acl=/mumbai/143672_english_hls_9c95f16b2266013_1ta-di_h264/*~Signature=Ac2BFemM0tCjAyeZQkHfhY1dH1SvjjNuy58QQzlfoZ_YyhT3OFthiDxi-1bUxsiM9Fu-B5EOMWzApeSdofsWyju4mDsO",
+          "expires": "1783116305",
+          "expire_date": "Saturday, July 4, 2026, 3:35:05 AM"
         }
       }
     },
@@ -167,25 +204,6 @@
       "status": "UPCOMING",
       "startTime": "03 July 2026 07:00 PM",
       "image": "https://images.fancode.com/aig/match/v1781841438709/143438_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Golf",
-      "title": "Day 1   Pm",
-      "tournament": "US Senior Open Championship 2026",
-      "match_id": 143672,
-      "status": "UPCOMING",
-      "startTime": "03 July 2026 03:45 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143578_6147_PGA_LOC_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
