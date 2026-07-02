@@ -3,11 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "1/7/2026, 11:39:25 pm",
-  "_src_updated": "11:28:02 PM 01-07-2026",
+  "updatedAt": "2/7/2026, 12:13:22 pm",
+  "_src_updated": "12:07:01 PM 02-07-2026",
   "total_matches": 40,
-  "live_matches": 0,
-  "upcoming_matches": 40,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
     {
       "category": "Cricket",
@@ -27,6 +27,43 @@
         "backup": {}
       },
       "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Bost Defenders Vs Amo Sharks",
+      "tournament": "Shpageeza Cricket League, 2026",
+      "match_id": 143584,
+      "status": "LIVE",
+      "startTime": "02 July 2026 10:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143584_6148_BOS_AM_fc-web_1782725011423.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143584_english_hls_9a104ca7a812716_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143584_english_hls_9a104ca7a812716_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143584_english_hls_9a104ca7a812716_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143584_english_hls_9a104ca7a812716_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143584_english_hls_9a104ca7a812716_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143584_english_hls_9a104ca7a812716_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143584_english_hls_9a104ca7a812716_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/143584_english_hls_9a104ca7a812716_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143584_english_hls_9a104ca7a812716_1ta-di_h264/240p.m3u8?hdntl=Expires=1783053142~_GO=Generated~acl=/mumbai/143584_english_hls_9a104ca7a812716_1ta-di_h264/*~Signature=Ac2BFekyHH9fXdiRsW23BesOe1vYRYdkSYA-bOpOmsXVgvgPq8Nm_2enIfNFoa6kqXfLmzbnFb9-i1PXuGkK8GTYh1MM",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143584_english_hls_9a104ca7a812716_1ta-di_h264/360p.m3u8?hdntl=Expires=1783053142~_GO=Generated~acl=/mumbai/143584_english_hls_9a104ca7a812716_1ta-di_h264/*~Signature=Ac2BFekyHH9fXdiRsW23BesOe1vYRYdkSYA-bOpOmsXVgvgPq8Nm_2enIfNFoa6kqXfLmzbnFb9-i1PXuGkK8GTYh1MM",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143584_english_hls_9a104ca7a812716_1ta-di_h264/480p.m3u8?hdntl=Expires=1783053142~_GO=Generated~acl=/mumbai/143584_english_hls_9a104ca7a812716_1ta-di_h264/*~Signature=Ac2BFekyHH9fXdiRsW23BesOe1vYRYdkSYA-bOpOmsXVgvgPq8Nm_2enIfNFoa6kqXfLmzbnFb9-i1PXuGkK8GTYh1MM",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143584_english_hls_9a104ca7a812716_1ta-di_h264/540p.m3u8?hdntl=Expires=1783053142~_GO=Generated~acl=/mumbai/143584_english_hls_9a104ca7a812716_1ta-di_h264/*~Signature=Ac2BFekyHH9fXdiRsW23BesOe1vYRYdkSYA-bOpOmsXVgvgPq8Nm_2enIfNFoa6kqXfLmzbnFb9-i1PXuGkK8GTYh1MM",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143584_english_hls_9a104ca7a812716_1ta-di_h264/720p.m3u8?hdntl=Expires=1783053142~_GO=Generated~acl=/mumbai/143584_english_hls_9a104ca7a812716_1ta-di_h264/*~Signature=Ac2BFekyHH9fXdiRsW23BesOe1vYRYdkSYA-bOpOmsXVgvgPq8Nm_2enIfNFoa6kqXfLmzbnFb9-i1PXuGkK8GTYh1MM",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143584_english_hls_9a104ca7a812716_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783053142~_GO=Generated~acl=/mumbai/143584_english_hls_9a104ca7a812716_1ta-di_h264/*~Signature=Ac2BFekyHH9fXdiRsW23BesOe1vYRYdkSYA-bOpOmsXVgvgPq8Nm_2enIfNFoa6kqXfLmzbnFb9-i1PXuGkK8GTYh1MM"
+          },
+          "cookie": "hdntl=Expires=1783053142~_GO=Generated~acl=/mumbai/143584_english_hls_9a104ca7a812716_1ta-di_h264/*~Signature=Ac2BFekyHH9fXdiRsW23BesOe1vYRYdkSYA-bOpOmsXVgvgPq8Nm_2enIfNFoa6kqXfLmzbnFb9-i1PXuGkK8GTYh1MM",
+          "expires": "1783053142",
+          "expire_date": "Friday, July 3, 2026, 10:02:22 AM"
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -106,12 +143,50 @@
     },
     {
       "category": "Cricket",
-      "title": "Bost Defenders Vs Amo Sharks",
-      "tournament": "Shpageeza Cricket League, 2026",
-      "match_id": 143584,
+      "title": "Chhinnamasta Lions Vs Itahari Super Kings",
+      "tournament": "KPL Indo Nepal T20 2026",
+      "match_id": 143535,
       "status": "UPCOMING",
-      "startTime": "02 July 2026 10:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143584_6148_BOS_AM_fc-web_1782725011423.jpg",
+      "startTime": "03 July 2026 08:45 AM",
+      "image": "https://images.fancode.com/aig/match/v1781869171976/143535_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Kcc Vs Mills Cricket Club",
+      "tournament": "KPL Indo Nepal T20 2026",
+      "match_id": 143536,
+      "status": "UPCOMING",
+      "startTime": "03 July 2026 12:45 PM",
+      "image": "https://images.fancode.com/aig/match/v1781869172005/143536_CASACARDS_SPORTY_APP.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Gulbarga Mystics Vs Mysore Warriors",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143437,
+      "status": "UPCOMING",
+      "startTime": "03 July 2026 02:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1781841438718/143437_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -219,25 +294,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Chhinnamasta Lions Vs Itahari Super Kings",
-      "tournament": "KPL Indo Nepal T20 2026",
-      "match_id": 143535,
-      "status": "UPCOMING",
-      "startTime": "03 July 2026 08:45 AM",
-      "image": "https://images.fancode.com/aig/match/v1781869171976/143535_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Golf",
       "title": "Day 1   Pm",
       "tournament": "US Senior Open Championship 2026",
@@ -245,63 +301,6 @@
       "status": "UPCOMING",
       "startTime": "03 July 2026 03:45 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143578_6147_PGA_LOC_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Kcc Vs Mills Cricket Club",
-      "tournament": "KPL Indo Nepal T20 2026",
-      "match_id": 143536,
-      "status": "UPCOMING",
-      "startTime": "03 July 2026 12:45 PM",
-      "image": "https://images.fancode.com/aig/match/v1781869172005/143536_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Gulbarga Mystics Vs Mysore Warriors",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143437,
-      "status": "UPCOMING",
-      "startTime": "03 July 2026 02:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1781841438718/143437_CASACARDS_SPORTY_APP.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Motorsports",
-      "title": "Practice Session",
-      "tournament": "F1 ACADEMY GREAT BRITAIN 2026",
-      "match_id": 139690,
-      "status": "UPCOMING",
-      "startTime": "03 July 2026 12:15 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -333,13 +332,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "Practice Session",
-      "tournament": "F3 GREAT BRITAIN 2026",
-      "match_id": 139721,
+      "category": "Cricket",
+      "title": "Hubli Tigers Vs Kalyani Bengaluru Blasters",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143438,
       "status": "UPCOMING",
-      "startTime": "03 July 2026 01:15 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
+      "startTime": "03 July 2026 07:00 PM",
+      "image": "https://images.fancode.com/aig/match/v1781841438709/143438_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -352,13 +351,32 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Hubli Tigers Vs Kalyani Bengaluru Blasters",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143438,
+      "category": "Motorsports",
+      "title": "Practice Session",
+      "tournament": "F1 ACADEMY GREAT BRITAIN 2026",
+      "match_id": 139690,
       "status": "UPCOMING",
-      "startTime": "03 July 2026 07:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1781841438709/143438_CASACARDS_SPORTY_APP.png",
+      "startTime": "03 July 2026 12:15 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Motorsports",
+      "title": "Practice Session",
+      "tournament": "F3 GREAT BRITAIN 2026",
+      "match_id": 139721,
+      "status": "UPCOMING",
+      "startTime": "03 July 2026 01:15 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
