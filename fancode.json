@@ -3,11 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "3/7/2026, 6:06:07 pm",
-  "_src_updated": "06:00:08 PM 03-07-2026",
+  "updatedAt": "3/7/2026, 6:21:24 pm",
+  "_src_updated": "06:14:01 PM 03-07-2026",
   "total_matches": 39,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -82,25 +82,6 @@
           "expire_date": "Saturday, July 4, 2026, 5:56:06 PM"
         }
       }
-    },
-    {
-      "category": "Formula 1",
-      "title": "Practice 1",
-      "tournament": "F1 PIRELLI BRITISH GRAND PRIX 2026",
-      "match_id": 139462,
-      "status": "LIVE",
-      "startTime": "03 July 2026 05:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/139462_english_dash_5722_1drmta-di_h264/index.mpd",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139462_english_dash_5722_1drmta-di_h264/index.mpd",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/139462_english_dash_5722_1drmta-di_h264/index.mpd",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/139462_english_dash_5722_1drmta-di_h264/index.mpd",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/139462_english_dash_5722_1drmta-di_h264/index.mpd",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Golf",
@@ -793,6 +774,25 @@
       "status": "UPCOMING",
       "startTime": "05 July 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143590_6148_AM_SG_fc-web_1782725011504.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Shivamogga Yodhas Vs Hubli Tigers",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143440,
+      "status": "UPCOMING",
+      "startTime": "05 July 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1781841438702/143440_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
