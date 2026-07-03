@@ -3,11 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "3/7/2026, 3:07:54 pm",
-  "_src_updated": "02:21:03 PM 03-07-2026",
+  "updatedAt": "3/7/2026, 3:38:32 pm",
+  "_src_updated": "03:28:02 PM 03-07-2026",
   "total_matches": 39,
-  "live_matches": 4,
-  "upcoming_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -117,43 +117,6 @@
           "cookie": "hdntl=Expires=1783153146~_GO=Generated~acl=/mumbai/143437_kannada_hls_fdc1a30ff738184_1ta-di_h264/*~Signature=Ac2BFekapaGj_f4BoSPZoWB4kQhxmAHaOo5OciDfGzmQt3Ek3bU8Kdj_aMvDxaqxyEZy8SlbuQ2VQQIqg55fL1WCAJIF",
           "expires": "1783153146",
           "expire_date": "Saturday, July 4, 2026, 1:49:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Motorsports",
-      "title": "Practice Session",
-      "tournament": "F2 GREAT BRITAIN 2026",
-      "match_id": 139634,
-      "status": "LIVE",
-      "startTime": "03 July 2026 02:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Austria_Old_match-card.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/139634_english_hls_bd9eaa0d3380942_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139634_english_hls_bd9eaa0d3380942_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/139634_english_hls_bd9eaa0d3380942_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/139634_english_hls_bd9eaa0d3380942_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/139634_english_hls_bd9eaa0d3380942_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/139634_english_hls_bd9eaa0d3380942_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/139634_english_hls_bd9eaa0d3380942_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/139634_english_hls_bd9eaa0d3380942_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/139634_english_hls_bd9eaa0d3380942_1ta-di_h264/240p.m3u8?hdntl=Expires=1783155065~_GO=Generated~acl=/mumbai/139634_english_hls_bd9eaa0d3380942_1ta-di_h264/*~Signature=Ac2BFenITZhwOZUmFf5DOdvmpJI8lduP0Bben5NlvKI8JwhnjErCefifU3bNfmDCucaKklwP0uudlJ92h61eyXQsEC8C",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/139634_english_hls_bd9eaa0d3380942_1ta-di_h264/360p.m3u8?hdntl=Expires=1783155065~_GO=Generated~acl=/mumbai/139634_english_hls_bd9eaa0d3380942_1ta-di_h264/*~Signature=Ac2BFenITZhwOZUmFf5DOdvmpJI8lduP0Bben5NlvKI8JwhnjErCefifU3bNfmDCucaKklwP0uudlJ92h61eyXQsEC8C",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/139634_english_hls_bd9eaa0d3380942_1ta-di_h264/480p.m3u8?hdntl=Expires=1783155065~_GO=Generated~acl=/mumbai/139634_english_hls_bd9eaa0d3380942_1ta-di_h264/*~Signature=Ac2BFenITZhwOZUmFf5DOdvmpJI8lduP0Bben5NlvKI8JwhnjErCefifU3bNfmDCucaKklwP0uudlJ92h61eyXQsEC8C",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/139634_english_hls_bd9eaa0d3380942_1ta-di_h264/540p.m3u8?hdntl=Expires=1783155065~_GO=Generated~acl=/mumbai/139634_english_hls_bd9eaa0d3380942_1ta-di_h264/*~Signature=Ac2BFenITZhwOZUmFf5DOdvmpJI8lduP0Bben5NlvKI8JwhnjErCefifU3bNfmDCucaKklwP0uudlJ92h61eyXQsEC8C",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/139634_english_hls_bd9eaa0d3380942_1ta-di_h264/720p.m3u8?hdntl=Expires=1783155065~_GO=Generated~acl=/mumbai/139634_english_hls_bd9eaa0d3380942_1ta-di_h264/*~Signature=Ac2BFenITZhwOZUmFf5DOdvmpJI8lduP0Bben5NlvKI8JwhnjErCefifU3bNfmDCucaKklwP0uudlJ92h61eyXQsEC8C",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/139634_english_hls_bd9eaa0d3380942_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1783155065~_GO=Generated~acl=/mumbai/139634_english_hls_bd9eaa0d3380942_1ta-di_h264/*~Signature=Ac2BFenITZhwOZUmFf5DOdvmpJI8lduP0Bben5NlvKI8JwhnjErCefifU3bNfmDCucaKklwP0uudlJ92h61eyXQsEC8C"
-          },
-          "cookie": "hdntl=Expires=1783155065~_GO=Generated~acl=/mumbai/139634_english_hls_bd9eaa0d3380942_1ta-di_h264/*~Signature=Ac2BFenITZhwOZUmFf5DOdvmpJI8lduP0Bben5NlvKI8JwhnjErCefifU3bNfmDCucaKklwP0uudlJ92h61eyXQsEC8C",
-          "expires": "1783155065",
-          "expire_date": "Saturday, July 4, 2026, 2:21:05 PM"
         }
       }
     },
@@ -524,7 +487,7 @@
       "tournament": "F1 PIRELLI BRITISH GRAND PRIX 2026",
       "match_id": 139464,
       "status": "UPCOMING",
-      "startTime": "04 July 2026 05:00 PM",
+      "startTime": "04 July 2026 04:30 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web_1782801083974.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
@@ -672,12 +635,12 @@
     },
     {
       "category": "Motorsports",
-      "title": "F1 Kids 2026",
-      "tournament": "F1 Kids 2026",
-      "match_id": 143674,
+      "title": "Reverse Grid Race",
+      "tournament": "F1 ACADEMY GREAT BRITAIN 2026",
+      "match_id": 139691,
       "status": "UPCOMING",
-      "startTime": "04 July 2026 04:25 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
+      "startTime": "04 July 2026 10:35 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -691,12 +654,12 @@
     },
     {
       "category": "Motorsports",
-      "title": "Reverse Grid Race",
-      "tournament": "F1 ACADEMY GREAT BRITAIN 2026",
-      "match_id": 139691,
+      "title": "F1 Kids 2026",
+      "tournament": "F1 Kids 2026",
+      "match_id": 143674,
       "status": "UPCOMING",
-      "startTime": "04 July 2026 10:35 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg",
+      "startTime": "04 July 2026 04:25 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -811,6 +774,25 @@
       "status": "UPCOMING",
       "startTime": "05 July 2026 12:55 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Motorsports",
+      "title": "Feature Race",
+      "tournament": "F1 ACADEMY GREAT BRITAIN 2026",
+      "match_id": 139692,
+      "status": "UPCOMING",
+      "startTime": "05 July 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
