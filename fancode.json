@@ -3,11 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "3/7/2026, 9:20:16 pm",
-  "_src_updated": "08:49:07 PM 03-07-2026",
+  "updatedAt": "3/7/2026, 10:11:12 pm",
+  "_src_updated": "10:07:07 PM 03-07-2026",
   "total_matches": 39,
-  "live_matches": 7,
-  "upcoming_matches": 33,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -152,8 +152,8 @@
             "1080p": "https://in-mc-fblive.fancode.com/mumbai/143667_english_hls_d5a3a93f9f77586_1ta-di_h264/1080p.m3u8"
           },
           "cookie": "",
-          "expires": "1783168207",
-          "expire_date": "Saturday, July 4, 2026, 6:00:07 PM"
+          "expires": "1783183027",
+          "expire_date": "Saturday, July 4, 2026, 10:07:07 PM"
         }
       }
     },
@@ -193,25 +193,6 @@
           "expire_date": "Saturday, July 4, 2026, 7:21:07 PM"
         }
       }
-    },
-    {
-      "category": "Formula 1",
-      "title": "Sprint Qualifying",
-      "tournament": "F1 PIRELLI BRITISH GRAND PRIX 2026",
-      "match_id": 139463,
-      "status": "LIVE",
-      "startTime": "03 July 2026 09:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/139463_english_dash_69557_1drmta-di_h264/index.mpd",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139463_english_dash_69557_1drmta-di_h264/index.mpd",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/139463_english_dash_69557_1drmta-di_h264/index.mpd",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/139463_english_dash_69557_1drmta-di_h264/index.mpd",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/139463_english_dash_69557_1drmta-di_h264/index.mpd",
-        "backup": {}
-      },
-      "auto_streams": {}
     },
     {
       "category": "Golf",
@@ -847,6 +828,25 @@
       "status": "UPCOMING",
       "startTime": "05 July 2026 06:15 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Golf",
+      "title": "Day 4",
+      "tournament": "Hulencourt Women's Open 2026",
+      "match_id": 143411,
+      "status": "UPCOMING",
+      "startTime": "05 July 2026 06:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
