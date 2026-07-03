@@ -3,11 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "3/7/2026, 11:12:16 pm",
-  "_src_updated": "11:07:06 PM 03-07-2026",
+  "updatedAt": "3/7/2026, 11:27:32 pm",
+  "_src_updated": "11:14:02 PM 03-07-2026",
   "total_matches": 39,
-  "live_matches": 6,
-  "upcoming_matches": 34,
+  "live_matches": 5,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -191,43 +191,6 @@
           "cookie": "",
           "expires": "1783178346",
           "expire_date": "Saturday, July 4, 2026, 8:49:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Motorsports",
-      "title": "Qualifying Session",
-      "tournament": "F1 ACADEMY GREAT BRITAIN 2026",
-      "match_id": 139689,
-      "status": "LIVE",
-      "startTime": "03 July 2026 10:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/139689_english_hls_3bfe9dc80c39044_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139689_english_hls_3bfe9dc80c39044_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/139689_english_hls_3bfe9dc80c39044_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/139689_english_hls_3bfe9dc80c39044_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/139689_english_hls_3bfe9dc80c39044_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/139689_english_hls_3bfe9dc80c39044_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/139689_english_hls_3bfe9dc80c39044_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/139689_english_hls_3bfe9dc80c39044_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/139689_english_hls_3bfe9dc80c39044_1ta-di_h264/240p.m3u8?hdntl=Expires=1783184285~_GO=Generated~acl=/mumbai/139689_english_hls_3bfe9dc80c39044_1ta-di_h264/*~Signature=Ac2BFekHJekTZO7WYXGW4Q9G_Jo-ydGz_qewZdu4Qo_-DRFYD-JAjIXZOMSHbSBTQwN_VnhHNYZ-f6Esk3ftVJmgibQB",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/139689_english_hls_3bfe9dc80c39044_1ta-di_h264/360p.m3u8?hdntl=Expires=1783184285~_GO=Generated~acl=/mumbai/139689_english_hls_3bfe9dc80c39044_1ta-di_h264/*~Signature=Ac2BFekHJekTZO7WYXGW4Q9G_Jo-ydGz_qewZdu4Qo_-DRFYD-JAjIXZOMSHbSBTQwN_VnhHNYZ-f6Esk3ftVJmgibQB",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/139689_english_hls_3bfe9dc80c39044_1ta-di_h264/480p.m3u8?hdntl=Expires=1783184285~_GO=Generated~acl=/mumbai/139689_english_hls_3bfe9dc80c39044_1ta-di_h264/*~Signature=Ac2BFekHJekTZO7WYXGW4Q9G_Jo-ydGz_qewZdu4Qo_-DRFYD-JAjIXZOMSHbSBTQwN_VnhHNYZ-f6Esk3ftVJmgibQB",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/139689_english_hls_3bfe9dc80c39044_1ta-di_h264/540p.m3u8?hdntl=Expires=1783184285~_GO=Generated~acl=/mumbai/139689_english_hls_3bfe9dc80c39044_1ta-di_h264/*~Signature=Ac2BFekHJekTZO7WYXGW4Q9G_Jo-ydGz_qewZdu4Qo_-DRFYD-JAjIXZOMSHbSBTQwN_VnhHNYZ-f6Esk3ftVJmgibQB",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/139689_english_hls_3bfe9dc80c39044_1ta-di_h264/720p.m3u8?hdntl=Expires=1783184285~_GO=Generated~acl=/mumbai/139689_english_hls_3bfe9dc80c39044_1ta-di_h264/*~Signature=Ac2BFekHJekTZO7WYXGW4Q9G_Jo-ydGz_qewZdu4Qo_-DRFYD-JAjIXZOMSHbSBTQwN_VnhHNYZ-f6Esk3ftVJmgibQB",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/139689_english_hls_3bfe9dc80c39044_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1783184285~_GO=Generated~acl=/mumbai/139689_english_hls_3bfe9dc80c39044_1ta-di_h264/*~Signature=Ac2BFekHJekTZO7WYXGW4Q9G_Jo-ydGz_qewZdu4Qo_-DRFYD-JAjIXZOMSHbSBTQwN_VnhHNYZ-f6Esk3ftVJmgibQB"
-          },
-          "cookie": "hdntl=Expires=1783184285~_GO=Generated~acl=/mumbai/139689_english_hls_3bfe9dc80c39044_1ta-di_h264/*~Signature=Ac2BFekHJekTZO7WYXGW4Q9G_Jo-ydGz_qewZdu4Qo_-DRFYD-JAjIXZOMSHbSBTQwN_VnhHNYZ-f6Esk3ftVJmgibQB",
-          "expires": "1783184285",
-          "expire_date": "Saturday, July 4, 2026, 10:28:05 PM"
         }
       }
     },
@@ -593,13 +556,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "F1 Kids 2026",
-      "tournament": "F1 Kids 2026",
-      "match_id": 143674,
+      "category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "tournament": "KPL Indo Nepal T20 2026",
+      "match_id": 143539,
       "status": "UPCOMING",
-      "startTime": "04 July 2026 04:25 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
+      "startTime": "05 July 2026 08:45 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -612,13 +575,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Tbc Vs Tbc",
-      "tournament": "KPL Indo Nepal T20 2026",
-      "match_id": 143539,
+      "category": "Motorsports",
+      "title": "F1 Kids 2026",
+      "tournament": "F1 Kids 2026",
+      "match_id": 143674,
       "status": "UPCOMING",
-      "startTime": "05 July 2026 08:45 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
+      "startTime": "04 July 2026 04:25 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -847,6 +810,25 @@
       "status": "UPCOMING",
       "startTime": "05 July 2026 06:40 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Formula 1",
+      "title": "Race",
+      "tournament": "F1 PIRELLI BRITISH GRAND PRIX 2026",
+      "match_id": 139466,
+      "status": "UPCOMING",
+      "startTime": "05 July 2026 07:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
