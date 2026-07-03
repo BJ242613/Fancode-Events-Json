@@ -3,11 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "3/7/2026, 6:21:24 pm",
-  "_src_updated": "06:14:01 PM 03-07-2026",
+  "updatedAt": "3/7/2026, 6:31:34 pm",
+  "_src_updated": "06:21:03 PM 03-07-2026",
   "total_matches": 39,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 4,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Cricket",
@@ -121,6 +121,43 @@
       }
     },
     {
+      "category": "Motorsports",
+      "title": "Qualifying Session",
+      "tournament": "F3 GREAT BRITAIN 2026",
+      "match_id": 139722,
+      "status": "LIVE",
+      "startTime": "03 July 2026 06:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/index.m3u8",
+        "backup": {
+          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/index.m3u8",
+          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/index.m3u8",
+          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/139722_english_hls_5444758aa511224_1ta-di_h264/index.m3u8"
+        }
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/240p.m3u8?hdntl=Expires=1783169465~_GO=Generated~acl=/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/*~Signature=Ac2BFemf0zuYcQ9Sljy4awV6N-UvI-J4HihZMkUr5_qs0Ox9VbCrySFJidz_SoWbfqzxpEKIuGpAnpRtbUikrn-2GbsO",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/360p.m3u8?hdntl=Expires=1783169465~_GO=Generated~acl=/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/*~Signature=Ac2BFemf0zuYcQ9Sljy4awV6N-UvI-J4HihZMkUr5_qs0Ox9VbCrySFJidz_SoWbfqzxpEKIuGpAnpRtbUikrn-2GbsO",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/480p.m3u8?hdntl=Expires=1783169465~_GO=Generated~acl=/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/*~Signature=Ac2BFemf0zuYcQ9Sljy4awV6N-UvI-J4HihZMkUr5_qs0Ox9VbCrySFJidz_SoWbfqzxpEKIuGpAnpRtbUikrn-2GbsO",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/540p.m3u8?hdntl=Expires=1783169465~_GO=Generated~acl=/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/*~Signature=Ac2BFemf0zuYcQ9Sljy4awV6N-UvI-J4HihZMkUr5_qs0Ox9VbCrySFJidz_SoWbfqzxpEKIuGpAnpRtbUikrn-2GbsO",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/720p.m3u8?hdntl=Expires=1783169465~_GO=Generated~acl=/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/*~Signature=Ac2BFemf0zuYcQ9Sljy4awV6N-UvI-J4HihZMkUr5_qs0Ox9VbCrySFJidz_SoWbfqzxpEKIuGpAnpRtbUikrn-2GbsO",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1783169465~_GO=Generated~acl=/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/*~Signature=Ac2BFemf0zuYcQ9Sljy4awV6N-UvI-J4HihZMkUr5_qs0Ox9VbCrySFJidz_SoWbfqzxpEKIuGpAnpRtbUikrn-2GbsO"
+          },
+          "cookie": "hdntl=Expires=1783169465~_GO=Generated~acl=/mumbai/139722_english_hls_5444758aa511224_1ta-di_h264/*~Signature=Ac2BFemf0zuYcQ9Sljy4awV6N-UvI-J4HihZMkUr5_qs0Ox9VbCrySFJidz_SoWbfqzxpEKIuGpAnpRtbUikrn-2GbsO",
+          "expires": "1783169465",
+          "expire_date": "Saturday, July 4, 2026, 6:21:05 PM"
+        }
+      }
+    },
+    {
       "category": "Cricket",
       "title": "West Indies Vs Sri Lanka",
       "tournament": "Sri Lanka tour of West Indies 2026",
@@ -204,25 +241,6 @@
       "status": "UPCOMING",
       "startTime": "04 July 2026 01:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143629_6150_NAM_VID_fc-web.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Motorsports",
-      "title": "Qualifying Session",
-      "tournament": "F3 GREAT BRITAIN 2026",
-      "match_id": 139722,
-      "status": "UPCOMING",
-      "startTime": "03 July 2026 06:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
