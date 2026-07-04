@@ -3,11 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "4/7/2026, 9:15:18 pm",
-  "_src_updated": "08:42:02 PM 04-07-2026",
+  "updatedAt": "4/7/2026, 10:11:12 pm",
+  "_src_updated": "09:56:02 PM 04-07-2026",
   "total_matches": 38,
-  "live_matches": 5,
-  "upcoming_matches": 33,
+  "live_matches": 4,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -78,8 +78,8 @@
             "1080p": "https://in-mc-fblive.fancode.com/mumbai/143669_english_hls_1721bf9bc447432_1ta-di_h264/1080p.m3u8"
           },
           "cookie": "",
-          "expires": "1783249928",
-          "expire_date": "Sunday, July 5, 2026, 4:42:08 PM"
+          "expires": "1783264747",
+          "expire_date": "Sunday, July 5, 2026, 8:49:07 PM"
         }
       }
     },
@@ -158,25 +158,6 @@
       }
     },
     {
-      "category": "Formula 1",
-      "title": "Qualifying",
-      "tournament": "F1 PIRELLI BRITISH GRAND PRIX 2026",
-      "match_id": 139465,
-      "status": "LIVE",
-      "startTime": "04 July 2026 08:30 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/139465_english_dash_17235_1drmta-di_h264/index.mpd",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/139465_english_dash_17235_1drmta-di_h264/index.mpd",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/139465_english_dash_17235_1drmta-di_h264/index.mpd",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/139465_english_dash_17235_1drmta-di_h264/index.mpd",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/139465_english_dash_17235_1drmta-di_h264/index.mpd",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
       "title": "Chinnamasta Lions Vs Rml Sports",
       "tournament": "KPL Indo Nepal T20 2026",
@@ -215,13 +196,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Shivamogga Yodhas Vs Hubli Tigers",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143440,
+      "category": "Motorsports",
+      "title": "Reverse Grid Race",
+      "tournament": "F1 ACADEMY GREAT BRITAIN 2026",
+      "match_id": 139691,
       "status": "UPCOMING",
-      "startTime": "05 July 2026 07:30 PM",
-      "image": "https://images.fancode.com/aig/match/v1781841438702/143440_CASACARDS_SPORTY_APP.png",
+      "startTime": "04 July 2026 10:35 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -234,13 +215,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "Reverse Grid Race",
-      "tournament": "F1 ACADEMY GREAT BRITAIN 2026",
-      "match_id": 139691,
+      "category": "Cricket",
+      "title": "Shivamogga Yodhas Vs Hubli Tigers",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143440,
       "status": "UPCOMING",
-      "startTime": "04 July 2026 10:35 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg",
+      "startTime": "05 July 2026 07:30 PM",
+      "image": "https://images.fancode.com/aig/match/v1781841438702/143440_CASACARDS_SPORTY_APP.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -792,6 +773,25 @@
       "status": "UPCOMING",
       "startTime": "08 July 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Live Events",
+      "title": "Day 1",
+      "tournament": "Dream UTT Juniors 2026",
+      "match_id": 4246584,
+      "status": "UPCOMING",
+      "startTime": "08 July 2026 09:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
