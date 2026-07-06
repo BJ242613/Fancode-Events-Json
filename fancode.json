@@ -3,8 +3,8 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "6/7/2026, 4:36:30 pm",
-  "_src_updated": "04:35:09 PM 06-07-2026",
+  "updatedAt": "6/7/2026, 4:46:39 pm",
+  "_src_updated": "04:42:10 PM 06-07-2026",
   "total_matches": 40,
   "live_matches": 5,
   "upcoming_matches": 35,
@@ -19,11 +19,11 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-plive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-plive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-plive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-plive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-plive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/index.m3u8",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/index.m3u8",
         "backup": {
           "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/index.m3u8",
           "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/index.m3u8",
@@ -33,16 +33,16 @@
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "https://in-mc-plive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/240p.m3u8?hdntl=Expires=1783422309~_GO=Generated~acl=/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/*~Signature=Ac2BFenZlmb8H0NGX2i0VC5ZC775-k3D8XXicxoXWUdFj9oh-5ttTbcMKbDjKJFBBWJO6uaYlHu_mTmhxrpTj8ZgeMQL",
-            "360p": "https://in-mc-plive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/360p.m3u8?hdntl=Expires=1783422309~_GO=Generated~acl=/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/*~Signature=Ac2BFenZlmb8H0NGX2i0VC5ZC775-k3D8XXicxoXWUdFj9oh-5ttTbcMKbDjKJFBBWJO6uaYlHu_mTmhxrpTj8ZgeMQL",
-            "480p": "https://in-mc-plive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/480p.m3u8?hdntl=Expires=1783422309~_GO=Generated~acl=/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/*~Signature=Ac2BFenZlmb8H0NGX2i0VC5ZC775-k3D8XXicxoXWUdFj9oh-5ttTbcMKbDjKJFBBWJO6uaYlHu_mTmhxrpTj8ZgeMQL",
-            "540p": "https://in-mc-plive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/540p.m3u8?hdntl=Expires=1783422309~_GO=Generated~acl=/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/*~Signature=Ac2BFenZlmb8H0NGX2i0VC5ZC775-k3D8XXicxoXWUdFj9oh-5ttTbcMKbDjKJFBBWJO6uaYlHu_mTmhxrpTj8ZgeMQL",
-            "720p": "https://in-mc-plive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/720p.m3u8?hdntl=Expires=1783422309~_GO=Generated~acl=/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/*~Signature=Ac2BFenZlmb8H0NGX2i0VC5ZC775-k3D8XXicxoXWUdFj9oh-5ttTbcMKbDjKJFBBWJO6uaYlHu_mTmhxrpTj8ZgeMQL",
-            "1080p": "https://in-mc-plive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783422309~_GO=Generated~acl=/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/*~Signature=Ac2BFenZlmb8H0NGX2i0VC5ZC775-k3D8XXicxoXWUdFj9oh-5ttTbcMKbDjKJFBBWJO6uaYlHu_mTmhxrpTj8ZgeMQL"
+            "240p": "https://in-mc-flive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/240p.m3u8?hdntl=Expires=1783422724~_GO=Generated~acl=/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/*~Signature=Ac2BFek3OsW-VbuXqPLVB84pG5EOzB_PKWwMIH1ANrxOKIzcidNEA4FLqoP0_IBzgBkzY7auMLdH_UvGQ3cnfKYO_zgK",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/360p.m3u8?hdntl=Expires=1783422724~_GO=Generated~acl=/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/*~Signature=Ac2BFek3OsW-VbuXqPLVB84pG5EOzB_PKWwMIH1ANrxOKIzcidNEA4FLqoP0_IBzgBkzY7auMLdH_UvGQ3cnfKYO_zgK",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/480p.m3u8?hdntl=Expires=1783422724~_GO=Generated~acl=/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/*~Signature=Ac2BFek3OsW-VbuXqPLVB84pG5EOzB_PKWwMIH1ANrxOKIzcidNEA4FLqoP0_IBzgBkzY7auMLdH_UvGQ3cnfKYO_zgK",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/540p.m3u8?hdntl=Expires=1783422724~_GO=Generated~acl=/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/*~Signature=Ac2BFek3OsW-VbuXqPLVB84pG5EOzB_PKWwMIH1ANrxOKIzcidNEA4FLqoP0_IBzgBkzY7auMLdH_UvGQ3cnfKYO_zgK",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/720p.m3u8?hdntl=Expires=1783422724~_GO=Generated~acl=/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/*~Signature=Ac2BFek3OsW-VbuXqPLVB84pG5EOzB_PKWwMIH1ANrxOKIzcidNEA4FLqoP0_IBzgBkzY7auMLdH_UvGQ3cnfKYO_zgK",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783422724~_GO=Generated~acl=/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/*~Signature=Ac2BFek3OsW-VbuXqPLVB84pG5EOzB_PKWwMIH1ANrxOKIzcidNEA4FLqoP0_IBzgBkzY7auMLdH_UvGQ3cnfKYO_zgK"
           },
-          "cookie": "hdntl=Expires=1783422309~_GO=Generated~acl=/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/*~Signature=Ac2BFenZlmb8H0NGX2i0VC5ZC775-k3D8XXicxoXWUdFj9oh-5ttTbcMKbDjKJFBBWJO6uaYlHu_mTmhxrpTj8ZgeMQL",
-          "expires": "1783422309",
-          "expire_date": "Tuesday, July 7, 2026, 4:35:09 PM"
+          "cookie": "hdntl=Expires=1783422724~_GO=Generated~acl=/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/*~Signature=Ac2BFek3OsW-VbuXqPLVB84pG5EOzB_PKWwMIH1ANrxOKIzcidNEA4FLqoP0_IBzgBkzY7auMLdH_UvGQ3cnfKYO_zgK",
+          "expires": "1783422724",
+          "expire_date": "Tuesday, July 7, 2026, 4:42:04 PM"
         }
       }
     },
