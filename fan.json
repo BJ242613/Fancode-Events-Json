@@ -3,21 +3,21 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "8/7/2026, 5:15:54 pm",
+  "updatedAt": "8/7/2026, 5:46:29 pm",
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
       "title": "Belgium Vs Gibraltar",
       "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
       "match_id": 4246559,
-      "status": "LIVE",
+      "status": "UPCOMING",
       "startTime": "08 July 2026 02:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4246559_eng.sonuxs.m3u8"
+      "language": null,
+      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -40,17 +40,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143631_6150_NAM_VID_fc-web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/143631_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Shivamogga Yodhas Vs Mysore Warriors",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143443,
-      "status": "UPCOMING",
-      "startTime": "08 July 2026 02:00 PM",
-      "image": "https://images.fancode.com/aig/match/v1781841438721/143443_CASACARDS_SPORTY_APP.png",
-      "language": null,
-      "cnptv_cdn": null
     },
     {
       "category": "Cricket",
@@ -445,6 +434,17 @@
       "status": "UPCOMING",
       "startTime": "12 July 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "MotoGP",
+      "title": "Race Day",
+      "tournament": "LIQUI MOLY GRAND PRIX OF GERMANY 2026",
+      "match_id": 139959,
+      "status": "UPCOMING",
+      "startTime": "12 July 2026 02:30 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Liqui_Moly_GP_Germany_2026_FC-WEB.jpg",
       "language": null,
       "cnptv_cdn": null
     }
