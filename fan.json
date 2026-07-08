@@ -3,10 +3,10 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "8/7/2026, 12:50:53 pm",
+  "updatedAt": "8/7/2026, 1:21:27 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
     {
       "category": "Cricket",
@@ -18,17 +18,6 @@
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143631_6150_NAM_VID_fc-web.jpg",
       "language": "ENGLISH",
       "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv//143631_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Live Events",
-      "title": "Day 1",
-      "tournament": "Dream UTT Juniors 2026",
-      "match_id": 4246584,
-      "status": "LIVE",
-      "startTime": "08 July 2026 09:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv//4246584_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -148,28 +137,6 @@
       "status": "UPCOMING",
       "startTime": "09 July 2026 09:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Bost Defenders Vs Speen Ghar Tigers",
-      "tournament": "Shpageeza Cricket League, 2026",
-      "match_id": 143595,
-      "status": "UPCOMING",
-      "startTime": "09 July 2026 10:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143595_6148_BOS_SG_fc-web_1782725011626.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Band E Amir Dragons Vs Mis E Ainak Knights",
-      "tournament": "Shpageeza Cricket League, 2026",
-      "match_id": 143596,
-      "status": "UPCOMING",
-      "startTime": "09 July 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143596_6148_BD_MAK_fc-web_1782725011507.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -445,6 +412,39 @@
       "status": "UPCOMING",
       "startTime": "12 July 2026 09:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Mis E Ainak Knights Vs Speen Ghar Tigers",
+      "tournament": "Shpageeza Cricket League, 2026",
+      "match_id": 143600,
+      "status": "UPCOMING",
+      "startTime": "12 July 2026 10:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143600_6148_MAK_SG_fc-web_1782725012164.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Gibraltar Vs Serbia",
+      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "match_id": 4246574,
+      "status": "UPCOMING",
+      "startTime": "12 July 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Hungary Vs Turkiye",
+      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "match_id": 4246575,
+      "status": "UPCOMING",
+      "startTime": "12 July 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
       "language": null,
       "cnptv_cdn": null
     }
