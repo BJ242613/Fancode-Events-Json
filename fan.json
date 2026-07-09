@@ -3,11 +3,22 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "9/7/2026, 10:32:32 pm",
+  "updatedAt": "10/7/2026, 1:31:19 am",
   "total_matches": 40,
-  "live_matches": 0,
-  "upcoming_matches": 40,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
+    {
+      "category": "Golf",
+      "title": "Day 1",
+      "tournament": "ISCO Championship 2026",
+      "match_id": 4246547,
+      "status": "LIVE",
+      "startTime": "10 July 2026 01:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ISCO-Championship_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4246547_eng.sonuxs.m3u8"
+    },
     {
       "category": "Cricket",
       "title": "Romania Vs Gibraltar",
@@ -97,17 +108,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Golf",
-      "title": "Day 1",
-      "tournament": "ISCO Championship 2026",
-      "match_id": 4246547,
-      "status": "UPCOMING",
-      "startTime": "10 July 2026 01:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ISCO-Championship_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Live Events",
       "title": "Day 3",
       "tournament": "Dream UTT Juniors 2026",
@@ -137,17 +137,6 @@
       "status": "UPCOMING",
       "startTime": "10 July 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143597_6148_BOS_BD_fc-web_1782725011549.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Norway Vs Hungary",
-      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "match_id": 4246560,
-      "status": "UPCOMING",
-      "startTime": "08 July 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -207,17 +196,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Live Events",
-      "title": "Day 4",
-      "tournament": "Dream UTT Juniors 2026",
-      "match_id": 4246602,
-      "status": "UPCOMING",
-      "startTime": "11 July 2026 09:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "Cricket",
       "title": "Tbc Vs Tbc",
       "tournament": "Maharaja T20 Trophy, 2026",
@@ -225,6 +203,17 @@
       "status": "UPCOMING",
       "startTime": "11 July 2026 02:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Live Events",
+      "title": "Day 4",
+      "tournament": "Dream UTT Juniors 2026",
+      "match_id": 4246602,
+      "status": "UPCOMING",
+      "startTime": "11 July 2026 09:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -445,6 +434,17 @@
       "status": "UPCOMING",
       "startTime": "13 July 2026 09:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Band E Amir Dragons Vs Speen Ghar Tigers",
+      "tournament": "Shpageeza Cricket League, 2026",
+      "match_id": 143697,
+      "status": "UPCOMING",
+      "startTime": "13 July 2026 10:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": null,
       "cnptv_cdn": null
     }
