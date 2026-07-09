@@ -3,22 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "10/7/2026, 1:31:19 am",
-  "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "updatedAt": "10/7/2026, 5:21:12 am",
+  "total_matches": 38,
+  "live_matches": 0,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Golf",
-      "title": "Day 1",
-      "tournament": "ISCO Championship 2026",
-      "match_id": 4246547,
-      "status": "LIVE",
-      "startTime": "10 July 2026 01:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ISCO-Championship_fc-web.jpg",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4246547_eng.sonuxs.m3u8"
-    },
     {
       "category": "Cricket",
       "title": "Romania Vs Gibraltar",
@@ -434,17 +423,6 @@
       "status": "UPCOMING",
       "startTime": "13 July 2026 09:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Band E Amir Dragons Vs Speen Ghar Tigers",
-      "tournament": "Shpageeza Cricket League, 2026",
-      "match_id": 143697,
-      "status": "UPCOMING",
-      "startTime": "13 July 2026 10:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": null,
       "cnptv_cdn": null
     }
