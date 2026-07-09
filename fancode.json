@@ -3,10 +3,10 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "FanCode Live Matches API",
-  "updatedAt": "9/7/2026, 1:53:38 pm",
+  "updatedAt": "9/7/2026, 5:52:39 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
     {
       "category": "Cricket",
@@ -32,53 +32,16 @@
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/143401_english_hls_f348d94aff63391_1ta-di_h264/240p.m3u8?hdntl=Expires=1783667106~_GO=Generated~acl=/mumbai/143401_english_hls_f348d94aff63391_1ta-di_h264/*~Signature=AfBeBzjkCOopmmE-ON9xqd_cMwSeWwcQNRgATvLTOSXYVOe2bPcZs8dyTZ72wk-nJWyHG0EDhSWtNDCeGZc-29T8wOUC",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/143401_english_hls_f348d94aff63391_1ta-di_h264/360p.m3u8?hdntl=Expires=1783667106~_GO=Generated~acl=/mumbai/143401_english_hls_f348d94aff63391_1ta-di_h264/*~Signature=AfBeBzjkCOopmmE-ON9xqd_cMwSeWwcQNRgATvLTOSXYVOe2bPcZs8dyTZ72wk-nJWyHG0EDhSWtNDCeGZc-29T8wOUC",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/143401_english_hls_f348d94aff63391_1ta-di_h264/480p.m3u8?hdntl=Expires=1783667106~_GO=Generated~acl=/mumbai/143401_english_hls_f348d94aff63391_1ta-di_h264/*~Signature=AfBeBzjkCOopmmE-ON9xqd_cMwSeWwcQNRgATvLTOSXYVOe2bPcZs8dyTZ72wk-nJWyHG0EDhSWtNDCeGZc-29T8wOUC",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/143401_english_hls_f348d94aff63391_1ta-di_h264/540p.m3u8?hdntl=Expires=1783667106~_GO=Generated~acl=/mumbai/143401_english_hls_f348d94aff63391_1ta-di_h264/*~Signature=AfBeBzjkCOopmmE-ON9xqd_cMwSeWwcQNRgATvLTOSXYVOe2bPcZs8dyTZ72wk-nJWyHG0EDhSWtNDCeGZc-29T8wOUC",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/143401_english_hls_f348d94aff63391_1ta-di_h264/720p.m3u8?hdntl=Expires=1783667106~_GO=Generated~acl=/mumbai/143401_english_hls_f348d94aff63391_1ta-di_h264/*~Signature=AfBeBzjkCOopmmE-ON9xqd_cMwSeWwcQNRgATvLTOSXYVOe2bPcZs8dyTZ72wk-nJWyHG0EDhSWtNDCeGZc-29T8wOUC",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/143401_english_hls_f348d94aff63391_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783667106~_GO=Generated~acl=/mumbai/143401_english_hls_f348d94aff63391_1ta-di_h264/*~Signature=AfBeBzjkCOopmmE-ON9xqd_cMwSeWwcQNRgATvLTOSXYVOe2bPcZs8dyTZ72wk-nJWyHG0EDhSWtNDCeGZc-29T8wOUC"
+            "240p": "https://in-mc-fblive.fancode.com/mumbai/143401_english_hls_f348d94aff63391_1ta-di_h264/240p.m3u8",
+            "360p": "https://in-mc-fblive.fancode.com/mumbai/143401_english_hls_f348d94aff63391_1ta-di_h264/360p.m3u8",
+            "480p": "https://in-mc-fblive.fancode.com/mumbai/143401_english_hls_f348d94aff63391_1ta-di_h264/480p.m3u8",
+            "540p": "https://in-mc-fblive.fancode.com/mumbai/143401_english_hls_f348d94aff63391_1ta-di_h264/540p.m3u8",
+            "720p": "https://in-mc-fblive.fancode.com/mumbai/143401_english_hls_f348d94aff63391_1ta-di_h264/720p.m3u8",
+            "1080p": "https://in-mc-fblive.fancode.com/mumbai/143401_english_hls_f348d94aff63391_1ta-di_h264/1080p.m3u8"
           },
-          "cookie": "hdntl=Expires=1783667106~_GO=Generated~acl=/mumbai/143401_english_hls_f348d94aff63391_1ta-di_h264/*~Signature=AfBeBzjkCOopmmE-ON9xqd_cMwSeWwcQNRgATvLTOSXYVOe2bPcZs8dyTZ72wk-nJWyHG0EDhSWtNDCeGZc-29T8wOUC",
-          "expires": "1783667106",
-          "expire_date": "Friday, July 10, 2026, 12:35:06 PM"
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Denmark Vs Turkiye",
-      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "match_id": 4246568,
-      "status": "LIVE",
-      "startTime": "09 July 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4246568_english_hls_bc9267151625322_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4246568_english_hls_bc9267151625322_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4246568_english_hls_bc9267151625322_1ta-di_h264/index.m3u8",
-        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4246568_english_hls_bc9267151625322_1ta-di_h264/index.m3u8",
-        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4246568_english_hls_bc9267151625322_1ta-di_h264/index.m3u8",
-        "backup": {
-          "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4246568_english_hls_bc9267151625322_1ta-di_h264/index.m3u8",
-          "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4246568_english_hls_bc9267151625322_1ta-di_h264/index.m3u8",
-          "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/4246568_english_hls_bc9267151625322_1ta-di_h264/index.m3u8"
-        }
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4246568_english_hls_bc9267151625322_1ta-di_h264/240p.m3u8?hdntl=Expires=1783671546~_GO=Generated~acl=/mumbai/4246568_english_hls_bc9267151625322_1ta-di_h264/*~Signature=AfBeBzhTjVK599ZtTchqWOgejrwAgdoEwyVuErsPxVhjIyd_GeDndfE7-irK56kmzJ9S40Q_vY7o0Bd3Phh9tpFIq6oP",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4246568_english_hls_bc9267151625322_1ta-di_h264/360p.m3u8?hdntl=Expires=1783671546~_GO=Generated~acl=/mumbai/4246568_english_hls_bc9267151625322_1ta-di_h264/*~Signature=AfBeBzhTjVK599ZtTchqWOgejrwAgdoEwyVuErsPxVhjIyd_GeDndfE7-irK56kmzJ9S40Q_vY7o0Bd3Phh9tpFIq6oP",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4246568_english_hls_bc9267151625322_1ta-di_h264/480p.m3u8?hdntl=Expires=1783671546~_GO=Generated~acl=/mumbai/4246568_english_hls_bc9267151625322_1ta-di_h264/*~Signature=AfBeBzhTjVK599ZtTchqWOgejrwAgdoEwyVuErsPxVhjIyd_GeDndfE7-irK56kmzJ9S40Q_vY7o0Bd3Phh9tpFIq6oP",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4246568_english_hls_bc9267151625322_1ta-di_h264/540p.m3u8?hdntl=Expires=1783671546~_GO=Generated~acl=/mumbai/4246568_english_hls_bc9267151625322_1ta-di_h264/*~Signature=AfBeBzhTjVK599ZtTchqWOgejrwAgdoEwyVuErsPxVhjIyd_GeDndfE7-irK56kmzJ9S40Q_vY7o0Bd3Phh9tpFIq6oP",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4246568_english_hls_bc9267151625322_1ta-di_h264/720p.m3u8?hdntl=Expires=1783671546~_GO=Generated~acl=/mumbai/4246568_english_hls_bc9267151625322_1ta-di_h264/*~Signature=AfBeBzhTjVK599ZtTchqWOgejrwAgdoEwyVuErsPxVhjIyd_GeDndfE7-irK56kmzJ9S40Q_vY7o0Bd3Phh9tpFIq6oP",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4246568_english_hls_bc9267151625322_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783671546~_GO=Generated~acl=/mumbai/4246568_english_hls_bc9267151625322_1ta-di_h264/*~Signature=AfBeBzhTjVK599ZtTchqWOgejrwAgdoEwyVuErsPxVhjIyd_GeDndfE7-irK56kmzJ9S40Q_vY7o0Bd3Phh9tpFIq6oP"
-          },
-          "cookie": "hdntl=Expires=1783671546~_GO=Generated~acl=/mumbai/4246568_english_hls_bc9267151625322_1ta-di_h264/*~Signature=AfBeBzhTjVK599ZtTchqWOgejrwAgdoEwyVuErsPxVhjIyd_GeDndfE7-irK56kmzJ9S40Q_vY7o0Bd3Phh9tpFIq6oP",
-          "expires": "1783671546",
-          "expire_date": "Friday, July 10, 2026, 1:49:06 PM"
+          "cookie": "",
+          "expires": "1783681925",
+          "expire_date": "Friday, July 10, 2026, 4:42:05 PM"
         }
       }
     },
@@ -235,6 +198,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Kalyani Bengaluru Blasters Vs Coastal Kings Mangaluru",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143446,
+      "status": "UPCOMING",
+      "startTime": "10 July 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Golf",
       "title": "Day 1",
       "tournament": "ISCO Championship 2026",
@@ -254,32 +236,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Belgium Vs Gibraltar",
-      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "match_id": 4246559,
+      "category": "Live Events",
+      "title": "Day 3",
+      "tournament": "Dream UTT Juniors 2026",
+      "match_id": 4246601,
       "status": "UPCOMING",
-      "startTime": "08 July 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Denmark Vs Estonia",
-      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "match_id": 4246561,
-      "status": "UPCOMING",
-      "startTime": "08 July 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+      "startTime": "10 July 2026 09:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -330,32 +293,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Live Events",
-      "title": "Day 3",
-      "tournament": "Dream UTT Juniors 2026",
-      "match_id": 4246601,
-      "status": "UPCOMING",
-      "startTime": "10 July 2026 09:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
-      "language": "BLOODY_SWEET",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
-      "title": "Kalyani Bengaluru Blasters Vs Coastal Kings Mangaluru",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143446,
+      "title": "Denmark Vs Turkiye",
+      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "match_id": 4246568,
       "status": "UPCOMING",
-      "startTime": "10 July 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "startTime": "09 July 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -539,13 +483,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "West Indies Vs New Zealand",
-      "tournament": "New Zealand tour of West Indies, 2026",
-      "match_id": 143603,
+      "category": "Motorsports",
+      "title": "Adac Gt Master Race 1   Nurburgring",
+      "tournament": "DTM 2026",
+      "match_id": 143693,
       "status": "UPCOMING",
-      "startTime": "12 July 2026 12:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
+      "startTime": "11 July 2026 05:05 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM-F2-Mini-Web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -558,13 +502,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "Adac Gt Master Race 1   Nurburgring",
-      "tournament": "DTM 2026",
-      "match_id": 143693,
+      "category": "Cricket",
+      "title": "West Indies Vs New Zealand",
+      "tournament": "New Zealand tour of West Indies, 2026",
+      "match_id": 143603,
       "status": "UPCOMING",
-      "startTime": "11 July 2026 05:05 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM-F2-Mini-Web.png",
+      "startTime": "12 July 2026 12:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
@@ -793,6 +737,44 @@
       "status": "UPCOMING",
       "startTime": "12 July 2026 05:45 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM-F2-Mini-Web.png",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Golf",
+      "title": "Day 4",
+      "tournament": "ISCO Championship 2026",
+      "match_id": 4246550,
+      "status": "UPCOMING",
+      "startTime": "13 July 2026 01:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ISCO-Championship_fc-web.jpg",
+      "language": "BLOODY_SWEET",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Denmark Vs Hungary",
+      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "match_id": 4246570,
+      "status": "UPCOMING",
+      "startTime": "13 July 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
       "language": "BLOODY_SWEET",
       "streams": {
         "primary": "",
