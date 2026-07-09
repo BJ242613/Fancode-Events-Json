@@ -3,33 +3,11 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "9/7/2026, 5:42:27 pm",
+  "updatedAt": "9/7/2026, 10:32:32 pm",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 0,
+  "upcoming_matches": 40,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Zimbabwe Vs Bangladesh",
-      "tournament": "Bangladesh tour of Zimbabwe, 2026",
-      "match_id": 143401,
-      "status": "LIVE",
-      "startTime": "09 July 2026 01:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png",
-      "language": "ENGLISH",
-      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/143401_eng.sonuxs.m3u8"
-    },
-    {
-      "category": "Cricket",
-      "title": "Estonia Vs Norway",
-      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "match_id": 4246566,
-      "status": "UPCOMING",
-      "startTime": "09 July 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
     {
       "category": "Cricket",
       "title": "Romania Vs Gibraltar",
@@ -65,28 +43,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Namibia Vs Vidarbha",
-      "tournament": "Vidarbha Cricket Association tour of Namibia",
-      "match_id": 143632,
-      "status": "UPCOMING",
-      "startTime": "10 July 2026 01:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143632_6150_NAM_VID_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Shivamogga Yodhas Vs Mysore Warriors",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143445,
-      "status": "UPCOMING",
-      "startTime": "10 July 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
       "title": "Belgium Vs Serbia",
       "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
       "match_id": 4246563,
@@ -104,6 +60,28 @@
       "status": "UPCOMING",
       "startTime": "10 July 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Namibia Vs Vidarbha",
+      "tournament": "Vidarbha Cricket Association tour of Namibia",
+      "match_id": 143632,
+      "status": "UPCOMING",
+      "startTime": "10 July 2026 01:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143632_6150_NAM_VID_fc-web.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Shivamogga Yodhas Vs Mysore Warriors",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143445,
+      "status": "UPCOMING",
+      "startTime": "10 July 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -141,39 +119,6 @@
       "cnptv_cdn": null
     },
     {
-      "category": "Cricket",
-      "title": "Romania Vs Serbia",
-      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "match_id": 4246562,
-      "status": "UPCOMING",
-      "startTime": "08 July 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Norway Vs Hungary",
-      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "match_id": 4246560,
-      "status": "UPCOMING",
-      "startTime": "08 July 2026 07:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Denmark Vs Turkiye",
-      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "match_id": 4246568,
-      "status": "UPCOMING",
-      "startTime": "09 July 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
       "category": "MotoGP",
       "title": "Day 1",
       "tournament": "LIQUI MOLY GRAND PRIX OF GERMANY 2026",
@@ -192,6 +137,50 @@
       "status": "UPCOMING",
       "startTime": "10 July 2026 03:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/143597_6148_BOS_BD_fc-web_1782725011549.jpg",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Norway Vs Hungary",
+      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "match_id": 4246560,
+      "status": "UPCOMING",
+      "startTime": "08 July 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Zimbabwe Vs Bangladesh",
+      "tournament": "Bangladesh tour of Zimbabwe, 2026",
+      "match_id": 143401,
+      "status": "UPCOMING",
+      "startTime": "09 July 2026 01:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Denmark Vs Turkiye",
+      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "match_id": 4246568,
+      "status": "UPCOMING",
+      "startTime": "09 July 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Estonia Vs Norway",
+      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "match_id": 4246566,
+      "status": "UPCOMING",
+      "startTime": "09 July 2026 07:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
       "language": null,
       "cnptv_cdn": null
     },
@@ -445,6 +434,17 @@
       "status": "UPCOMING",
       "startTime": "13 July 2026 02:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Live Events",
+      "title": "Day 6",
+      "tournament": "Dream UTT Juniors 2026",
+      "match_id": 4246604,
+      "status": "UPCOMING",
+      "startTime": "13 July 2026 09:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
       "language": null,
       "cnptv_cdn": null
     }
