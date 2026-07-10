@@ -3,11 +3,77 @@
   "Telegram": "https://t.me/Sayan_xyz",
   "GitHub": "https://github.com/Kajju027",
   "name": "CNP-TV FanCode Playlist",
-  "updatedAt": "10/7/2026, 12:34:02 pm",
-  "total_matches": 38,
-  "live_matches": 1,
-  "upcoming_matches": 37,
+  "updatedAt": "10/7/2026, 3:07:44 pm",
+  "total_matches": 39,
+  "live_matches": 8,
+  "upcoming_matches": 32,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Romania Vs Gibraltar",
+      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "match_id": 4246565,
+      "status": "LIVE",
+      "startTime": "10 July 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4246565_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Hungary Vs Estonia",
+      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+      "match_id": 4246573,
+      "status": "LIVE",
+      "startTime": "10 July 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/4246573_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Ireland Women Vs West Indies Women",
+      "tournament": "West Indies Women tour of Ireland, 2026",
+      "match_id": 143143,
+      "status": "LIVE",
+      "startTime": "10 July 2026 03:15 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1783322288950.png",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/143143_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Namibia Vs Vidarbha",
+      "tournament": "Vidarbha Cricket Association tour of Namibia",
+      "match_id": 143632,
+      "status": "LIVE",
+      "startTime": "10 July 2026 01:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143632_6150_NAM_VID_fc-web.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/143632_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Mysore Warriors Vs Shivamogga Yodhas",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143445,
+      "status": "LIVE",
+      "startTime": "10 July 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143416_6134_SY_MW_FC-WEB_1782272593151.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/143445_eng.sonuxs.m3u8"
+    },
+    {
+      "category": "Cricket",
+      "title": "Mysore Warriors Vs Shivamogga Yodhas",
+      "tournament": "Maharaja T20 Trophy, 2026",
+      "match_id": 143445,
+      "status": "LIVE",
+      "startTime": "10 July 2026 02:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143416_6134_SY_MW_FC-WEB_1782272593151.jpg",
+      "language": "KANNADA",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/143445_kan.sonuxs.m3u8"
+    },
     {
       "category": "MotoGP",
       "title": "Day 1",
@@ -21,36 +87,14 @@
     },
     {
       "category": "Cricket",
-      "title": "Romania Vs Gibraltar",
-      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "match_id": 4246565,
-      "status": "UPCOMING",
-      "startTime": "10 July 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Hungary Vs Estonia",
-      "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-      "match_id": 4246573,
-      "status": "UPCOMING",
-      "startTime": "10 July 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Ireland Women Vs West Indies Women",
-      "tournament": "West Indies Women tour of Ireland, 2026",
-      "match_id": 143143,
-      "status": "UPCOMING",
-      "startTime": "10 July 2026 03:15 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1783322288950.png",
-      "language": null,
-      "cnptv_cdn": null
+      "title": "Bost Defenders Vs Band E Amir Dragons",
+      "tournament": "Shpageeza Cricket League, 2026",
+      "match_id": 143597,
+      "status": "LIVE",
+      "startTime": "10 July 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143597_6148_BOS_BD_fc-web_1782725011549.jpg",
+      "language": "ENGLISH",
+      "cnptv_cdn": "https://fancode-cdn.pages.dev/cnp-tv/143597_eng.sonuxs.m3u8"
     },
     {
       "category": "Cricket",
@@ -71,28 +115,6 @@
       "status": "UPCOMING",
       "startTime": "10 July 2026 07:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Namibia Vs Vidarbha",
-      "tournament": "Vidarbha Cricket Association tour of Namibia",
-      "match_id": 143632,
-      "status": "UPCOMING",
-      "startTime": "10 July 2026 01:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143632_6150_NAM_VID_fc-web.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Shivamogga Yodhas Vs Mysore Warriors",
-      "tournament": "Maharaja T20 Trophy, 2026",
-      "match_id": 143445,
-      "status": "UPCOMING",
-      "startTime": "10 July 2026 02:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143416_6134_SY_MW_FC-WEB_1782272593151.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -126,17 +148,6 @@
       "status": "UPCOMING",
       "startTime": "11 July 2026 02:00 PM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Bost Defenders Vs Band E Amir Dragons",
-      "tournament": "Shpageeza Cricket League, 2026",
-      "match_id": 143597,
-      "status": "UPCOMING",
-      "startTime": "10 July 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143597_6148_BOS_BD_fc-web_1782725011549.jpg",
       "language": null,
       "cnptv_cdn": null
     },
@@ -219,23 +230,23 @@
     },
     {
       "category": "Cricket",
-      "title": "Bost Defenders Vs Mis E Ainak Knights",
-      "tournament": "Shpageeza Cricket League, 2026",
-      "match_id": 143599,
-      "status": "UPCOMING",
-      "startTime": "11 July 2026 03:00 PM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/143599_6148_BOS_MAK_fc-web_1782725011567.jpg",
-      "language": null,
-      "cnptv_cdn": null
-    },
-    {
-      "category": "Cricket",
       "title": "West Indies Vs New Zealand",
       "tournament": "New Zealand tour of West Indies, 2026",
       "match_id": 143603,
       "status": "UPCOMING",
       "startTime": "12 July 2026 12:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
+      "language": null,
+      "cnptv_cdn": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Bost Defenders Vs Mis E Ainak Knights",
+      "tournament": "Shpageeza Cricket League, 2026",
+      "match_id": 143599,
+      "status": "UPCOMING",
+      "startTime": "11 July 2026 03:00 PM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/143599_6148_BOS_MAK_fc-web_1782725011567.jpg",
       "language": null,
       "cnptv_cdn": null
     },
